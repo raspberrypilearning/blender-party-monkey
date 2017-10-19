@@ -4,7 +4,7 @@ We need to move the light to shine upon the front of the monkey.
 
 + Select the lamp with the right mouse. Check for the orange border.
 
-+ Move the lamp using the blue, green and red handles to the side front of the monkey's face.
++ Move the lamp using the blue, green and red handles so that it is shining on the front of the monkey's face.
 
 + Press F12 to render the image.
 

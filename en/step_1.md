@@ -6,7 +6,8 @@ Create a 3D model of a monkey wearing a party hat using Blender.
 
 Here is how your finished piece will look:
 
-(put sketchfab thing here)
+<div class="sketchfab-embed-wrapper"><iframe width="640" height="480" src="https://sketchfab.com/models/11edaf9b8d1b4d62b5b30b28a292df71/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
+</div>
 
 
 ### What you will learn

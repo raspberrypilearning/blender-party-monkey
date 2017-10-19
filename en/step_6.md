@@ -20,7 +20,7 @@ In Blender you can move objects by using the blue, green and red handles. The bl
 
 ![Move in and out](images/move-in-and-out.png)
 
-+ Move the cube around your scene to where you want it to be. Now how would the image look?
++ Move the cube around your scene to a different position.
 
 + Press F12 to see what it would look like. For example:
 
@@ -42,4 +42,4 @@ You might see nothing in the camera or only part of the cube. This means that th
 
 ![Same image](images/same-image.png)
 
-+ Press **ESC** to exit.
++ Press **ESC** to exit the render view.
