@@ -25,3 +25,8 @@ Use the link in the footer to access the GitHub repository for this project, whi
 If you prefer, you can watch the whole resource as a video tutorial
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8TXPfOx8jNE?rel=0" frameborder="0" allowfullscreen></iframe>
+
+
+## License
+
+***Party Monkey*** by 3Dami & b3d101, Peter Kemp, Tom Haines, Monique Dewanchand is licenced under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
