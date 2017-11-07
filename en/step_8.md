@@ -26,10 +26,10 @@ Now the cone needs to be positioned on top of the monkey.
 
 Now we need to see what it looks like.
 
-+ Press **F12** to render the image.
++ Press <kbd>F12</kbd> to render the image.
 
 ![Render cone monkey](images/render-cone-monkey.png)
 
 The image shows that the monkey is not very well lit.
 
-+ Press **ESC** to exit the view
++ Press <kbd>ESC</kbd> to exit the view

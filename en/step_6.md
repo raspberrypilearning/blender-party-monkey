@@ -22,13 +22,13 @@ In Blender you can move objects by using the blue, green and red handles. The bl
 
 + Move the cube around your scene to a different position.
 
-+ Press F12 to see what it would look like. For example:
++ Press <kbd>F12</kbd> to see what it would look like. For example:
 
 ![Example render](images/example-render.png)
 
 You might see nothing in the camera or only part of the cube. This means that the object is not (completely) in the camera' s view.
 
-+ Press **ESC** to get out of the view.
++ Press <kbd>ESC</kbd> to get out of the view.
 
 + Move the 3D scene with the middle mouse to behind the camera. For example:
 
@@ -38,8 +38,8 @@ You might see nothing in the camera or only part of the cube. This means that th
 
 ![Cube behind camera](images/cube-behind-camera.png)
 
-+ Press F12 again to render and see how your image looks. You probably will see the same image as before.
++ Press <kbd>F12</kbd> again to render and see how your image looks. You probably will see the same image as before.
 
 ![Same image](images/same-image.png)
 
-+ Press **ESC** to exit the render view.
++ Press <kbd>ESC</kbd> to exit the render view.

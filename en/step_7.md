@@ -4,12 +4,12 @@ We won't be needing the cube, so let's remove it.
 
 + Select the cube with the right mouse. An orange border should appear around the cube.
 + Make sure your mouse is in the 3D view.
-+ Press X to delete the cube.
++ Press <kbd>X</kbd> to delete the cube.
 + You'll be asked whether it's OK to delete the object.
 
 ![Delete object](images/delete-object.png)
 
-+ Select _Delete?_ or press **ENTER**
++ Select _Delete?_ or press <kbd>ENTER</kbd>
 
 To add objects to the scene you can use the toolbox on the left. The toolbox contains a Create tab that has a selection of things that you can add.
 
