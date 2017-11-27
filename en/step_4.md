@@ -1,8 +1,8 @@
 ## The 3D scene
 
-In the 3D view you have your 3D scene. The 3D scene might look a bit like you might see in a computer game for example.
+In the 3D view you have your 3D scene, which looks a bit like what you might see in a computer game for example.
 
-There are 3 main components in the 3D scene that we need to understand to get started.
+There are three main components in the 3D scene that we need to understand to get started.
 
 ### A cube in the centre
 
@@ -22,11 +22,11 @@ By rotating the scene you can see the exact position of the light source.
 
 ### A camera
 
-This is where you will see your scene through.
+This is from where you will see your scene.
 
 ![Camera](images/camera.png)
 
-+ Rotate your scene behind the camera.
++ Rotate your scene so that it is behind the camera.
 
 ![Behind the camera](images/behind-camera.png)
 
