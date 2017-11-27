@@ -9,7 +9,6 @@ Here is how your finished piece will look:
 <div class="sketchfab-embed-wrapper"><iframe width="640" height="480" src="https://sketchfab.com/models/11edaf9b8d1b4d62b5b30b28a292df71/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
 </div>
 
-
 ### What you will learn
 
 This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
@@ -22,7 +21,7 @@ If you need to print this project, please use the [printer-friendly version](htt
 
 Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
 
-If you prefer, you can watch the whole resource as a video tutorial
+If you prefer, you can watch the whole resource as a video tutorial:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8TXPfOx8jNE?rel=0" frameborder="0" allowfullscreen></iframe>
 
