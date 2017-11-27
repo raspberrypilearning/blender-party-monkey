@@ -9,7 +9,7 @@ We won't be needing the cube, so let's remove it.
 
 ![Delete object](images/delete-object.png)
 
-+ Select _Delete?_ or press <kbd>Enter</kbd>.
++ Select **Delete** or press <kbd>Enter</kbd>.
 
 To add objects to the scene, you can use the toolbox on the left. The toolbox on the left contains a **Create** tab that has a selection of things that you can add.
 
