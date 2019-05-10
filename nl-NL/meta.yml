@@ -1,0 +1,28 @@
+---
+title: Feest aap
+hero_image: images/banner.png
+description: Maak met Blender een 3D-model van een aap met een feestmuts
+theme: turquoise
+duration: 2
+listed: true
+ingredient: false
+copyedit: true
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+interests: art
+technologies: blender
+site_areas: projects
+hardware: ''
+software: blender
+version: 4.0.1
+last_tested: 2017-01-01
+steps:
+  - title: Inleiding
+  - title: Wat heb je nodig
+  - title: Zoomen en draaien
+  - title: De 3D-scène
+  - title: Renderen
+  - title: Selecteren en verplaatsen
+  - title: Voeg een aap toe
+  - title: Voeg een hoed toe
+  - title: Verander de belichting
+  - title: "Uitdaging: een nieuwe scène"
