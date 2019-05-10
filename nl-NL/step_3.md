@@ -1,27 +1,27 @@
-## Zooming and rotating
+## Zoomen en draaien
 
 + Open Blender.
 
-When you open Blender, it starts with a splash screen. The splash screen of Blender v2.76 looks like this:
+Wanneer je Blender opent, begint het met een startscherm. Het opstartscherm van Blender v2.76 ziet er als volgt uit:
 
 ![Splash screen](images/splash-screen.png)
 
-For this tutorial we won't be needing the splash screen.
+Voor deze tutorial hebben we geen splash scherm nodig.
 
-+ Click to the right of the splash screen to make it disappear.
++ Klik rechts van het startscherm om het te laten verdwijnen.
 
-In the centre, you'll see the 3D view. In this space you'll be positioning all the items that need to be displayed or rendered. You have three different items in the 3D view already. We will be looking at those later.
+In het midden zie je de 3D-weergave. In deze ruimte plaats je alle items die moeten worden weergegeven of gerenderd. Je ziet al drie verschillende voorwerpen in de 3D-weergave. Daar zullen we later naar kijken.
 
 ![3D view](images/3d-view.png)
 
-In the 3D view, you can zoom in and out using the mouse wheel.
+In de 3D-weergave kun je in- en uitzoomen met het muiswiel.
 
-+ Try to zoom in and out of the cube.
++ Probeer in en uit te zoomen op de kubus.
 
 ![Zoom in and out](images/zoom-in-out.png)
 
-You can rotate the whole scene by pressing the middle mouse button or the mouse wheel and rotating around.
+Je kunt de hele scène draaien door op de middelste muisknop of het muiswiel in te drukken en rond te draaien.
 
-+ Try rotating your scene.
++ Probeer je scène te draaien.
 
 ![Rotate the scene](images/rotate-scene.png)
