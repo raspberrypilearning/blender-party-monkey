@@ -1,7 +1,7 @@
 ---
-title: Party monkey
+title: Feest aap
 hero_image: images/banner.png
-description: Create a 3D model of a monkey in a party hat using Blender
+description: Maak met Blender een 3D-model van een aap met een feestmuts
 theme: turquoise
 duration: 2
 listed: true
@@ -14,25 +14,25 @@ site_areas: projects
 hardware: ''
 software: blender
 version: 4.0.1
-last_tested: 2017-01-01
+last_tested: 2017/01/01
 steps:
   - 
-    title: Introduction
+    title: Inleiding
   - 
-    title: What you will need
+    title: Wat heb je nodig
   - 
-    title: Zooming and rotating
+    title: Zoomen en draaien
   - 
-    title: The 3D scene
+    title: De 3D-scène
   - 
-    title: Rendering
+    title: Renderen
   - 
-    title: Selecting and moving
+    title: Selecteren en verplaatsen
   - 
-    title: Add a monkey
+    title: Voeg een aap toe
   - 
-    title: Add a hat
+    title: Voeg een hoed toe
   - 
-    title: Change the lighting
+    title: Verander de belichting
   - 
-    title: "Challenge: a new scene"
+    title: "Uitdaging: een nieuwe scène"
