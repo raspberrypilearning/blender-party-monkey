@@ -1,9 +1,9 @@
-## What you will need
+## Wat je nodig hebt
 
 ### Hardware
 
-+ A desktop or laptop computer capable of running the Blender software
++ Een desktop- of laptopcomputer die de Blender-software kan uitvoeren
 
 ### Software
 
-+ [Blender](https://www.blender.org/download/){:target="_blank"} (v2.73 or higher)
++ [Blender](https://www.blender.org/download/){: target="_ blank"} (v2.73 of hoger)
