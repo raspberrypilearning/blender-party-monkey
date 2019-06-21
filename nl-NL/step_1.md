@@ -18,12 +18,14 @@ Dit project behandelt elementen uit de volgende onderdelen van het [Raspberry Pi
 
 ### Aanvullende informatie voor clubleiders
 
-Als je dit project wilt afdrukken, gebruik dan de [printervriendelijke versie](https://projects.raspberrypi.org/nl-NL/projects/blender-party-monkey/print){:target="_blank"}.
+Als je dit project wilt afdrukken, gebruik dan de [printervriendelijke versie](https://projects.raspberrypi.org/nl-NL/projects/blender-party-monkey/print){:target ="_blank"}.
 
-Gebruik de link in de voettekst voor toegang tot de GitHub opslagplaats voor dit project, met daarin alle bronnen (inclusief een voorbeeld van een voltooid project) in de map 'nl/bronnen'.
+Gebruik de link in de voettekst voor toegang tot de GitHub opslagplaats voor dit project, met daarin alle bronnen (inclusief een voorbeeld van een voltooid project) in de map ' nl/bronnen'.
 
-Als je wilt, kun je het hele project in een zelfstudie video bekijken: <iframe width="560" height="315" src="https://www.youtube.com/embed/8TXPfOx8jNE?rel=0" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+Als je wilt, kun je het hele project in een zelfstudie video bekijken: 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8TXPfOx8jNE?rel=0" frameborder="0" allowfullscreen></iframe> 
 
 ### Licentie
 
-***Party Monkey*** door 3Dami&amp; b3d101, Peter Kemp, Tom Haines, Monique Dewanchand is gelicentieerd onder een [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+***Party Monkey*** door 3Dami& b3d101, Peter Kemp, Tom Haines, Monique Dewanchand is gelicentieerd onder een [Creative Commons Attribution 4.0 International licentie-](http://creativecommons.org/licenses/by-sa/4.0/).
