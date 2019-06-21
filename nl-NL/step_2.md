@@ -2,7 +2,7 @@
 
 ### Hardware
 
-+ en desktop- of laptopcomputer die de Blender-software kan uitvoeren
++ Een desktop- of laptopcomputer die de Blender-software kan uitvoeren
 
 ### Software
 

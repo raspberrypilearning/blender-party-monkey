@@ -2,7 +2,7 @@
 
 Renderen is het proces waarbij een afbeelding uit een 3D-model wordt gegenereerd.
 
-+ Render de scène door op <kbd>F12</kbd> drukken. Als je op een Mac werkt, druk je op <kbd>FN + F12</kbd>.
++ Render de scène door op <kbd>F12</kbd>drukken. Als je op een Mac werkt, druk je op <kbd>FN + F12</kbd>.
 
 ![Rendered image](images/render.png)
 

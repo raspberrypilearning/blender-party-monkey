@@ -14,7 +14,7 @@ site_areas: projects
 hardware: ''
 software: blender
 version: 4.0.1
-last_tested: 2017-01-01
+last_tested: 2017/01/01
 steps:
   - title: Inleiding
   - title: Wat je nodig hebt
