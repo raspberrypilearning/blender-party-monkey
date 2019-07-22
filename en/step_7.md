@@ -2,7 +2,7 @@
 
 We won't be needing the cube, so let's remove it.
 
-+ Select the cube with the right mouse nutton. An orange border should appear around the cube.
++ Select the cube with the right mouse button. An orange border should appear around the cube.
 + Make sure your mouse is in the 3D view.
 + Press <kbd>X</kbd> to delete the cube.
 + You'll be asked whether it's OK to delete the object.
