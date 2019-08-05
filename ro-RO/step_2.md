@@ -1,9 +1,9 @@
-## What you will need
+## De ce vei avea nevoie
 
 ### Hardware
 
-+ A desktop or laptop computer capable of running the Blender software
++ Un PC sau laptop capabil să ruleze programul Blender
 
 ### Software
 
-+ [Blender](https://www.blender.org/download/){:target="_blank"} (v2.73 or higher)
++ [Blender](https://www.blender.org/download/){:target="_blank"} (v2.73 sau mai nou)
