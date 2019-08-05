@@ -2,7 +2,7 @@
 
 Nu vom avea nevoie de cub, deci să-l eliminăm.
 
-+ Select the cube with the right mouse button. O margine portocalie ar trebui să apară în jurul cubului.
++ Selectează cubul cu butonul drept al mouse-ului. O margine portocalie ar trebui să apară în jurul cubului.
 + Asigură-te că ai cursorul în vizualizarea 3D.
 + Apasă pe <kbd>X</kbd> pentru a șterge cubul.
 + Vei fi întrebat dacă este OK să ștergi obiectul.
