@@ -1,7 +1,7 @@
 ---
-title: Party monkey
+title: Maimuță petrecăreață
 hero_image: images/banner.png
-description: Create a 3D model of a monkey in a party hat using Blender
+description: Creează, folosind Blender, un model 3D al unei maimuțe ce poartă o pălărie de petrecere
 theme: turquoise
 duration: 2
 listed: true
@@ -17,22 +17,22 @@ version: 4.0.1
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
+    title: Introducere
   - 
-    title: What you will need
+    title: De ce vei avea nevoie
   - 
-    title: Zooming and rotating
+    title: Mărirea și rotirea
   - 
-    title: The 3D scene
+    title: Scena 3D
   - 
-    title: Rendering
+    title: Randare
   - 
-    title: Selecting and moving
+    title: Selectarea și mutarea
   - 
-    title: Add a monkey
+    title: Adaugă o maimuță
   - 
-    title: Add a hat
+    title: Adaugă o pălărie
   - 
-    title: Change the lighting
+    title: Schimbă lumina
   - 
-    title: "Challenge: a new scene"
+    title: "Provocare: o scenă nouă"
