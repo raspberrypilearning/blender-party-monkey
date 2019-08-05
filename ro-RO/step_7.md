@@ -1,26 +1,26 @@
-## Add a monkey
+## Adaugă o maimuță
 
-We won't be needing the cube, so let's remove it.
+Nu vom avea nevoie de cub, deci să-l eliminăm.
 
-+ Select the cube with the right mouse nutton. An orange border should appear around the cube.
-+ Make sure your mouse is in the 3D view.
-+ Press <kbd>X</kbd> to delete the cube.
-+ You'll be asked whether it's OK to delete the object.
++ Select the cube with the right mouse button. O margine portocalie ar trebui să apară în jurul cubului.
++ Asigură-te că ai cursorul în vizualizarea 3D.
++ Apasă pe <kbd>X</kbd> pentru a șterge cubul.
++ Vei fi întrebat dacă este OK să ștergi obiectul.
 
-![Delete object](images/delete-object.png)
+![Șterge obiectul](images/delete-object.png)
 
-+ Select **Delete** or press <kbd>Enter</kbd>.
++ Selectează **Delete** sau apasă <kbd>Enter</kbd>.
 
-To add objects to the scene, you can use the toolbox on the left. The toolbox on the left contains a **Create** tab that has a selection of things that you can add.
+Pentru a adăuga obiecte la scenă, poți utiliza meniul de instrumente din stânga. Setul de instrumente din partea stângă conține o opțiune **Create**, care are la rândul ei o selecție de lucruri ce le poți adăuga.
 
-+ In the toolbox, go to the **Create** tab and select **Monkey**.
++ În meniu vei merge la **Create** și vei selecta apoi **Monkey** pentru a adăuga maimuța.
 
-![Select monkey](images/select-monkey.png)
+![Selectează maimuța](images/select-monkey.png)
 
-A monkey appears in your scene.
+O să îți apară o maimuță în scenă.
 
-![A monkey appears](images/monkey-appears.png)
+![Apare o maimuță](images/monkey-appears.png)
 
-+ Position the monkey in front of the camera just like you did with the cube, so that we can see it after rendering. You can use the blue, green, and red handles again to move the monkey.
++ Poziționează maimuța în fața camerei, așa cum ai făcut la cub, astfel încât să îl poți vedea după randare. Poți folosi din nou săgețile pentru a muta maimuța.
 
-![Position the camera](images/camera-monkey.png)
+![Poziția camera](images/camera-monkey.png)
