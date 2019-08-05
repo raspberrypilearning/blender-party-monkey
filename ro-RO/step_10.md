@@ -1,8 +1,8 @@
-## Challenge: a new scene
+## Provocare: o nouă scenă
 
-+ Add more objects from the **Create** tab in the toolbox.
-+ Move the objects around, creating a different scene.
-+ Add a disco ball to the party scene.
-+ Add a rim to the party monkey's hat.
++ Adăugă mai multe obiecte din meniul de instrumente **Create**.
++ Mută obiectele astfel încât să creezi o scenă diferită.
++ Adăugă o minge de disco pe scena cu petrecerea maimuței.
++ Adăugă o margine la pălăria de petrecere a maimuței.
 
-![Challenge](images/challenge.png)
+![Provocare](images/challenge.png)
