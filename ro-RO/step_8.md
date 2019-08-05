@@ -1,35 +1,35 @@
-## Add a hat
+## Adăugă o pălărie
 
-We can also add a hat. For this we will use a cone.
+Poți adăuga, de asemenea, o pălărie pentru maimuță. Pentru aceasta vom folosi un con.
 
-+ Select **Cone** from the **Create** tab.
++ Selectează **Cone** din **Create**.
 
-A cone should appear in your scene. Now you have a monkey and a cone.
+În scenă ar trebui să îți apară un con. Acum ai o maimuță și un con.
 
-![Monkey and cone](images/monkey-and-cone.png)
+![Maimuță și con](images/monkey-and-cone.png)
 
-Now the cone needs to be positioned on top of the monkey.
+Conul va trebui să fie poziționat deasupra maimuței.
 
-+ Rotate and zoom a bit towards the cone and the monkey to have a better view on both objects.
++ Rotește-te (eventual și mărește) un pic înspre con și maimuță astfel încât să poți avea o perspectivă mai bună asupra ambelor obiecte.
 
-![Zoom in on the monkey](images/zoom-monkey.png)
+![Mărește maimuța](images/zoom-monkey.png)
 
-+ Select the cone using the right mouse button. Again an orange border should appear around it.
++ Selectează conul utilizând butonul din dreapta al mouse-ului (click dreapta). Din nou, o margine portocalie ar trebui să apară în jurul obiectului selectat (conul).
 
-+ Use the blue, green, and red handles to move the cone on top of the monkey. You might have to rotate and zoom in or out to get a proper view.
++ Utilizează săgețile pentru a deplasa conul deasupra maimuței. Este posibil să trebuiască să rotești, să mărești sau să micșorezi pentru a obține o perspectiva bună.
 
-![Cone on the monkey](images/cone-monkey.png)
+![Conul de pe maimuță](images/cone-monkey.png)
 
-+ Check from different angles if the the cone is positioned properly on top of the monkey.
++ Verifică din unghiuri diferite dacă ai conul poziționat corect în partea superioară a maimuței.
 
-![Check cone](images/check-cone.png)
+![Verifică conul](images/check-cone.png)
 
-Now we need to see what it looks like.
+Acum, să vedem cum arată.
 
-+ Render the image.
++ Randează imaginea.
 
-![Render cone monkey](images/render-cone-monkey.png)
+![Randează maimuța cu con](images/render-cone-monkey.png)
 
-The image shows that the monkey is not very well lit.
+Din imagine observi că maimuța nu este foarte bine luminată.
 
-+ Press <kbd>ESC</kbd> to exit the render view.
++ Apăsă <kbd>ESC</kbd> pentru a ieși din vizualizarea de randare.
