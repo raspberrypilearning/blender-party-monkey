@@ -2,7 +2,7 @@
 
 We hebben de kubus niet nodig, dus laten we hem verwijderen.
 
-+ Selecteer de kubus met de rechter muisknop. Rondom de kubus zou een oranje rand moeten verschijnen.
++ Select the cube with the right mouse button. Rondom de kubus zou een oranje rand moeten verschijnen.
 + Zorg ervoor dat je muis in de 3D-weergave staat.
 + Druk op <kbd>X</kbd> om de kubus te verwijderen.
 + Je wordt gevraagd of het OK is om het object te verwijderen.
