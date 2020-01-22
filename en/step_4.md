@@ -29,6 +29,7 @@ This is from where you will see your scene.
 + Rotate your scene so that it is behind the camera. An easy way to do this is to press `0` in you number pad, or go to `View` > `Cameras` > `Active Cameras`.
 
 ![active camera](images/camera-view.png)
+
 ![Behind the camera](images/behind-camera.png)
 
 You will see a nice picture of the side of the cube.
