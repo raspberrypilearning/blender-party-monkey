@@ -28,6 +28,8 @@ Acesta este locul de unde vei vedea scena ta.
 
 + Rotește-ți scena astfel încât să fie în spatele camerei. O modalitate ușoară de a face acest lucru este de a apăsa tasta numerică `0`, sau mergi la `View` > `Cameras` > `Active Cameras`.
 
-![cameră activă](images/camera-view.png) ![În spatele camerei](images/behind-camera.png)
+![cameră activă](images/camera-view.png)
 
-Vei vedea cubul din perspectiva camerei.
+![Behind the camera](images/behind-camera.png)
+
+You will see a nice picture of the side of the cube.
