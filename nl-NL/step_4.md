@@ -28,6 +28,8 @@ Dit is van waaruit je je scène zult zien.
 
 + Draai je scène zodat deze zich achter de camera bevindt. Een eenvoudige manier om dit te doen, is door op je nummerriek toetsenbord op `0` te drukken of ga naar `View` > `Cameras` > `Active Cameras`.
 
-![active camera](images/camera-view.png) ![Behind the camera](images/behind-camera.png)
+![active camera](images/camera-view.png)
 
-Je ziet een mooie foto van de zijkant van de kubus.
+![Behind the camera](images/behind-camera.png)
+
+You will see a nice picture of the side of the cube.
