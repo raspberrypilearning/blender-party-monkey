@@ -2,7 +2,7 @@
 title: Feest aap
 hero_image: images/banner.png
 description: Maak met Blender een 3D-model van een aap met een feestmuts
-theme: turquoise
+theme: turquoise #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
 duration: 2
 listed: true
 ingredient: false
