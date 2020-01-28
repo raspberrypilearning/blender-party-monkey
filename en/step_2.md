@@ -2,7 +2,7 @@
 
 + Open Blender.
 
-When you open Blender, it starts with a splash screen. The splash screen of Blender v2.76 looks like this:
+When you open Blender, it starts with a splash screen. The splash screen of Blender v2.81 looks like this:
 
 ![Splash screen](images/splash-screen.png)
 

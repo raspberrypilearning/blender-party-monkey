@@ -1,10 +1,12 @@
 ## Selecting and moving
 
-To select an object in Blender, you'll have to use the right mouse button. In most other software you'd be using the left mouse button  to select an object, but in Blender it's the right one.
+To select an object in Blender, use the left mouse button.
 
-+ Select the cube with the right mouse button. You'll see an orange border around the cube.
++ Select the cube with the left mouse button. You'll see an orange border around the cube.
 
-In Blender you can move objects by using the blue, green, and red handles: The blue handle to go up and down on the z-axis, the green handle to go left and right on the y-axis, and the red handle to go in and out on the x-axis.
+In Blender you can move objects by using the blue, green, and red handles: The blue handle to go up and down on the z-axis, the green handle to go left and right on the y-axis, and the red handle to go in and out on the x-axis. From Blender 2.8, you will need to click on the move gizmo from the list of icons on the left of your screen to make the handles appear.
+
+![Move gizmo](images/move-gizmo.png)
 
 ![Coloured handles](images/coloured-handles.png)
 

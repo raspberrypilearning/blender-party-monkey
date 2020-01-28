@@ -2,7 +2,7 @@
 
 We need to move the light to shine upon the front of the monkey.
 
-+ Select the lamp with the right mouse button. Check for the orange border.
++ Select the lamp with the left mouse button. Check for the orange border.
 
 + Move the lamp using the handles so that it is shining on the front of the monkey's face.
 

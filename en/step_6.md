@@ -2,7 +2,7 @@
 
 We won't be needing the cube, so let's remove it.
 
-+ Select the cube with the right mouse button. An orange border should appear around the cube.
++ Select the cube with the left mouse button. An orange border should appear around the cube.
 + Make sure your mouse is in the 3D view.
 + Press <kbd>X</kbd> to delete the cube.
 + You'll be asked whether it's OK to delete the object.
@@ -11,9 +11,9 @@ We won't be needing the cube, so let's remove it.
 
 + Select **Delete** or press <kbd>Enter</kbd>.
 
-To add objects to the scene, you can use the toolbox on the left. The toolbox on the left contains a **Create** tab that has a selection of things that you can add.
+To add objects to the scene, you can use the **Add** dropdown menu.
 
-+ In the toolbox, go to the **Create** tab and select **Monkey**.
++ In the menu, go to the **Mesh** section and select **Monkey**.
 
 ![Select monkey](images/select-monkey.png)
 

@@ -2,7 +2,7 @@
 
 We can also add a hat. For this we will use a cone.
 
-+ Select **Cone** from the **Create** tab.
++ Select **Cone** from the **Mesh** section.
 
 A cone should appear in your scene. Now you have a monkey and a cone.
 
@@ -14,9 +14,9 @@ Now the cone needs to be positioned on top of the monkey.
 
 ![Zoom in on the monkey](images/zoom-monkey.png)
 
-+ Select the cone using the right mouse button. Again an orange border should appear around it.
++ Select the cone using the left mouse button. Again an orange border should appear around it.
 
-+ Use the blue, green, and red handles to move the cone on top of the monkey. You might have to rotate and zoom in or out to get a proper view.
++ Use the move gizmo and the blue, green, and red handles to move the cone on top of the monkey. You might have to rotate and zoom in or out to get a proper view.
 
 ![Cone on the monkey](images/cone-monkey.png)
 
