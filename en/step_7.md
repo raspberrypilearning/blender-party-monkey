@@ -1,26 +1,35 @@
-## Add a monkey
+## Add a hat
 
-We won't be needing the cube, so let's remove it.
+We can also add a hat. For this we will use a cone.
 
-+ Select the cube with the right mouse button. An orange border should appear around the cube.
-+ Make sure your mouse is in the 3D view.
-+ Press <kbd>X</kbd> to delete the cube.
-+ You'll be asked whether it's OK to delete the object.
++ Select **Cone** from the **Create** tab.
 
-![Delete object](images/delete-object.png)
+A cone should appear in your scene. Now you have a monkey and a cone.
 
-+ Select **Delete** or press <kbd>Enter</kbd>.
+![Monkey and cone](images/monkey-and-cone.png)
 
-To add objects to the scene, you can use the toolbox on the left. The toolbox on the left contains a **Create** tab that has a selection of things that you can add.
+Now the cone needs to be positioned on top of the monkey.
 
-+ In the toolbox, go to the **Create** tab and select **Monkey**.
++ Rotate and zoom a bit towards the cone and the monkey to have a better view on both objects.
 
-![Select monkey](images/select-monkey.png)
+![Zoom in on the monkey](images/zoom-monkey.png)
 
-A monkey appears in your scene.
++ Select the cone using the right mouse button. Again an orange border should appear around it.
 
-![A monkey appears](images/monkey-appears.png)
++ Use the blue, green, and red handles to move the cone on top of the monkey. You might have to rotate and zoom in or out to get a proper view.
 
-+ Position the monkey in front of the camera just like you did with the cube, so that we can see it after rendering. You can use the blue, green, and red handles again to move the monkey.
+![Cone on the monkey](images/cone-monkey.png)
 
-![Position the camera](images/camera-monkey.png)
++ Check from different angles if the the cone is positioned properly on top of the monkey.
+
+![Check cone](images/check-cone.png)
+
+Now we need to see what it looks like.
+
++ Render the image.
+
+![Render cone monkey](images/render-cone-monkey.png)
+
+The image shows that the monkey is not very well lit.
+
++ Press <kbd>ESC</kbd> to exit the render view.

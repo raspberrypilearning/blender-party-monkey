@@ -1,45 +1,26 @@
-## Selecting and moving
+## Add a monkey
 
-To select an object in Blender, you'll have to use the right mouse button. In most other software you'd be using the left mouse button  to select an object, but in Blender it's the right one.
+We won't be needing the cube, so let's remove it.
 
-+ Select the cube with the right mouse button. You'll see an orange border around the cube.
++ Select the cube with the right mouse button. An orange border should appear around the cube.
++ Make sure your mouse is in the 3D view.
++ Press <kbd>X</kbd> to delete the cube.
++ You'll be asked whether it's OK to delete the object.
 
-In Blender you can move objects by using the blue, green, and red handles: The blue handle to go up and down on the z-axis, the green handle to go left and right on the y-axis, and the red handle to go in and out on the x-axis.
+![Delete object](images/delete-object.png)
 
-![Coloured handles](images/coloured-handles.png)
++ Select **Delete** or press <kbd>Enter</kbd>.
 
-+ Move the cube up by pressing the blue handle with the left mouse button and moving it up. When you press the blue handle, you'll see a blue line appear. Move the cube along the blue line.
+To add objects to the scene, you can use the toolbox on the left. The toolbox on the left contains a **Create** tab that has a selection of things that you can add.
 
-![Move up](images/move-up.png)
++ In the toolbox, go to the **Create** tab and select **Monkey**.
 
-+ Move the cube to the right by pressing the green handle with the left mouse button and moving it to the right. When you press the green handle, you'll see a green line appear. Move the cube along the green line.
+![Select monkey](images/select-monkey.png)
 
-![Move right](images/move-right.png)
+A monkey appears in your scene.
 
-+ Move the cube in or out by pressing the red handle with the left mouse button and moving it back and forth. When you press the red handle, you'll see a red line appear. Move the cube along the red line.
+![A monkey appears](images/monkey-appears.png)
 
-![Move in and out](images/move-in-and-out.png)
++ Position the monkey in front of the camera just like you did with the cube, so that we can see it after rendering. You can use the blue, green, and red handles again to move the monkey.
 
-+ Move the cube around your scene to a different position.
-
-+ Go to the render view to see what it will look like. For example:
-
-![Example render](images/example-render.png)
-
-You might see nothing or only part of the cube. This means that the object is not (completely) in the camera's view.
-
-+ Press <kbd>ESC</kbd> to get out of the render view.
-
-+ Move the 3D scene with the middle mouse button to behind the camera. For example:
-
-![Move behind camera](images/move-behind-camera.png)
-
-+ Move the cube using the blue, green, and red handles such that you can see the cube from behind the camera.
-
-![Cube behind camera](images/cube-behind-camera.png)
-
-+ Render again to see how your image looks. You probably will see the same image as before.
-
-![Same image](images/same-image.png)
-
-+ Press <kbd>ESC</kbd> to exit the render view.
+![Position the camera](images/camera-monkey.png)

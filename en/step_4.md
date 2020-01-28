@@ -1,36 +1,11 @@
-## The 3D scene
+## Rendering
 
-In the 3D view you have your 3D scene, which looks a bit like what you might see in a computer game for example.
+Rendering is the process of generating an image from a 3D model.
 
-There are three main components in the 3D scene that we need to understand to get started.
++ Render the scene by pressing <kbd>F12</kbd>. If you're working on a Mac, press <kbd>FN + F12</kbd>.
 
-### A cube in the centre
+![Rendered image](images/render.png)
 
-This is what is going to be rendered and shown in the image.
+You can see that the top and right side of the cube are lit, but the left side is dark. That's because the light source is on the top right side of the cube.
 
-![Centre cube](images/centre-cube.png)
-
-### A light source
-
-By rotating the scene you can see the exact position of the light source.
-
-![Light source](images/light-source.png)
-
-+ Rotate your scene until you see the top of the light source.
-
-![Light source top](images/light-source-top.png)
-
-### A camera
-
-This is from where you will see your scene.
-
-![Camera](images/camera.png)
-
-+ Rotate your scene so that it is behind the camera. An easy way to do this is to press `0` in you number pad, or go to `View` > `Cameras` > `Active Cameras`.
-
-![active camera](images/camera-view.png)
-
-![Behind the camera](images/behind-camera.png)
-
-You will see a nice picture of the side of the cube.
-
++ Press <kbd>ESC</kbd> to get out of the render view.
