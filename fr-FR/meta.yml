@@ -19,18 +19,18 @@ steps:
   - 
     title: Introduction
   - 
-    title: Zooming and rotating
+    title: Zoom et rotation
   - 
-    title: The 3D scene
+    title: La scène 3D
   - 
-    title: Rendering
+    title: Le rendu
   - 
-    title: Selecting and moving
+    title: Sélection et déplacement
   - 
-    title: Add a monkey
+    title: Ajouter un singe
   - 
-    title: Add a hat
+    title: Ajouter un chapeau
   - 
-    title: Change the lighting
+    title: Modifier l'éclairage
   - 
-    title: "Challenge: a new scene"
+    title: "Défi : une nouvelle scène"
