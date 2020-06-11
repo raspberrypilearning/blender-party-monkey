@@ -1,34 +1,34 @@
-## The 3D scene
+## Scena 3D
 
-In the 3D view you have your 3D scene, which looks a bit like what you might see in a computer game for example.
+În vizualizarea 3D ai propria scena 3D, care arată asemănător cu ceea ce ai putea vedea într-un joc pe calculator, de exemplu.
 
-There are three main components in the 3D scene that we need to understand to get started.
+Există trei componente principale în scena 3D pe care trebuie să le înțelegem pentru a începe.
 
-### A cube in the centre
+### Un cub în centru
 
-This is what is going to be rendered and shown in the image.
+Aceasta este obiectul ce va fi randat și arătat la final.
 
-![Centre cube](images/centre-cube.png)
+![Cubul din centru](images/centre-cube.png)
 
-### A light source
+### O sursă de lumină
 
-By rotating the scene you can see the exact position of the light source.
+Prin rotirea scenei poți vedea poziția exactă a sursei de lumină.
 
-![Light source](images/light-source.png)
+![Sursă de lumină](images/light-source.png)
 
-+ Rotate your scene until you see the top of the light source.
++ Rotește scena până când vezi partea superioară a sursei de lumină.
 
-![Light source top](images/light-source-top.png)
+![Sursă de lumină văzută de deasupra](images/light-source-top.png)
 
-### A camera
+### O cameră
 
-This is from where you will see your scene.
+Acesta este locul de unde vei vedea scena ta.
 
 ![Camera](images/camera.png)
 
-+ Rotate your scene so that it is behind the camera. An easy way to do this is to press `0` in you number pad, or go to `View` > `Cameras` > `Active Cameras`.
++ Rotește-ți scena astfel încât să fie în spatele camerei. O modalitate ușoară de a face acest lucru este de a apăsa tasta numerică `0`, sau mergi la `View` > `Cameras` > `Active Cameras`.
 
-![active camera](images/camera-view.png)
+![cameră activă](images/camera-view.png)
 
 ![Behind the camera](images/behind-camera.png)
 
