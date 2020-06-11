@@ -1,35 +1,35 @@
-## The 3D scene
+## Η τρισδιάστατη σκηνή
 
-In the 3D view you have your 3D scene, which looks a bit like what you might see in a computer game for example.
+Στην τρισδιάστατη προβολή έχεις την τρισδιάστατη σκηνή, η οποία θυμίζει λίγο αυτό που θα δεις σε ένα παιχνίδι υπολογιστή.
 
-There are three main components in the 3D scene that we need to understand to get started.
+Υπάρχουν τρία κύρια στοιχεία στη σκηνή που πρέπει να κατανοήσουμε για να ξεκινήσουμε.
 
-### A cube in the centre
+### Κύβος στο κέντρο
 
-This is what is going to be rendered and shown in the image.
+Αυτό θα αποδίδεται και θα εμφανίζεται στην εικόνα.
 
-![Centre cube](images/centre-cube.png)
+![Κεντρικός κύβος](images/centre-cube.png)
 
-### A light source
+### Πηγή φωτός
 
-By rotating the scene you can see the exact position of the light source.
+Περιστρέφοντας τη σκηνή μπορείς να δεις την ακριβή θέση της πηγής φωτός.
 
-![Light source](images/light-source.png)
+![Πηγή φωτός](images/light-source.png)
 
-+ Rotate your scene until you see the top of the light source.
++ Γύρισε τη σκηνή σου μέχρι να δεις την πηγή φωτός.
 
-![Light source top](images/light-source-top.png)
+![Πηγή φωτός](images/light-source-top.png)
 
-### A camera
+### Κάμερα
 
-This is from where you will see your scene.
+Αυτή είναι από όπου θα δεις τη σκηνή σου.
 
-![Camera](images/camera.png)
+![Κάμερα](images/camera.png)
 
-+ Rotate your scene so that it is behind the camera. An easy way to do this is to press `0` in you number pad, or go to `View` > `Cameras` > `Active Cameras`.
++ Κάνε περιστροφή της σκηνής σου έτσι ώστε να βρίσκεται πίσω από την κάμερα. Ένας εύκολος τρόπος για να το κάνεις αυτό είναι να πατήσετε `0` στο αριθμητικό πληκτρολόγιο ή πας στο μενού `View` > `Cameras` > `Active Cameras`.
 
-![active camera](images/camera-view.png)
+![ενεργή κάμερα](images/camera-view.png)
 
-![Behind the camera](images/behind-camera.png)
+![Πίσω από την κάμερα](images/behind-camera.png)
 
-You will see a nice picture of the side of the cube.
+Θα δεις μια ωραία πλαϊνή εικόνα του κύβου.
