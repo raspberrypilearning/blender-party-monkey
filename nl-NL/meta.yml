@@ -19,20 +19,18 @@ steps:
   - 
     title: Inleiding
   - 
-    title: Wat heb je nodig
+    title: Zooming and rotating
   - 
-    title: Zoomen en draaien
+    title: The 3D scene
   - 
-    title: De 3D-scène
+    title: Rendering
   - 
-    title: Renderen
+    title: Selecting and moving
   - 
-    title: Selecteren en verplaatsen
+    title: Add a monkey
   - 
-    title: Voeg een aap toe
+    title: Add a hat
   - 
-    title: Voeg een hoed toe
+    title: Change the lighting
   - 
-    title: Verander de belichting
-  - 
-    title: "Uitdaging: een nieuwe scène"
+    title: "Challenge: a new scene"
