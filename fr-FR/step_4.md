@@ -1,4 +1,4 @@
-## Rendering
+## Le rendu
 
 Le rendu est le processus de génération d'une image à partir d'un modèle 3D.
 
