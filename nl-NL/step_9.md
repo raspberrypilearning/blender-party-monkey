@@ -1,15 +1,8 @@
-## Verander de belichting
+## Challenge: a new scene
 
-We moeten het licht laten schijnen op de voorkant van de aap.
++ Add more objects from the **Create** tab in the toolbox.
++ Move the objects around, creating a different scene.
++ Add a disco ball to the party scene.
++ Add a rim to the party monkey's hat.
 
-+ Selecteer de lamp met de rechtermuisknop. Zorg ervoor dat je de oranje rand ziet.
-
-+ Verplaats de lamp met de handgrepen zodat deze op de voorkant van het gezicht van de aap schijnt.
-
-+ Render de afbeelding opnieuw.
-
-+ Controleer of het gezicht van de aap goed verlicht is, zoals in de onderstaande afbeelding.
-
-![Well lit](images/well-lit.png)
-
-+ Als het niet goed verlicht is, druk je op <kbd>ESC</kbd> en verplaats je de lamp een beetje meer in de richting van het gezicht van de aap.
+![Challenge](images/challenge.png)
