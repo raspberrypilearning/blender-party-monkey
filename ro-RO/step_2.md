@@ -1,27 +1,27 @@
-## Zooming and rotating
+## Mărirea și rotirea
 
-+ Open Blender.
++ Deschide Blender.
 
-When you open Blender, it starts with a splash screen. The splash screen of Blender v2.81 looks like this:
+Când deschizi Blender, va apărea un ecran de pornire. The splash screen of Blender v2.81 looks like this:
 
-![Splash screen](images/splash-screen.png)
+![Ecran de pornire](images/splash-screen.png)
 
-For this tutorial we won't be needing the splash screen.
+Pentru acest tutorial nu vei mai avea nevoie de ecranul de pornire.
 
-+ Click to the right of the splash screen to make it disappear.
++ Dă click dreapta și ecranul de pornire va dispărea.
 
-In the centre, you'll see the 3D view. In this space you'll be positioning all the items that need to be displayed or rendered. You have three different items in the 3D view already. We will be looking at those later.
+În centru, vei vedea vizualizarea 3D. În acest spațiu vei poziționa toate elementele care trebuie afișate sau randate. Ai deja trei elemente diferite în vizualizarea 3D. Vom analiza aceste obiecte mai târziu.
 
-![3D view](images/3d-view.png)
+![Vizualizare 3D](images/3d-view.png)
 
-In the 3D view, you can zoom in and out using the mouse wheel.
+În vizualizarea 3D, poți mări și micșora folosind rotița mouse-ului.
 
-+ Try to zoom in and out of the cube.
++ Încearcă să mărești și să micșorezi cubul.
 
-![Zoom in and out](images/zoom-in-out.png)
+![Mărire și micșorare](images/zoom-in-out.png)
 
-You can rotate the whole scene by pressing the middle mouse button or the mouse wheel and rotating around.
+Poți roti întreaga scenă apăsând butonul din mijloc al mouse-ului sau apăsând rotița mouse-ului in timp ce îl rotești.
 
-+ Try rotating your scene.
++ Încearcă să rotești scena.
 
-![Rotate the scene](images/rotate-scene.png)
+![Rotește scena](images/rotate-scene.png)
