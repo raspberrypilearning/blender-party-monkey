@@ -1,47 +1,47 @@
-## Selecting and moving
+## Auswählen und verschieben
 
 To select an object in Blender, use the left mouse button.
 
-+ Select the cube with the left mouse button. You'll see an orange border around the cube.
++ Select the cube with the left mouse button. Du siehst einen orangefarbenen Rand um den Würfel.
 
-In Blender you can move objects by using the blue, green, and red handles: The blue handle to go up and down on the z-axis, the green handle to go left and right on the y-axis, and the red handle to go in and out on the x-axis. From Blender 2.8, you will need to click on the move gizmo from the list of icons on the left of your screen to make the handles appear.
+Du kannst in Blender Objekte verschieben, indem du den blauen, grünen und roten Pfeil verwendest: der blaue Pfeil verschiebt auf der z-Achse nach oben und unten, der grüne Pfeil verschiebt auf der y-Achse nach links und rechts und der rote Pfeil zieht das Objekt auf der x-Achse näher heran oder schiebt es weiter weg. From Blender 2.8, you will need to click on the move gizmo from the list of icons on the left of your screen to make the handles appear.
 
 ![Move gizmo](images/move-gizmo.png)
 
-![Coloured handles](images/coloured-handles.png)
+![Farbige Pfeile](images/coloured-handles.png)
 
-+ Move the cube up by pressing the blue handle with the left mouse button and moving it up. When you press the blue handle, you'll see a blue line appear. Move the cube along the blue line.
++ Bewege den Würfel nach oben, indem du den blauen Pfeil mit der linken Maustaste anklickst und die Maus nach oben bewegst. Wenn du den blauen Pfeil anklickst, wird eine blaue Linie angezeigt. Bewege den Würfel entlang der blauen Linie.
 
-![Move up](images/move-up.png)
+![Nach oben](images/move-up.png)
 
-+ Move the cube to the right by pressing the green handle with the left mouse button and moving it to the right. When you press the green handle, you'll see a green line appear. Move the cube along the green line.
++ Schiebe den Würfel nach rechts, indem du den grünen Pfeil mit der linken Maustaste anklickst und nach rechts bewegst. Sobald du den grünen Pfeil anklickst, wird eine grüne Linie angezeigt. Verschieben den Würfel entlang der grünen Linie.
 
-![Move right](images/move-right.png)
+![Nach rechts](images/move-right.png)
 
-+ Move the cube in or out by pressing the red handle with the left mouse button and moving it back and forth. When you press the red handle, you'll see a red line appear. Move the cube along the red line.
++ Ziehe den Würfel näher heran oder schiebe ihn weg indem du mit der linken Maustaste den roten Pfeil anklickst und die Maus vor- und zurück bewegst. Wenn du den roten Pfeil anklickst, erscheint eine rote Linie. Bewege den Würfel entlang der roten Linie.
 
-![Move in and out](images/move-in-and-out.png)
+![Näher heran und weiter weg](images/move-in-and-out.png)
 
-+ Move the cube around your scene to a different position.
++ Verschiebe den Würfel an eine andere Stelle.
 
-+ Go to the render view to see what it will look like. For example:
++ Gehe in die Renderansicht, um zu sehen, wie das Ergebnis aussehen wird. Zum Beispiel:
 
-![Example render](images/example-render.png)
+![Beispiel Bild](images/example-render.png)
 
-You might see nothing or only part of the cube. This means that the object is not (completely) in the camera's view.
+Möglicherweise siehst du nichts oder nur einen Teil des Würfels. Das bedeutet, dass sich das Objekt nicht (vollständig) im Blickwinkel der Kamera befindet.
 
-+ Press <kbd>ESC</kbd> to get out of the render view.
++ Drücke <kbd> ESC </kbd> um die Renderansicht zu verlassen.
 
-+ Move the 3D scene with the middle mouse button to behind the camera. For example:
++ Bewege die 3D-Szene mit der mittleren Maustaste vor die Kamera. Zum Beispiel:
 
-![Move behind camera](images/move-behind-camera.png)
+![Vor die Kamera schieben](images/move-behind-camera.png)
 
-+ Move the cube using the blue, green, and red handles such that you can see the cube from behind the camera.
++ Benutze den blauen, grünen und roten Pfeil um den Würfel so zu verschieben, dass du ihn vor der Kamera sehen kannst.
 
-![Cube behind camera](images/cube-behind-camera.png)
+![Würfel vor der Kamera](images/cube-behind-camera.png)
 
-+ Render again to see how your image looks. You probably will see the same image as before.
++ Rendere die Szene erneut um zu sehen, wie das Bild aussieht. Wahrscheinlich wirst du das gleiche Bild wie zuvor sehen.
 
-![Same image](images/same-image.png)
+![Gleiches Bild](images/same-image.png)
 
-+ Press <kbd>ESC</kbd> to exit the render view.
++ Drücke <kbd> ESC </kbd> um die Renderansicht zu verlassen.
