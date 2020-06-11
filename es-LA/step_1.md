@@ -26,22 +26,22 @@ Este proyecto contiene elementos de los siguientes aspectos de [Raspberry Pi Dig
 
 ### Hardware
 
-+ A desktop or laptop computer capable of running the Blender software
++ Una computadora o laptop que permita ejecutar el software Blender
 
-### Software
+### Programa
 
-+ [Blender](https://www.blender.org/download/){:target="_blank"} (v2.8 or newer)
++ [Blender](https://www.blender.org/download/){:target="_blank"} (v2.8 o más reciente)
 
 \--- /collapse \---
 
-### Additional information for educators
+### Información adicional para educadores
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/blender-party-monkey/print){:target="_blank"}.
+Si necesitas imprimir este proyecto, por favor utiliza la [printer-friendly version](https://projects.raspberrypi.org/en/projects/blender-party-monkey/print){:target="_blank"}.
 
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+Utiliza el link que aparece en el pie de página para acceder al repositorio de GitHub de este proyecto que contiene todos los recursos (incluyendo un ejemplo de un proyecto terminado) en la carpeta 'en/resources'.
 
-If you prefer, you can watch the whole resource as a video tutorial: <iframe width="560" height="315" src="https://www.youtube.com/embed/93ux_JliBew" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+Si prefieres, puedes ver todos los materiales como un video tutorial: <iframe width="560" height="315" src="https://www.youtube.com/embed/93ux_JliBew" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
 
-### License
+### Licencia
 
-***Party Monkey*** by 3Dami & b3d101, Peter Kemp, Tom Haines, Monique Dewanchand is licenced under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+***La fiesta del mono*** de 3Dami & b3d101, Peter Kemp, Tom Haines, Monique Dewanchand está licenciado por [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
