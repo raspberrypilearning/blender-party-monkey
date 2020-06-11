@@ -1,35 +1,35 @@
-## Add a hat
+## Ajouter un chapeau
 
-We can also add a hat. For this we will use a cone.
+Nous pouvons également ajouter un chapeau. Pour cela, nous utiliserons un cône.
 
 + Select **Cone** from the **Mesh** section.
 
-A cone should appear in your scene. Now you have a monkey and a cone.
+Un cône devrait apparaître dans ta scène. Maintenant tu as un singe et un cône.
 
-![Monkey and cone](images/monkey-and-cone.png)
+![Singe et cône](images/monkey-and-cone.png)
 
-Now the cone needs to be positioned on top of the monkey.
+Maintenant le cône doit être positionné au-dessus du singe.
 
-+ Rotate and zoom a bit towards the cone and the monkey to have a better view on both objects.
++ Fais pivoter et zoome un peu vers le cône et le singe pour avoir une meilleure vue sur les deux objets.
 
-![Zoom in on the monkey](images/zoom-monkey.png)
+![Zoom avant sur le singe](images/zoom-monkey.png)
 
-+ Select the cone using the left mouse button. Again an orange border should appear around it.
++ Select the cone using the left mouse button. Une fois de plus, un contour orange devrait apparaître autour de lui.
 
-+ Use the move gizmo and the blue, green, and red handles to move the cone on top of the monkey. You might have to rotate and zoom in or out to get a proper view.
++ Use the move gizmo and the blue, green, and red handles to move the cone on top of the monkey. Tu devras peut-être faire pivoter et faire un zoom avant ou arrière pour avoir une bonne vue.
 
-![Cone on the monkey](images/cone-monkey.png)
+![Cône sur le singe](images/cone-monkey.png)
 
-+ Check from different angles if the the cone is positioned properly on top of the monkey.
++ Vérifie sous différents angles si le cône est correctement positionné au-dessus du singe.
 
-![Check cone](images/check-cone.png)
+![Vérifier le cône](images/check-cone.png)
 
-Now we need to see what it looks like.
+Maintenant, nous devons voir à quoi cela ressemble.
 
-+ Render the image.
++ Fais un rendu de l'image.
 
-![Render cone monkey](images/render-cone-monkey.png)
+![Rendu singe cône](images/render-cone-monkey.png)
 
-The image shows that the monkey is not very well lit.
+L'image montre que le singe n'est pas très bien éclairé.
 
 + Press <kbd>ESC</kbd> to exit the render view.
