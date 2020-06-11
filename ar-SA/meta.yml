@@ -19,18 +19,18 @@ steps:
   - 
     title: المقدمة
   - 
-    title: Zooming and rotating
+    title: تكبير وتدوير
   - 
-    title: The 3D scene
+    title: المشهد الثلاثي الأبعاد
   - 
-    title: Rendering
+    title: استدعاء
   - 
-    title: Selecting and moving
+    title: اختيار و نقل
   - 
-    title: Add a monkey
+    title: أضف قرد
   - 
-    title: Add a hat
+    title: أضف قبعة
   - 
-    title: Change the lighting
+    title: تغيير الإضاءة
   - 
-    title: "Challenge: a new scene"
+    title: "التحدي: مشهد جديد"
