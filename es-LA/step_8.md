@@ -1,15 +1,15 @@
-## Change the lighting
+## Cambia la luz
 
-We need to move the light to shine upon the front of the monkey.
+Necesitamos mover la luz para iluminar la parte frontal de la cara del mono.
 
-+ Select the lamp with the left mouse button. Check for the orange border.
++ Select the lamp with the left mouse button. Comprueba que aparece el borde anaranjado.
 
-+ Move the lamp using the handles so that it is shining on the front of the monkey's face.
++ Mueve la lámpara usando los controles para que brille en la parte frontal de la cara del mono.
 
-+ Render the image again.
++ Ve a la escena del diseño gráfico otra vez.
 
-+ Check whether the monkey's face is well lit, like in the image below.
++ Comprueba si la cara del mono está bien iluminada, como en la imagen de abajo.
 
-![Well lit](images/well-lit.png)
+![Bien iluminado](images/well-lit.png)
 
-+ If it isn't, press <kbd>ESC</kbd> and move the lamp a bit more towards the monkey's face.
++ Si no es así, presiona <kbd>ESC</kbd> y mueve la lámpara un poco más hacia la cara del mono.
