@@ -1,10 +1,10 @@
-## Introduction
+## Εισαγωγή
 
-Create a 3D model of a monkey wearing a party hat using Blender.
+Δημιούργησε ένα τρισδιάστατο μοντέλο μιας μαϊμούς με ένα γιορτινό καπέλο χρησιμοποιώντας το Blender.
 
-### What you will make
+### Τι θα φτιάξεις
 
-Here is how your finished piece will look:
+Δες πώς θα φαίνεται το τελικό σχέδιο:
 
 <div class="responsive-embed responsive-embed--video">
   <iframe class="responsive-embed__iframe" src="https://sketchfab.com/models/11edaf9b8d1b4d62b5b30b28a292df71/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
@@ -12,36 +12,36 @@ Here is how your finished piece will look:
 
 ## \--- collapse \---
 
-## title: "What you will learn"
+## title: Τι θα μάθεις
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+Αυτό το έργο καλύπτει στοιχεία από τις ακόλουθες πτυχές του [Raspberry Pi Digital Curriculum Making](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [Design basic 2D and 3D assets](https://curriculum.raspberrypi.org/design/creator/){:target="_blank"}
++ [Σχεδιασμός βασικών στοιχείων 2D και 3D](https://curriculum.raspberrypi.org/design/creator/)"{:target="_blank"}
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: "What you will need"
+## title: Τι θα χρειαστείς
 
 ### Υλικό
 
-+ A desktop or laptop computer capable of running the Blender software
++ Ένας επιτραπέζιος ή φορητός υπολογιστής ικανός να τρέχει το λογισμικό Blender
 
 ### Λογισμικό
 
-+ [Blender](https://www.blender.org/download/){:target="_blank"} (v2.8 or newer)
++ [Blender](https://www.blender.org/download/){:target="_blank"} (έκδοση 2.8 ή νεότερη)
 
 \--- /collapse \---
 
-### Additional information for educators
+### Πρόσθετες πληροφορίες για εκπαιδευτικούς
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/blender-party-monkey/print){:target="_blank"}.
+Αν χρειαστεί να εκτυπώσεις αυτό το έργο, χρησιμοποίησε την [εκτυπώσιμη έκδοση](https://projects.raspberrypi.org/en/projects/blender-party-monkey/print)"{:target="_blank"}.
 
-Χρησιμοποίησε το σύνδεσμο στο υποσέλιδο για να αποκτήσεις πρόσβαση στο αποθετήριο GitHub για αυτό το έργο, το οποίο περιέχει όλους τους πόρους (συμπεριλαμβανομένου ενός ολοκληρωμένου έργου) στο φάκελο 'en/resources'.
+Χρησιμοποίησε τον σύνδεσμο στο υποσέλιδο για να αποκτήσεις πρόσβαση στο αποθετήριο GitHub γι΄ αυτό το έργο, το οποίο περιέχει όλους τους πόρους (συμπεριλαμβανομένου ενός ολοκληρωμένου έργου) στο φάκελο 'en/resources'.
 
-If you prefer, you can watch the whole resource as a video tutorial: <iframe width="560" height="315" src="https://www.youtube.com/embed/93ux_JliBew" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+Αν προτιμάς, μπορείς να παρακολουθήσεις όλο το περιεχόμενο ως εκπαιδευτικό βίντεο: <iframe width="560" height="315" src="https://www.youtube.com/embed/93ux_JliBew" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
 
-### License
+### Άδεια
 
-***Party Monkey*** by 3Dami & b3d101, Peter Kemp, Tom Haines, Monique Dewanchand is licenced under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+Το ***Party Monkey*** από 3Dami & b3d101, Peter Kemp, Tom Haines, Monique Dewanchand έχει λάβει άδεια από την [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
