@@ -1,27 +1,27 @@
-## Zooming and rotating
+## Zoomen und drehen
 
-+ Open Blender.
++ Starte Blender.
 
-When you open Blender, it starts with a splash screen. The splash screen of Blender v2.81 looks like this:
+Ein Startbildschirm erscheint sobald du Blender öffnest. Der Startbildschirm von Blender v2.81 sieht folgendermaßen aus:
 
-![Splash screen](images/splash-screen.png)
+![Startbildschirm](images/splash-screen.png)
 
-For this tutorial we won't be needing the splash screen.
+Für dieses Tutorial brauchen wir den Startbildschirm nicht.
 
-+ Click to the right of the splash screen to make it disappear.
++ Klicke rechts neben dem Startbildschirm um ihn auszublenden.
 
-In the centre, you'll see the 3D view. In this space you'll be positioning all the items that need to be displayed or rendered. You have three different items in the 3D view already. We will be looking at those later.
+In der Mitte siehst du die 3D-Ansicht. In diesem Bereich positionierst du alle Elemente, die angezeigt oder gerendert werden müssen. Du hast bereits drei verschiedene Elemente in der 3D-Ansicht. Wir werden uns diese später ansehen.
 
-![3D view](images/3d-view.png)
+![3D Ansicht](images/3d-view.png)
 
-In the 3D view, you can zoom in and out using the mouse wheel.
+Mit dem Mausrad kannst du die 3D-Ansicht vergrößern und zu verkleinern.
 
-+ Try to zoom in and out of the cube.
++ Versuche den Würfel zu vergrößern und zu verkleinern.
 
-![Zoom in and out](images/zoom-in-out.png)
+![Vergrößern und verkleinern](images/zoom-in-out.png)
 
-You can rotate the whole scene by pressing the middle mouse button or the mouse wheel and rotating around.
+Du kannst die gesamte Bühne durch Drücken der mittleren Maustaste oder des Mausrades drehen.
 
-+ Try rotating your scene.
++ Versuche die Bühne zu drehen.
 
-![Rotate the scene](images/rotate-scene.png)
+![Drehen der Bühne](images/rotate-scene.png)
