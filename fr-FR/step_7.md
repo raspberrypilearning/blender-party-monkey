@@ -32,4 +32,4 @@ Maintenant, nous devons voir à quoi cela ressemble.
 
 L'image montre que le singe n'est pas très bien éclairé.
 
-+ Press <kbd>ESC</kbd> to exit the render view.
++ Appuie sur <kbd>ECHAP</kbd> pour quitter la vue de rendu.
