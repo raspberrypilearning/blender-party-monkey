@@ -1,8 +1,8 @@
-## Selecting and moving
+## 선택 및 이동하기
 
 To select an object in Blender, use the left mouse button.
 
-+ Select the cube with the left mouse button. You'll see an orange border around the cube.
++ Select the cube with the left mouse button. 큐브 주위에 주황색 테두리가 나타납니다.
 
 In Blender you can move objects by using the blue, green, and red handles: The blue handle to go up and down on the z-axis, the green handle to go left and right on the y-axis, and the red handle to go in and out on the x-axis. From Blender 2.8, you will need to click on the move gizmo from the list of icons on the left of your screen to make the handles appear.
 
@@ -10,21 +10,21 @@ In Blender you can move objects by using the blue, green, and red handles: The b
 
 ![Coloured handles](images/coloured-handles.png)
 
-+ Move the cube up by pressing the blue handle with the left mouse button and moving it up. When you press the blue handle, you'll see a blue line appear. Move the cube along the blue line.
++ 마우스 왼쪽 버튼으로 파란색 핸들을 누르고 위로 움직여 큐브를 위로 이동하세요. 파란색 핸들을 누르면 파란색 선이 나타납니다. 파란색 선을 따라 큐브를 이동하세요.
 
 ![Move up](images/move-up.png)
 
-+ Move the cube to the right by pressing the green handle with the left mouse button and moving it to the right. When you press the green handle, you'll see a green line appear. Move the cube along the green line.
++ 마우스 왼쪽 버튼으로 녹색 핸들을 누르고 오른쪽으로 이동하여 큐브를 오른쪽으로 이동하세요. 녹색 손잡이를 누르면 녹색 선이 나타납니다. 녹색 선을 따라 큐브를 이동하세요.
 
 ![Move right](images/move-right.png)
 
-+ Move the cube in or out by pressing the red handle with the left mouse button and moving it back and forth. When you press the red handle, you'll see a red line appear. Move the cube along the red line.
++ 마우스 왼쪽 버튼으로 빨간색 핸들을 누르고 앞뒤로 움직여 큐브를 안팎으로 움직입니다. 빨간색 핸들을 누르면 빨간색 선이 나타납니다. 빨간색 선을 따라 큐브를 이동하세요.
 
 ![Move in and out](images/move-in-and-out.png)
 
-+ Move the cube around your scene to a different position.
++ 장면 주위의 큐브를 다른 위치로 이동하세요.
 
-+ Go to the render view to see what it will look like. For example:
++ 렌더 뷰로 이동하여 모양을 확인하세요. For example:
 
 ![Example render](images/example-render.png)
 
@@ -32,16 +32,16 @@ You might see nothing or only part of the cube. This means that the object is no
 
 + Press <kbd>ESC</kbd> to get out of the render view.
 
-+ Move the 3D scene with the middle mouse button to behind the camera. For example:
++ 마우스 가운데 버튼을 사용하여 3D 장면을 카메라 뒤로 이동하세요. For example:
 
 ![Move behind camera](images/move-behind-camera.png)
 
-+ Move the cube using the blue, green, and red handles such that you can see the cube from behind the camera.
++ 카메라 뒤에서 큐브를 볼 수 있도록 파란색, 녹색 및 빨간색 핸들을 사용하여 큐브를 이동하세요.
 
 ![Cube behind camera](images/cube-behind-camera.png)
 
-+ Render again to see how your image looks. You probably will see the same image as before.
++ 이미지가 어떻게 보이는지 다시 렌더링하세요. 아마도 이전과 같은 이미지를 보게 될 것입니다.
 
 ![Same image](images/same-image.png)
 
-+ Press <kbd>ESC</kbd> to exit the render view.
++ 렌더 뷰에서 나가기 위해 <kbd>ESC</kbd>를 누르세요.
