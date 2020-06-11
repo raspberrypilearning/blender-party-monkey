@@ -1,27 +1,35 @@
-## Zoomen en draaien
+## The 3D scene
 
-+ Open Blender.
+In the 3D view you have your 3D scene, which looks a bit like what you might see in a computer game for example.
 
-Wanneer je Blender opent, begint het met een startscherm. Het opstartscherm van Blender v2.76 ziet er als volgt uit:
+There are three main components in the 3D scene that we need to understand to get started.
 
-![Splash screen](images/splash-screen.png)
+### A cube in the centre
 
-Voor deze tutorial hebben we geen splash scherm nodig.
+This is what is going to be rendered and shown in the image.
 
-+ Klik rechts van het startscherm om het te laten verdwijnen.
+![Centre cube](images/centre-cube.png)
 
-In het midden zie je de 3D-weergave. In deze ruimte plaats je alle items die moeten worden weergegeven of gerenderd. Je ziet al drie verschillende voorwerpen in de 3D-weergave. Daar zullen we later naar kijken.
+### A light source
 
-![3D view](images/3d-view.png)
+By rotating the scene you can see the exact position of the light source.
 
-In de 3D-weergave kun je in- en uitzoomen met het muiswiel.
+![Light source](images/light-source.png)
 
-+ Probeer in en uit te zoomen op de kubus.
++ Rotate your scene until you see the top of the light source.
 
-![Zoom in and out](images/zoom-in-out.png)
+![Light source top](images/light-source-top.png)
 
-Je kunt de hele scène draaien door op de middelste muisknop of het muiswiel in te drukken en rond te draaien.
+### A camera
 
-+ Probeer je scène te draaien.
+This is from where you will see your scene.
 
-![Rotate the scene](images/rotate-scene.png)
+![Camera](images/camera.png)
+
++ Rotate your scene so that it is behind the camera. An easy way to do this is to press `0` in you number pad, or go to `View` > `Cameras` > `Active Cameras`.
+
+![active camera](images/camera-view.png)
+
+![Behind the camera](images/behind-camera.png)
+
+You will see a nice picture of the side of the cube.
