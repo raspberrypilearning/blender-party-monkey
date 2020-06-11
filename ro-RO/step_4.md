@@ -1,11 +1,11 @@
 ## Rendering
 
-Rendering is the process of generating an image from a 3D model.
+Randarea este procesul de generare al unei imagini dintr-un model 3D.
 
-+ Render the scene by pressing <kbd>F12</kbd>. If you're working on a Mac, press <kbd>FN + F12</kbd>.
++ Redă scena apăsând pe <kbd>F12</kbd>. Dacă lucrezi pe un Mac, apasă <kbd>FN + F12</kbd>.
 
-![Rendered image](images/render.png)
+![Imagine randată](images/render.png)
 
-You can see that the top and right side of the cube are lit, but the left side is dark. That's because the light source is on the top right side of the cube.
+Poți vedea că partea de sus și din dreapta a cubului sunt luminate, dar partea stângă este întunecată. Acest lucru se datorează faptului că sursa de lumină se află în partea dreaptă sus a cubului.
 
-+ Press <kbd>ESC</kbd> to get out of the render view.
++ Apăsă <kbd>ESC</kbd> pentru a ieși din vizualizarea randării.
