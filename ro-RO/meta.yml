@@ -19,20 +19,18 @@ steps:
   - 
     title: Introducere
   - 
-    title: De ce vei avea nevoie
+    title: Zooming and rotating
   - 
-    title: Mărirea și rotirea
+    title: The 3D scene
   - 
-    title: Scena 3D
+    title: Rendering
   - 
-    title: Randare
+    title: Selecting and moving
   - 
-    title: Selectarea și mutarea
+    title: Add a monkey
   - 
-    title: Adaugă o maimuță
+    title: Add a hat
   - 
-    title: Adaugă o pălărie
+    title: Change the lighting
   - 
-    title: Schimbă lumina
-  - 
-    title: "Provocare: o scenă nouă"
+    title: "Challenge: a new scene"
