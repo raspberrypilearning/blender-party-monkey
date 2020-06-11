@@ -1,11 +1,11 @@
-## Rendering
+## प्रस्तुत करना
 
-Rendering is the process of generating an image from a 3D model.
+प्रस्तुत करना 3D मॉडल से कोई छवि उत्पन्न करने की प्रक्रिया है।
 
-+ Render the scene by pressing <kbd>F12</kbd>. If you're working on a Mac, press <kbd>FN + F12</kbd>.
++ <kbd>F12</kbd> दबाकर दृश्य प्रस्तुत करें। यदि आप मैक पर काम कर रहे हैं, तो <kbd>FN + F12</kbd> दबाएँ।
 
-![Rendered image](images/render.png)
+![प्रस्तुत छवि](images/render.png)
 
-You can see that the top and right side of the cube are lit, but the left side is dark. That's because the light source is on the top right side of the cube.
+आप देखेंगे कि क्यूब के शीर्ष और दाईं तरफ रोशनी है, लेकिन बाईं तरफ अंधेरा है। ऐसा इसलिए है क्योंकि प्रकाश का स्रोत क्यूब के ऊपरी दाएँ किनारे पर है।
 
-+ Press <kbd>ESC</kbd> to get out of the render view.
++ प्रस्तुत दृश्य से बाहर निकलने के लिए <kbd>ESC</kbd> दबाएँ।
