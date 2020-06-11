@@ -1,27 +1,35 @@
-## Zooming and rotating
+## The 3D scene
 
-+ Open Blender.
+In the 3D view you have your 3D scene, which looks a bit like what you might see in a computer game for example.
 
-When you open Blender, it starts with a splash screen. The splash screen of Blender v2.76 looks like this:
+There are three main components in the 3D scene that we need to understand to get started.
 
-![Splash screen](images/splash-screen.png)
+### A cube in the centre
 
-For this tutorial we won't be needing the splash screen.
+This is what is going to be rendered and shown in the image.
 
-+ Click to the right of the splash screen to make it disappear.
+![Centre cube](images/centre-cube.png)
 
-In the centre, you'll see the 3D view. In this space you'll be positioning all the items that need to be displayed or rendered. You have three different items in the 3D view already. We will be looking at those later.
+### A light source
 
-![3D view](images/3d-view.png)
+By rotating the scene you can see the exact position of the light source.
 
-In the 3D view, you can zoom in and out using the mouse wheel.
+![Light source](images/light-source.png)
 
-+ Try to zoom in and out of the cube.
++ Rotate your scene until you see the top of the light source.
 
-![Zoom in and out](images/zoom-in-out.png)
+![Light source top](images/light-source-top.png)
 
-You can rotate the whole scene by pressing the middle mouse button or the mouse wheel and rotating around.
+### A camera
 
-+ Try rotating your scene.
+This is from where you will see your scene.
 
-![Rotate the scene](images/rotate-scene.png)
+![Camera](images/camera.png)
+
++ Rotate your scene so that it is behind the camera. An easy way to do this is to press `0` in you number pad, or go to `View` > `Cameras` > `Active Cameras`.
+
+![active camera](images/camera-view.png)
+
+![Behind the camera](images/behind-camera.png)
+
+You will see a nice picture of the side of the cube.
