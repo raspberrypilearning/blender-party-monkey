@@ -1,15 +1,15 @@
 ## Change the lighting
 
-We need to move the light to shine upon the front of the monkey.
+Trebuie să mișcăm lumina astfel încât să strălucească pe fața maimuței.
 
-+ Select the lamp with the left mouse button. Check for the orange border.
++ Select the lamp with the left mouse button. Verifică prezența marginii portocalii.
 
-+ Move the lamp using the handles so that it is shining on the front of the monkey's face.
++ Deplasează lampa cu ajutorul săgeților astfel încât sursa de lumină sa pice pe fața maimuței.
 
-+ Render the image again.
++ Randează din nou imaginea.
 
-+ Check whether the monkey's face is well lit, like in the image below.
++ Verifică dacă fața maimuței este bine luminată, ca în imaginea de mai jos.
 
-![Well lit](images/well-lit.png)
+![Bine iluminat](images/well-lit.png)
 
-+ If it isn't, press <kbd>ESC</kbd> and move the lamp a bit more towards the monkey's face.
++ Dacă nu este, apăsă <kbd>ESC</kbd> și mută lampa un pic mai mult spre fața maimuței.
