@@ -1,8 +1,8 @@
-## Challenge: a new scene
+## 도전 과제: 새로운 장면
 
-+ Add more objects from the **Create** tab in the toolbox.
-+ Move the objects around, creating a different scene.
-+ Add a disco ball to the party scene.
-+ Add a rim to the party monkey's hat.
++ 도구 상자의 **Create** 탭에서 더 많은 오브젝트를 추가해보세요.
++ 객체를 움직여 장면을 다르게 바꿔보세요.
++ 파티 장면에 디스코 볼을 추가하세요.
++ 파티 원숭이의 모자에 테두리를 추가하세요.
 
 ![Challenge](images/challenge.png)
