@@ -1,15 +1,15 @@
 ## Change the lighting
 
-We need to move the light to shine upon the front of the monkey.
+We moeten het licht laten schijnen op de voorkant van de aap.
 
-+ Select the lamp with the left mouse button. Check for the orange border.
++ Select the lamp with the left mouse button. Zorg ervoor dat je de oranje rand ziet.
 
-+ Move the lamp using the handles so that it is shining on the front of the monkey's face.
++ Verplaats de lamp met de handgrepen zodat deze op de voorkant van het gezicht van de aap schijnt.
 
-+ Render the image again.
++ Render de afbeelding opnieuw.
 
-+ Check whether the monkey's face is well lit, like in the image below.
++ Controleer of het gezicht van de aap goed verlicht is, zoals in de onderstaande afbeelding.
 
 ![Well lit](images/well-lit.png)
 
-+ If it isn't, press <kbd>ESC</kbd> and move the lamp a bit more towards the monkey's face.
++ Als het niet goed verlicht is, druk je op <kbd>ESC</kbd> en verplaats je de lamp een beetje meer in de richting van het gezicht van de aap.
