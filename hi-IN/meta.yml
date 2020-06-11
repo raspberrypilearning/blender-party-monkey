@@ -1,25 +1,23 @@
 ---
-title: Party monkey
+title: पार्टी बंदर
 hero_image: images/banner.png
-description: Create a 3D model of a monkey in a party hat using Blender
-theme: turquoise #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+description: Blender का उपयोग करके पार्टी टोपी पहनने वाले बंदर का 3D मॉडल बनाएँ।
+theme: फ़िरोज़ी #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
 duration: 2
 listed: true
 ingredient: false
 copyedit: true
-curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-interests: art
-technologies: blender
-site_areas: projects
+curriculum: creator, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+interests: art and design
+technologies: blender (ब्लेंडर)
+site_areas: प्रोजेक्ट
 hardware: ''
-software: blender
+software: ब्लेंडर
 version: 4.0.1
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
-  - 
-    title: What you will need
+    title: भूमिका
   - 
     title: Zooming and rotating
   - 
