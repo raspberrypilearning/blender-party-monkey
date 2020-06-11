@@ -24,24 +24,24 @@ Blender का उपयोग करके पार्टी टोपी प�
 
 ## title: "What you will need"
 
-### Hardware
+### हार्डवेयर
 
-+ A desktop or laptop computer capable of running the Blender software
++ एक डेस्कटॉप या लैपटॉप कंप्यूटर जो ब्लेंडर सॉफ्टवेयर को चलाने में सक्षम है
 
-### Software
+### सॉफ्टवेयर
 
-+ [Blender](https://www.blender.org/download/){:target="_blank"} (v2.8 or newer)
++ [Blender](https://www.blender.org/download/){:target="_blank"} (v2.8 या उससे नया)
 
 \--- /collapse \---
 
-### Additional information for educators
+### शिक्षकों के लिए अतिरिक्त जानकारी
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/blender-party-monkey/print){:target="_blank"}.
+अगर आपको इस प्रोजेक्ट को प्रिंट करने की आवश्यकता है, तो कृपया [प्रिंटर-अनुकूल संस्करण](https://projects.raspberrypi.org/en/projects/blender-party-monkey/print){:target="_blank"} का उपयोग करें।
 
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+इस परियोजना के गिटहब भंडार तक पहुंचने के लिए नीचे दिए गए लिंक का उपयोग करें, जिसमें 'en/resources' फ़ोल्डर में सभी संसाधन शामिल हैं (एक उदाहरण और संपूर्ण परियोजना सहित)।
 
-If you prefer, you can watch the whole resource as a video tutorial: <iframe width="560" height="315" src="https://www.youtube.com/embed/93ux_JliBew" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+यदि आप चाहें, तो आप संपूर्ण संसाधन को वीडियो ट्यूटोरियल के रूप में देख सकते हैं: <iframe width="560" height="315" src="https://www.youtube.com/embed/93ux_JliBew" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
 
-### License
+### लाइसेंस
 
-***Party Monkey*** by 3Dami & b3d101, Peter Kemp, Tom Haines, Monique Dewanchand is licenced under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+***पार्टी बंदर*** 3Dami और b3d101 द्वारा, पीटर केम्प, टॉम हैन्स, मोनिक दीवानचंद [क्रिएटिव कॉमन्स एट्रीब्यूशन 4.0 अंतर्राष्ट्रीय लाइसेंस](http://creativecommons.org/licenses/by-sa/4.0/) के अंतर्गत लाइसेंस प्राप्त है।
