@@ -1,14 +1,14 @@
 ---
-title: Party monkey
+title: Party Affe
 hero_image: images/banner.png
-description: Create a 3D model of a monkey in a party hat using Blender
+description: Erstelle mit Blender ein 3D-Modell eines Affen, der einen Partyhut trägt
 theme: turquoise #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
 duration: 2
 listed: true
 ingredient: false
 copyedit: true
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-interests: art
+interests: Kunst
 technologies: blender
 site_areas: projects
 hardware: ''
@@ -17,9 +17,7 @@ version: 4.0.1
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
-  - 
-    title: What you will need
+    title: Einleitung
   - 
     title: Zooming and rotating
   - 
