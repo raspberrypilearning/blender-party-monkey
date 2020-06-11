@@ -1,4 +1,4 @@
-## Change the lighting
+## Modifier l'éclairage
 
 Nous devons déplacer la lumière pour qu'elle brille sur l'avant du singe.
 
