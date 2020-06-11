@@ -1,11 +1,11 @@
 ## Rendering
 
-Rendering is the process of generating an image from a 3D model.
+렌더링은 3D 모델에서 이미지를 생성하는 프로세스입니다.
 
-+ Render the scene by pressing <kbd>F12</kbd>. If you're working on a Mac, press <kbd>FN + F12</kbd>.
++ <kbd>F12</kbd>를 눌러 장면을 렌더링하세요. Mac에서 작업중인 경우 <kbd>FN + F12</kbd>를 누르세요.
 
-![Rendered image](images/render.png)
+![렌더링된 이미지](images/render.png)
 
-You can see that the top and right side of the cube are lit, but the left side is dark. That's because the light source is on the top right side of the cube.
+큐브의 상단과 오른쪽이 밝지만 왼쪽이 어둡다는 것을 알 수 있습니다. 이는 광원이 큐브의 오른쪽 상단에 있기 때문입니다.
 
-+ Press <kbd>ESC</kbd> to get out of the render view.
++ 렌더 뷰에서 나가기 위해 <kbd>ESC</kbd>를 누르세요.
