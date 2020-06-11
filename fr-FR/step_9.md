@@ -1,8 +1,8 @@
-## Challenge: a new scene
+## Défi : une nouvelle scène
 
-+ Add more objects from the **Create** tab in the toolbox.
-+ Move the objects around, creating a different scene.
-+ Add a disco ball to the party scene.
-+ Add a rim to the party monkey's hat.
++ Ajouter plus d'objets depuis l'onglet **Create** dans la boîte à outils.
++ Déplacer les objets, en créant une autre scène.
++ Ajouter une boule de disco à la scène de la fête.
++ Ajouter un rebord au chapeau du singe fêtard.
 
-![Challenge](images/challenge.png)
+![Défi](images/challenge.png)
