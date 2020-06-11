@@ -1,11 +1,11 @@
 ## Rendering
 
-Rendering is the process of generating an image from a 3D model.
+Le rendu est le processus de génération d'une image à partir d'un modèle 3D.
 
-+ Render the scene by pressing <kbd>F12</kbd>. If you're working on a Mac, press <kbd>FN + F12</kbd>.
++ Fais un rendu de la scène en appuyant sur <kbd>F12</kbd>. Si tu travailles sur un Mac, appuie sur <kbd>FN + F12</kbd>.
 
-![Rendered image](images/render.png)
+![Rendu de l'image](images/render.png)
 
-You can see that the top and right side of the cube are lit, but the left side is dark. That's because the light source is on the top right side of the cube.
+Tu peux voir que le côté supérieur et droit du cube sont éclairés, mais le côté gauche est sombre. C'est parce que la source de lumière est en haut à droite du cube.
 
-+ Press <kbd>ESC</kbd> to get out of the render view.
++ Appuie sur <kbd>ECHAP</kbd> pour sortir de la vue de rendu.
