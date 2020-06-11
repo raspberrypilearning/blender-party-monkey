@@ -1,8 +1,8 @@
-## Challenge: a new scene
+## التحدي: مشهد جديد
 
-+ Add more objects from the **Create** tab in the toolbox.
-+ Move the objects around, creating a different scene.
-+ Add a disco ball to the party scene.
-+ Add a rim to the party monkey's hat.
++ إضافة المزيد من الكائنات من علامة التبويب **إنشاء** في صندوق الأدوات.
++ حريك الكائنات حول القرد، لإنشاء مشهد مختلف.
++ أضف كرة ديسكو إلى مشهد الحفلة.
++ أضف حافة إلى قبعة القرد.
 
-![Challenge](images/challenge.png)
+![التحدي](images/challenge.png)
