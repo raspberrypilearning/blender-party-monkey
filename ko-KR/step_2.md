@@ -1,27 +1,27 @@
-## Zooming and rotating
+## 확대 및 축소 기능
 
-+ Open Blender.
++ Blender를 엽니다.
 
-When you open Blender, it starts with a splash screen. The splash screen of Blender v2.81 looks like this:
+Blender를 열면 시작 화면이 표시됩니다. The splash screen of Blender v2.81 looks like this:
 
-![Splash screen](images/splash-screen.png)
+![시작 화면](images/splash-screen.png)
 
-For this tutorial we won't be needing the splash screen.
+이 튜토리얼에서는 시작 화면이 필요하지 않습니다.
 
-+ Click to the right of the splash screen to make it disappear.
++ 시작 화면의 오른쪽을 클릭하면 사라질 것입니다.
 
-In the centre, you'll see the 3D view. In this space you'll be positioning all the items that need to be displayed or rendered. You have three different items in the 3D view already. We will be looking at those later.
+중앙에는 3D 보기가 표시됩니다. 이곳에서는 표시하거나 렌더링해야 하는 모든 항목을 배치할 것입니다. 3D 보기에 이미 세 가지 항목이 있을 것입니다. 이것들은 나중에 살펴볼 것입니다.
 
-![3D view](images/3d-view.png)
+![3D 보기](images/3d-view.png)
 
-In the 3D view, you can zoom in and out using the mouse wheel.
+3D 뷰에서 마우스 휠을 사용하여 확대 및 축소 할 수 있습니다.
 
-+ Try to zoom in and out of the cube.
++ 큐브를 확대 및 축소 해보세요.
 
-![Zoom in and out](images/zoom-in-out.png)
+![확대 및 축소](images/zoom-in-out.png)
 
-You can rotate the whole scene by pressing the middle mouse button or the mouse wheel and rotating around.
+마우스 가운데 버튼 또는 마우스 휠을 누르고 회전하면 전체 장면을 회전할 수 있습니다.
 
-+ Try rotating your scene.
++ 장면을 회전시켜보세요.
 
-![Rotate the scene](images/rotate-scene.png)
+![장면 회전하기](images/rotate-scene.png)
