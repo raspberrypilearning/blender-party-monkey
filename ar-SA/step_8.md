@@ -1,15 +1,15 @@
-## Change the lighting
+## تغيير الإضاءة
 
-We need to move the light to shine upon the front of the monkey.
+نحن بحاجة إلى تحريك الضوء ليسلط على مقدمة القرد.
 
-+ Select the lamp with the left mouse button. Check for the orange border.
++ Select the lamp with the left mouse button. ستظهر الحدود البرتقالية.
 
-+ Move the lamp using the handles so that it is shining on the front of the monkey's face.
++ حرّك المصباح باستخدام المقابض بحيث يشع في مقدمة وجه القرد.
 
-+ Render the image again.
++ اعرض الصورة مرة أخرى.
 
-+ Check whether the monkey's face is well lit, like in the image below.
++ تحقق مما إذا كان وجه القرد مضاء بكشل جيد، كما هو الحال في الصورة أدناه.
 
-![Well lit](images/well-lit.png)
+![مضاء جيدا](images/well-lit.png)
 
-+ If it isn't, press <kbd>ESC</kbd> and move the lamp a bit more towards the monkey's face.
++ إذا لم يكن كذلك، اضغط <kbd>ESC</kbd> وحرك المصباح أكثر باتجاه وجه القرد.
