@@ -1,27 +1,27 @@
-## Zooming and rotating
+## ज़ूम करना और रोटेट करना
 
-+ Open Blender.
++ Blender खोलें।
 
-When you open Blender, it starts with a splash screen. The splash screen of Blender v2.81 looks like this:
+जब आप Blender खोलेंगे, तो यह स्प्लैश स्क्रीन से आरंभ होगा। Blender v2.81 की स्प्लैश स्क्रीन इस तरह दिखती है:
 
-![Splash screen](images/splash-screen.png)
+![स्प्लैश स्क्रीन](images/splash-screen.png)
 
-For this tutorial we won't be needing the splash screen.
+इस Tutorial के लिए हमें स्प्लैश स्क्रीन की आवश्यकता नहीं होगी।
 
-+ Click to the right of the splash screen to make it disappear.
++ इसे गायब करने के लिए स्प्लैश स्क्रीन के दाईं ओर क्लिक करें।
 
-In the centre, you'll see the 3D view. In this space you'll be positioning all the items that need to be displayed or rendered. You have three different items in the 3D view already. We will be looking at those later.
+मध्य में, आप 3D व्यू देखेंगे। इस जगह में आप उन सभी वस्तुओं को स्थापित करेंगे जिन्हें प्रदर्शित या प्रस्तुत करने की आवश्यकता है। 3D व्यू में आपके पास पहले से ही तीन अलग-अलग वस्तुएँ हैं। हम उन्हें बाद में देखेंगे।
 
-![3D view](images/3d-view.png)
+![3D व्यू](images/3d-view.png)
 
-In the 3D view, you can zoom in and out using the mouse wheel.
+3D व्यू में, आप माउस व्हील का उपयोग करके ज़ूम इन और आउट कर सकते हैं।
 
-+ Try to zoom in and out of the cube.
++ क्यूब से ज़ूम इन और आउट करने का प्रयास करें।
 
-![Zoom in and out](images/zoom-in-out.png)
+![ज़ूम इन और आउट करें](images/zoom-in-out.png)
 
-You can rotate the whole scene by pressing the middle mouse button or the mouse wheel and rotating around.
+आप माउस के बीच वाले बटन या माउस व्हील को दबाकर और इधर-उधर घुमाकर पूरे दृश्य को घुमा सकते हैं।
 
-+ Try rotating your scene.
++ अपने दृश्य को घुमाने का प्रयास करें।
 
-![Rotate the scene](images/rotate-scene.png)
+![दृश्य को घुमाएँ](images/rotate-scene.png)
