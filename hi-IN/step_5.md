@@ -1,47 +1,47 @@
-## Selecting and moving
+## चयन करना और चलाना
 
 To select an object in Blender, use the left mouse button.
 
-+ Select the cube with the left mouse button. You'll see an orange border around the cube.
++ Select the cube with the left mouse button. आप क्यूब के चारों ओर एक नारंगी बॉर्डर देखेंगे।
 
-In Blender you can move objects by using the blue, green, and red handles: The blue handle to go up and down on the z-axis, the green handle to go left and right on the y-axis, and the red handle to go in and out on the x-axis. From Blender 2.8, you will need to click on the move gizmo from the list of icons on the left of your screen to make the handles appear.
+Blender में आप नीले, हरे, और लाल हैंडल का उपयोग करके वस्तुओं को चला सकते हैं: z-अक्ष पर ऊपर और नीचे जाने के लिए नीला हैंडल, y-अक्ष पर बाएँ और दाएँ जाने के लिए हरा हैंडल, और x-अक्ष पर अंदर और बाहर जाने के लिए लाल हैंडल। From Blender 2.8, you will need to click on the move gizmo from the list of icons on the left of your screen to make the handles appear.
 
 ![Move gizmo](images/move-gizmo.png)
 
-![Coloured handles](images/coloured-handles.png)
+![रंगीन हैंडल](images/coloured-handles.png)
 
-+ Move the cube up by pressing the blue handle with the left mouse button and moving it up. When you press the blue handle, you'll see a blue line appear. Move the cube along the blue line.
++ नीले हैंडल को बाएँ माउस बटन से दबाकर और इसे ऊपर ले जाकर क्यूब को ऊपर ले जाएँ। जब आप नीले हैंडल को दबाएँगे, तो आपको एक नीली रेखा दिखाई देगी। क्यूब को नीली रेखा पर चलाएँ।
 
-![Move up](images/move-up.png)
+![ऊपर ले जाएँ](images/move-up.png)
 
-+ Move the cube to the right by pressing the green handle with the left mouse button and moving it to the right. When you press the green handle, you'll see a green line appear. Move the cube along the green line.
++ हरे हैंडल को बाएँ माउस बटन से दबाकर और इसे दाईं ओर ले जाकर क्यूब को दाईं ओर ले जाएँ। जब आप हरे हैंडल को दबाएँगे, तो आपको एक हरी रेखा दिखाई देगी। क्यूब को हरी रेखा पर चलाएँ।
 
-![Move right](images/move-right.png)
+![दाहिने जाएँ](images/move-right.png)
 
-+ Move the cube in or out by pressing the red handle with the left mouse button and moving it back and forth. When you press the red handle, you'll see a red line appear. Move the cube along the red line.
++ लाल हैंडल को बाएँ माउस बटन से दबाकर और इसे पीछेओर आगे ले जाकर क्यूब को अंदर या बाहर ले जाएँ। जब आप लाल हैंडल को दबाएँगे, तो आपको एक लाल रेखा दिखाई देगी। क्यूब को लाल रेखा पर चलाएँ।
 
-![Move in and out](images/move-in-and-out.png)
+![अंदर और बाहर ले जाएँ](images/move-in-and-out.png)
 
-+ Move the cube around your scene to a different position.
++ क्यूब को अपने दृश्य के चारों ओर किसी अलग स्थिति में ले जाएँ।
 
-+ Go to the render view to see what it will look like. For example:
++ यह देखने के लिए रेंडर व्यू (दृश्य प्रस्तुत करें) पर जाएँ कि यह कैसा दिखाई देगा। उदाहरण के लिए:
 
-![Example render](images/example-render.png)
+![प्रस्तुति का उदाहरण](images/example-render.png)
 
-You might see nothing or only part of the cube. This means that the object is not (completely) in the camera's view.
+हो सकता है कि आपको कुछ भी न दिखाई दे या क्यूब का केवल कोई हिस्सा दिखाई दे। इसका मतलब है कि वस्तु कैमरे के दृश्य में (पूरी तरह से) नहीं है।
 
-+ Press <kbd>ESC</kbd> to get out of the render view.
++ प्रस्तुत दृश्य से बाहर निकलने के लिए <kbd>ESC</kbd> दबाएँ।
 
-+ Move the 3D scene with the middle mouse button to behind the camera. For example:
++ 3D दृश्य को माउस के बीच के बटन से कैमरे के पीछे ले जाएँ। उदाहरण के लिए:
 
-![Move behind camera](images/move-behind-camera.png)
+![कैमरे के पीछे ले जाएँ](images/move-behind-camera.png)
 
-+ Move the cube using the blue, green, and red handles such that you can see the cube from behind the camera.
++ नीले, हरे, और लाल हैंडल का उपयोग करके क्यूब को इस तरह चलाएँ कि आप क्यूब को कैमरे के पीछे से देख सकें।
 
-![Cube behind camera](images/cube-behind-camera.png)
+![कैमरे के पीछे क्यूब](images/cube-behind-camera.png)
 
-+ Render again to see how your image looks. You probably will see the same image as before.
++ यह देखने के लिए कि आपकी छवि कैसी दिखती है इसे फिर से प्रस्तुत करें। आपको शायद वही छवि दिखेगी जो आपने पहले देखी थी।
 
-![Same image](images/same-image.png)
+![वही छवि](images/same-image.png)
 
-+ Press <kbd>ESC</kbd> to exit the render view.
++ प्रस्तुत दृश्य से बाहर निकलने के लिए <kbd>ESC</kbd> दबाएँ।
