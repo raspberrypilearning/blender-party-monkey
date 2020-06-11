@@ -1,35 +1,35 @@
-## The 3D scene
+## Die 3D-Szene
 
-In the 3D view you have your 3D scene, which looks a bit like what you might see in a computer game for example.
+In der 3D-Ansicht siehst du eine 3D-Szene, die ein bisschen so aussieht, wie du es beispielsweise von einem Computerspiel gewohnt bist.
 
-There are three main components in the 3D scene that we need to understand to get started.
+Als erstes müssen wir die drei Hauptkomponenten in der 3D-Szene verstehen.
 
-### A cube in the centre
+### Ein Würfel in der Mitte
 
-This is what is going to be rendered and shown in the image.
+Dieser Gegenstand wird gerendert und im Bild dargestellt.
 
-![Centre cube](images/centre-cube.png)
+![Würfel in der Mitte](images/centre-cube.png)
 
-### A light source
+### Eine Lichtquelle
 
-By rotating the scene you can see the exact position of the light source.
+Durch Drehen der Szene kannst du die genaue Position der Lichtquelle sehen.
 
-![Light source](images/light-source.png)
+![Lichtquelle](images/light-source.png)
 
-+ Rotate your scene until you see the top of the light source.
++ Dreh die Szene, bis du die Oberseite der Lichtquelle siehst.
 
-![Light source top](images/light-source-top.png)
+![Lichtquelle von oben](images/light-source-top.png)
 
-### A camera
+### Eine Kamera
 
-This is from where you will see your scene.
+Aus dieser Perspective wird Szene aufgenommen.
 
-![Camera](images/camera.png)
+![Kamera](images/camera.png)
 
-+ Rotate your scene so that it is behind the camera. An easy way to do this is to press `0` in you number pad, or go to `View` > `Cameras` > `Active Cameras`.
++ Dreh die Szene so, dass sie sich vor der Kamera befindet. Eine Möglichkeit ist `0` auf dem Nummernblock deiner Tastatur zu drücken oder benutze ` Ansicht ` > ` Kameras ` > ` Aktive Kameras `.
 
-![active camera](images/camera-view.png)
+![aktive Kamera](images/camera-view.png)
 
-![Behind the camera](images/behind-camera.png)
+![Hinter der Kamera](images/behind-camera.png)
 
-You will see a nice picture of the side of the cube.
+Du wirst ein schönes Bild der Seite des Würfels sehen.
