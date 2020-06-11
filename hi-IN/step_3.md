@@ -1,35 +1,35 @@
-## The 3D scene
+## 3D दृश्य
 
-In the 3D view you have your 3D scene, which looks a bit like what you might see in a computer game for example.
+3D व्यू में आपको अपना 3D दृश्य मिलता है, जो उदाहरण के लिए ऐसा दिखता है जैसा आप किसी कंप्यूटर गेम में देखते हैं।
 
-There are three main components in the 3D scene that we need to understand to get started.
+3D दृश्य में तीन मुख्य घटक हैं जिन्हें हमें शुरू करने के लिए समझने की आवश्यकता है।
 
-### A cube in the centre
+### मध्य में एक क्यूब
 
-This is what is going to be rendered and shown in the image.
+इसे ही छवि में प्रस्तुत किया जाएगा और दिखाया जाएगा।
 
-![Centre cube](images/centre-cube.png)
+![मध्य क्यूब](images/centre-cube.png)
 
-### A light source
+### प्रकाश का स्रोत
 
-By rotating the scene you can see the exact position of the light source.
+दृश्य को घुमाकर आप प्रकाश के स्रोत की सही स्थिति देख सकते हैं।
 
-![Light source](images/light-source.png)
+![प्रकाश का स्रोत](images/light-source.png)
 
-+ Rotate your scene until you see the top of the light source.
++ जब तक आप प्रकाश स्रोत के शीर्ष को नहीं देखते हैं तब तक अपने दृश्य को घुमाएँ।
 
-![Light source top](images/light-source-top.png)
+![प्रकाश स्रोत शीर्ष](images/light-source-top.png)
 
-### A camera
+### कैमरा
 
-This is from where you will see your scene.
+यह वह जगह है जहाँ से आप अपना दृश्य देखेंगे।
 
-![Camera](images/camera.png)
+![कैमरा](images/camera.png)
 
-+ Rotate your scene so that it is behind the camera. An easy way to do this is to press `0` in you number pad, or go to `View` > `Cameras` > `Active Cameras`.
++ अपने दृश्य को घुमाएँ ताकि यह कैमरे के पीछे हो। ऐसा करने का एक आसान तरीका यह है कि अपने नंबर पैड में `0` दबाएँ, या `View` > `Cameras` > `Active Cameras` में जाएँ।
 
-![active camera](images/camera-view.png)
+![सक्रिय कैमरा](images/camera-view.png)
 
-![Behind the camera](images/behind-camera.png)
+![कैमरे के पीछे](images/behind-camera.png)
 
-You will see a nice picture of the side of the cube.
+आप क्यूब के किनारे का एक बढ़िया चित्र देखेंगे।
