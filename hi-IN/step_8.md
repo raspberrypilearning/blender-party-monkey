@@ -1,15 +1,15 @@
-## Change the lighting
+## प्रकाश व्यवस्था बदलें
 
-We need to move the light to shine upon the front of the monkey.
+हमें रोशनी को इस तरह हिलाना होगा कि यह बंदर पर सामने की ओर चमके।
 
-+ Select the lamp with the left mouse button. Check for the orange border.
++ Select the lamp with the left mouse button. देखें कि नारंगी बॉर्डर है।
 
-+ Move the lamp using the handles so that it is shining on the front of the monkey's face.
++ हैंडल का उपयोग करके लैंप को चलाएँ ताकि वह बंदर के चेहरे पर सामने की ओर से रोशनी पड़े।
 
-+ Render the image again.
++ छवि को फिर से प्रस्तुत करें।
 
-+ Check whether the monkey's face is well lit, like in the image below.
++ जाँच करें कि क्या बंदर के चेहरे पर अच्छी तरह से रोशनी पड़ रही है, जैसे कि नीचे दी गई छवि में पड़ रही है।
 
-![Well lit](images/well-lit.png)
+![अच्छी तरह से प्रकाशमान](images/well-lit.png)
 
-+ If it isn't, press <kbd>ESC</kbd> and move the lamp a bit more towards the monkey's face.
++ यदि ऐसा नहीं है, तो <kbd>ESC</kbd> दबाएँ और लैंप को बंदर के चेहरे की तरफ ले थोड़ा और जाएँ।
