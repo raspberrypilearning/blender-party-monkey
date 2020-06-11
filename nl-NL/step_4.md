@@ -1,35 +1,11 @@
-## De 3D-scène
+## Rendering
 
-In de 3D-weergave heb je je 3D-scène, die er een beetje uitziet als wat je bijvoorbeeld in een computerspel ziet.
+Rendering is the process of generating an image from a 3D model.
 
-Er zijn drie hoofdcomponenten in de 3D-scène die we moeten begrijpen om aan de slag te gaan.
++ Render the scene by pressing <kbd>F12</kbd>. If you're working on a Mac, press <kbd>FN + F12</kbd>.
 
-### Een kubus in het midden
+![Rendered image](images/render.png)
 
-Dit wordt gerenderd en weergegeven in de afbeelding.
+You can see that the top and right side of the cube are lit, but the left side is dark. That's because the light source is on the top right side of the cube.
 
-![Centre cube](images/centre-cube.png)
-
-### Een lichtbron
-
-Door de scène te draaien, kun je de exacte positie van de lichtbron zien.
-
-![Light source](images/light-source.png)
-
-+ Draai je scène totdat je de bovenkant van de lichtbron ziet.
-
-![Light source top](images/light-source-top.png)
-
-### Een camera
-
-Dit is van waaruit je je scène zult zien.
-
-![Camera](images/camera.png)
-
-+ Draai je scène zodat deze zich achter de camera bevindt. Een eenvoudige manier om dit te doen, is door op je nummerriek toetsenbord op `0` te drukken of ga naar `View` > `Cameras` > `Active Cameras`.
-
-![active camera](images/camera-view.png)
-
-![Behind the camera](images/behind-camera.png)
-
-You will see a nice picture of the side of the cube.
++ Press <kbd>ESC</kbd> to get out of the render view.
