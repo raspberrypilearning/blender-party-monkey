@@ -12,7 +12,7 @@
 
 ## \--- collapse \---
 
-## title: "What you will learn"
+## title: ما الذي ستتعلمه
 
 يتناول هذا المشروع عناصر من معايير المناهج الرقمية الخاصة بـ [Raspberry Pi](http://rpf.io/curriculum){:target="_blank"}:
 
@@ -22,26 +22,26 @@
 
 ## \--- collapse \---
 
-## title: "What you will need"
+## title: ما ستحتاج إليه
 
-### Hardware
+### الأجهزة
 
-+ A desktop or laptop computer capable of running the Blender software
++ حاسوب مكتبي أو حاسوب محمول قادر على تشغيل برنامج بلندر
 
-### Software
+### البرامج
 
 + [Blender](https://www.blender.org/download/){:target="_blank"} (v2.8 or newer)
 
 \--- /collapse \---
 
-### Additional information for educators
+### معلومات إضافية للمعلمين
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/blender-party-monkey/print){:target="_blank"}.
+إذا كنت بحاجة إلى طباعة هذا المشروع ، فالرجاء استخدام الإصدار [الملائم للطابعة](https://projects.raspberrypi.org/en/projects/blender-party-monkey/print){:target="_blank"}.
 
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+استخدم الرابط الموجود في تذييل الصفحة للوصول إلى مستودع GitHub لهذا المشروع، الذي يحتوي على كل الموارد (ومنها مثال لمشروع مكتمل) في المجلد 'ar-Sa/resources'.
 
-If you prefer, you can watch the whole resource as a video tutorial: <iframe width="560" height="315" src="https://www.youtube.com/embed/93ux_JliBew" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+إذا كنت تفضل ، يمكنك مشاهدة المورد بأكمله كفيديو تعليمي: <iframe width="560" height="315" src="https://www.youtube.com/embed/93ux_JliBew" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
 
-### License
+### الترخيص
 
-***Party Monkey*** by 3Dami & b3d101, Peter Kemp, Tom Haines, Monique Dewanchand is licenced under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+***القرد الحفلة *** بواسطة 3Dami & b3d101, Peter Kemp, Tom Haines, Monique Dewanchand، مرخص بموجب [نسبة المشاع الإبداعي 4.0 الدولية](http://creativecommons.org/licenses/by-sa/4.0/).
