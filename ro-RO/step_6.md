@@ -1,45 +1,26 @@
-## Selectarea și mutarea
+## Add a monkey
 
-Pentru a selecta un obiect în Blender, va trebui să folosești butonul din dreapta al mouse-ului. În majoritatea programelor vei folosi butonul stâng al mouse-ului pentru a selecta un obiect, dar în Blender vei folosi butonul drept.
+We won't be needing the cube, so let's remove it.
 
-+ Selectează cubul cu butonul drept al mouse-ului. Vei vedea o margine portocalie în jurul cubului.
++ Select the cube with the left mouse button. An orange border should appear around the cube.
++ Make sure your mouse is in the 3D view.
++ Press <kbd>X</kbd> to delete the cube.
++ You'll be asked whether it's OK to delete the object.
 
-În Blender poți deplasa obiecte folosind săgețile de culoare albastră, verde sau roșie: săgeata albastră pentru a merge în sus și în jos pe axa z, cea verde pentru a merge la stânga și la dreapta pe axa y, iar cea roșie pentru deplasare în adâncime pe axa x.
+![Delete object](images/delete-object.png)
 
-![Săgeți colorate](images/coloured-handles.png)
++ Select **Delete** or press <kbd>Enter</kbd>.
 
-+ Mută cubul în sus apăsând săgeata albastră cu butonul stâng al mouse-ului și deplasându-l în sus. Când apeși săgeata albastră, vei vedea o linie albastră. Deplasază cubul de-a lungul liniei albastre.
+To add objects to the scene, you can use the **Add** dropdown menu.
 
-![Mută sus](images/move-up.png)
++ In the menu, go to the **Mesh** section and select **Monkey**.
 
-+ Deplasează cubul spre dreapta apăsând săgeata verde cu butonul stâng al mouse-ului și mută-l spre dreapta. Când apeși săgeata verde, vei vedea o linie verde. Deplasează cubul de-a lungul liniei verzi.
+![Select monkey](images/select-monkey.png)
 
-![Mută la dreapta](images/move-right.png)
+A monkey appears in your scene.
 
-+ Deplasează cubul pe adăncime apăsând săgeata roșie cu butonul stâng al mouse-ului și mută-l înainte și înapoi. Când apeși săgeata roșie, vei vedea o linie roșie. Deplasează cubul de-a lungul liniei roșii.
+![A monkey appears](images/monkey-appears.png)
 
-![Deplasează pe adâncime](images/move-in-and-out.png)
++ Position the monkey in front of the camera just like you did with the cube, so that we can see it after rendering. You can use the blue, green, and red handles again to move the monkey.
 
-+ Deplasează cubul în cadrul scenei la o poziție diferită.
-
-+ Accesează ecranul de randare pentru a vedea cum va arăta. De exemplu:
-
-![Exemplu de randare](images/example-render.png)
-
-S-ar putea să nu vezi nimic sau doar o parte din cub. Aceasta înseamnă că obiectul nu este (complet) în vizorul camerei.
-
-+ Apăsă <kbd>ESC</kbd> pentru a ieși din vizualizarea randării.
-
-+ Mută scena 3D cu butonul mijlociu al mouse-ului în spatele camerei. De exemplu:
-
-![Mișcă în spatele camerei](images/move-behind-camera.png)
-
-+ Deplasează cubul folosind săgețile astfel încât să poți vedea cubul din spatele camerei.
-
-![Cub în spatele camerei](images/cube-behind-camera.png)
-
-+ Repetă din nou pentru a vedea cum arată imaginea ta. Probabil că vei vedea aceeași imagine ca înainte.
-
-![Aceeași imagine](images/same-image.png)
-
-+ Apăsă <kbd>ESC</kbd> pentru a ieși din vizualizarea de randare.
+![Position the camera](images/camera-monkey.png)
