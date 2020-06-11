@@ -1,11 +1,11 @@
-## Rendering
+## Representación gráfica
 
-Rendering is the process of generating an image from a 3D model.
+La representación gráfica es el proceso de generar una imagen a partir de un modelo 3D.
 
-+ Render the scene by pressing <kbd>F12</kbd>. If you're working on a Mac, press <kbd>FN + F12</kbd>.
++ Haz tu representación gráfica presionando <kbd>F12</kbd>. Si estás trabajando en una Mac, presiona <kbd>FN + F12</kbd>.
 
-![Rendered image](images/render.png)
+![Imagen representada gráficamente](images/render.png)
 
-You can see that the top and right side of the cube are lit, but the left side is dark. That's because the light source is on the top right side of the cube.
+Puedes ver que los lados superior y derecho del cubo están iluminados, pero el lado izquierdo está oscuro. Eso es porque la fuente de luz está en el lado superior derecho del cubo.
 
-+ Press <kbd>ESC</kbd> to get out of the render view.
++ Presiona <kbd>ESC</kbd> para salir de la vista de representación gráfica.
