@@ -1,35 +1,35 @@
-## Add a hat
+## Füge einen Hut hinzu
 
-We can also add a hat. For this we will use a cone.
+Wir können auch einen Hut hinzufügen. Dafür verwenden wir einen Kegel.
 
 + Select **Cone** from the **Mesh** section.
 
-A cone should appear in your scene. Now you have a monkey and a cone.
+Ein Kegel sollte in deiner Szene erscheinen. Jetzt hast du einen Affen und einen Kegel.
 
-![Monkey and cone](images/monkey-and-cone.png)
+![Affe und Kegel](images/monkey-and-cone.png)
 
-Now the cone needs to be positioned on top of the monkey.
+Nun muss der Kegel auf dem Affen positioniert werden.
 
-+ Rotate and zoom a bit towards the cone and the monkey to have a better view on both objects.
++ Dreh und zoom die Ansicht in Richtung Kegel und Affen um eine bessere Sicht auf beide Objekte zu haben.
 
-![Zoom in on the monkey](images/zoom-monkey.png)
+![Auf den Affen hineinzoomen](images/zoom-monkey.png)
 
-+ Select the cone using the left mouse button. Again an orange border should appear around it.
++ Select the cone using the left mouse button. Wieder sollte ein orangefarbener Rand darum erscheinen.
 
-+ Use the move gizmo and the blue, green, and red handles to move the cone on top of the monkey. You might have to rotate and zoom in or out to get a proper view.
++ Use the move gizmo and the blue, green, and red handles to move the cone on top of the monkey. Möglicherweise musst du die Ansicht erneut drehen und zoomen.
 
-![Cone on the monkey](images/cone-monkey.png)
+![Kegel auf den Affen](images/cone-monkey.png)
 
-+ Check from different angles if the the cone is positioned properly on top of the monkey.
++ Prüfe aus verschiedenen Winkeln, ob der Kegel richtig auf dem Affen sitzt.
 
-![Check cone](images/check-cone.png)
+![Kegel prüfen](images/check-cone.png)
 
-Now we need to see what it looks like.
+Jetzt müssen wir sehen, wie das Ergebnis aussieht.
 
-+ Render the image.
++ Render das Bild.
 
-![Render cone monkey](images/render-cone-monkey.png)
+![Affe mit Hut rendern](images/render-cone-monkey.png)
 
-The image shows that the monkey is not very well lit.
+Das Bild zeigt, dass der Affen nicht gut beleuchtet ist.
 
-+ Press <kbd>ESC</kbd> to exit the render view.
++ Drücke <kbd>ESC</kbd> um die Renderansicht zu verlassen.
