@@ -1,27 +1,27 @@
-## Zooming and rotating
+## تكبير وتدوير
 
-+ Open Blender.
++ افتح البلندر.
 
-When you open Blender, it starts with a splash screen. The splash screen of Blender v2.81 looks like this:
+عندما تفتح Blender ، فإنه يبدأ بشاشة الشعار. تبدو شاشة Blender v2.81 على النحو التالي:
 
-![Splash screen](images/splash-screen.png)
+![شاشة الشعار](images/splash-screen.png)
 
-For this tutorial we won't be needing the splash screen.
+في هذا البرنامج التعليمي ، لن نحتاج إلى شاشة الشعار.
 
-+ Click to the right of the splash screen to make it disappear.
++ انقر على يمين شاشة الشعار حتى تختفي.
 
-In the centre, you'll see the 3D view. In this space you'll be positioning all the items that need to be displayed or rendered. You have three different items in the 3D view already. We will be looking at those later.
+في المنتصف ، سترى العرض ثلاثي الأبعاد. في هذه المساحة ستضع جميع العناصر التي تحتاج إلى عرضها أو تقديمها. لديك ثلاثة عناصر مختلفة في العرض الثلاثي الأبعاد بالفعل. وسننظر في تلك الأمور لاحقا.
 
-![3D view](images/3d-view.png)
+![عرض ثلاثي الأبعاد](images/3d-view.png)
 
-In the 3D view, you can zoom in and out using the mouse wheel.
+في العرض ثلاثي الأبعاد ، يمكنك التكبير والتصغير باستخدام عجلة الماوس.
 
-+ Try to zoom in and out of the cube.
++ حاول التكبير داخل المكعب وخارجه.
 
-![Zoom in and out](images/zoom-in-out.png)
+![التكبير / التصغير](images/zoom-in-out.png)
 
-You can rotate the whole scene by pressing the middle mouse button or the mouse wheel and rotating around.
+يمكنك تدوير المشهد بأكمله بالضغط على زر الفأرة الوسطى أو عجلة الفأرة.
 
-+ Try rotating your scene.
++ حاول تدوير المشهد الخاص بك.
 
-![Rotate the scene](images/rotate-scene.png)
+![تدوير المشهد](images/rotate-scene.png)
