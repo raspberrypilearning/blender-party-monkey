@@ -1,7 +1,7 @@
 ---
-title: Party monkey
+title: قرد الحفلة
 hero_image: images/banner.png
-description: Create a 3D model of a monkey in a party hat using Blender
+description: قم بإنشاء نموذج ثلاثي الأبعاد لقرد في قبعة الحفلة باستخدام Blender
 theme: turquoise #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
 duration: 2
 listed: true
@@ -17,9 +17,7 @@ version: 4.0.1
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
-  - 
-    title: What you will need
+    title: المقدمة
   - 
     title: Zooming and rotating
   - 
