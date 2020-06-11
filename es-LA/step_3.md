@@ -1,35 +1,35 @@
-## The 3D scene
+## La escena 3D
 
-In the 3D view you have your 3D scene, which looks a bit like what you might see in a computer game for example.
+En la vista 3D, tienes tu escena 3D, que se parece un poco a lo que puedes ver en un juego de computadora, por ejemplo.
 
-There are three main components in the 3D scene that we need to understand to get started.
+Hay tres elementos principales en la escena 3D que debemos entender para empezar.
 
-### A cube in the centre
+### Un cubo en el centro
 
-This is what is going to be rendered and shown in the image.
+Esto es lo que se va a representar y mostrar en la imagen.
 
-![Centre cube](images/centre-cube.png)
+![Cubo central](images/centre-cube.png)
 
-### A light source
+### Una fuente de luz
 
-By rotating the scene you can see the exact position of the light source.
+Al girar la escena, puedes ver la posición exacta de la fuente de luz.
 
-![Light source](images/light-source.png)
+![Fuente de luz](images/light-source.png)
 
-+ Rotate your scene until you see the top of the light source.
++ Gira tu escena hasta que veas la parte superior de la fuente de luz.
 
-![Light source top](images/light-source-top.png)
+![Fuente de luz superior](images/light-source-top.png)
 
-### A camera
+### Una cámara
 
-This is from where you will see your scene.
+Aquí es desde dónde verás tu escena.
 
-![Camera](images/camera.png)
+![Cámara](images/camera.png)
 
-+ Rotate your scene so that it is behind the camera. An easy way to do this is to press `0` in you number pad, or go to `View` > `Cameras` > `Active Cameras`.
++ Gira tu escena para que quede detrás de la cámara. Una forma fácil de hacer esto es presionar `0` en tu teclado, o ir a `Vista` > `Cámaras` > `Cámaras activas`.
 
-![active camera](images/camera-view.png)
+![cámara activa](images/camera-view.png)
 
-![Behind the camera](images/behind-camera.png)
+![Detrás de cámara](images/behind-camera.png)
 
-You will see a nice picture of the side of the cube.
+Verás una buena imagen del lado del cubo.
