@@ -1,35 +1,35 @@
-## The 3D scene
+## La scène 3D
 
-In the 3D view you have your 3D scene, which looks a bit like what you might see in a computer game for example.
+Dans la vue 3D, tu as ta scène 3D, qui ressemble un peu à ce que tu pourrais voir dans un jeu sur ordinateur par exemple.
 
-There are three main components in the 3D scene that we need to understand to get started.
+Il y a trois composants principaux dans la scène 3D que nous devons comprendre pour commencer.
 
-### A cube in the centre
+### Un cube au centre
 
-This is what is going to be rendered and shown in the image.
+C'est ce qui va être rendu et affiché dans l'image.
 
-![Centre cube](images/centre-cube.png)
+![Cube central](images/centre-cube.png)
 
-### A light source
+### Une source de lumière
 
-By rotating the scene you can see the exact position of the light source.
+En faisant pivoter la scène, tu peux voir la position exacte de la source lumineuse.
 
-![Light source](images/light-source.png)
+![Source de lumière](images/light-source.png)
 
-+ Rotate your scene until you see the top of the light source.
++ Fais pivoter ta scène jusqu'à ce que tu voies le haut de la source lumineuse.
 
-![Light source top](images/light-source-top.png)
+![En haut de la source lumineuse](images/light-source-top.png)
 
-### A camera
+### Une caméra
 
-This is from where you will see your scene.
+C'est de là que tu verras ta scène.
 
-![Camera](images/camera.png)
+![Caméra](images/camera.png)
 
-+ Rotate your scene so that it is behind the camera. An easy way to do this is to press `0` in you number pad, or go to `View` > `Cameras` > `Active Cameras`.
++ Fais pivoter ta scène pour qu'elle soit derrière la caméra. Une façon facile de le faire est d'appuyer sur `0` sur ton pavé numérique, ou d'aller sur `View` `Cameras` >`Active Camera`.
 
-![active camera](images/camera-view.png)
+![caméra active](images/camera-view.png)
 
-![Behind the camera](images/behind-camera.png)
+![Derrière la caméra](images/behind-camera.png)
 
-You will see a nice picture of the side of the cube.
+Tu verras une belle image du côté du cube.
