@@ -12,7 +12,7 @@ Here is how your finished piece will look:
 
 ## \--- collapse \---
 
-## title: "What you will learn"
+## title: 배울 내용
 
 This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
@@ -20,15 +20,15 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 
 \--- /collapse \---
 
-## \--- collapse \---
+## \--- 중간생략 \---
 
-## title: "What you will need"
+## title: 준비물
 
-### Hardware
+### 하드웨어
 
 + A desktop or laptop computer capable of running the Blender software
 
-### Software
+### 소프트웨어
 
 + [Blender](https://www.blender.org/download/){:target="_blank"} (v2.8 or newer)
 
@@ -38,7 +38,7 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/blender-party-monkey/print){:target="_blank"}.
 
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+아래쪽에 있는, 이 프로젝트를 위한 GitHub repository 링크를 이용하세요. (완성된 프로젝트 예제를 포함한) 모든 자료가 'en/resources' 폴더에 들어 있습니다.
 
 If you prefer, you can watch the whole resource as a video tutorial: <iframe width="560" height="315" src="https://www.youtube.com/embed/93ux_JliBew" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
 
