@@ -1,35 +1,35 @@
-## Add a hat
+## Πρόσθεσε ένα καπέλο
 
-We can also add a hat. For this we will use a cone.
+Μπορούμε επίσης να προσθέσουμε ένα καπέλο. Γι' αυτό θα χρησιμοποιήσουμε έναν κώνο.
 
 + Select **Cone** from the **Mesh** section.
 
-A cone should appear in your scene. Now you have a monkey and a cone.
+Ένας κώνος θα πρέπει να εμφανιστεί στη σκηνή. Τώρα έχεις μια μαϊμού και έναν κώνο.
 
-![Monkey and cone](images/monkey-and-cone.png)
+![Μαϊμού και κώνος](images/monkey-and-cone.png)
 
-Now the cone needs to be positioned on top of the monkey.
+Τώρα ο κώνος πρέπει να τοποθετηθεί πάνω από τη μαϊμού.
 
-+ Rotate and zoom a bit towards the cone and the monkey to have a better view on both objects.
++ Γύρισε και μεγέθυνε λίγο τον κώνο και τη μαϊμού για να βλέπεις καλύτερα και τα δύο αντικείμενα.
 
-![Zoom in on the monkey](images/zoom-monkey.png)
+![Ζουμάρισμα στη μαϊμού](images/zoom-monkey.png)
 
-+ Select the cone using the left mouse button. Again an orange border should appear around it.
++ Select the cone using the left mouse button. Πάλι, ένα πορτοκαλί περίγραμμα πρέπει να εμφανιστεί γύρω του.
 
-+ Use the move gizmo and the blue, green, and red handles to move the cone on top of the monkey. You might have to rotate and zoom in or out to get a proper view.
++ Use the move gizmo and the blue, green, and red handles to move the cone on top of the monkey. Ίσως χρειαστεί να περιστρέψεις και να ζουμάρεις ή ξεζουμάρεις για να έχεις μια σωστή εικόνα.
 
-![Cone on the monkey](images/cone-monkey.png)
+![Κώνος πάνω στη μαϊμού](images/cone-monkey.png)
 
-+ Check from different angles if the the cone is positioned properly on top of the monkey.
++ Έλεγξε από διαφορετικές γωνίες εάν ο κώνος είναι σωστά τοποθετημένος στην κορυφή της μαϊμούς.
 
-![Check cone](images/check-cone.png)
+![Έλεγχος κώνου](images/check-cone.png)
 
-Now we need to see what it looks like.
+Τώρα πρέπει να δούμε πώς φαίνεται.
 
-+ Render the image.
++ Αποτυπωμένη εικόνα.
 
-![Render cone monkey](images/render-cone-monkey.png)
+![Αποτύπωση μαϊμούς και κώνου](images/render-cone-monkey.png)
 
-The image shows that the monkey is not very well lit.
+Η εικόνα δείχνει ότι η μαϊμού δεν είναι πολύ καλά φωτισμένη.
 
 + Press <kbd>ESC</kbd> to exit the render view.
