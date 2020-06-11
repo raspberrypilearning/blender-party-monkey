@@ -1,35 +1,35 @@
-## The 3D scene
+## 3D 장면
 
-In the 3D view you have your 3D scene, which looks a bit like what you might see in a computer game for example.
+3D 보기에는 컴퓨터 게임에서 볼 수 있는 것과 같은 3D 장면이 있습니다.
 
-There are three main components in the 3D scene that we need to understand to get started.
+3D 장면에는 시작하기 위해 이해해야 할 세 가지 주요 구성 요소가 있습니다.
 
-### A cube in the centre
+### 중앙에 위치한 큐브
 
-This is what is going to be rendered and shown in the image.
+이것이 이미지에서 렌더링되고 보여 질 것입니다.
 
-![Centre cube](images/centre-cube.png)
+![중앙에 위치한 큐브](images/centre-cube.png)
 
-### A light source
+### 광원
 
-By rotating the scene you can see the exact position of the light source.
+장면을 회전시키면 광원의 정확한 위치를 볼 수 있습니다.
 
-![Light source](images/light-source.png)
+![광원](images/light-source.png)
 
-+ Rotate your scene until you see the top of the light source.
++ 광원의 상단부가 보일 때까지 장면을 회전시킵니다.
 
-![Light source top](images/light-source-top.png)
+![광원의 상단부](images/light-source-top.png)
 
-### A camera
+### 카메라
 
-This is from where you will see your scene.
+장면을 이 지점을 기준으로 보게 될 것입니다.
 
-![Camera](images/camera.png)
+![카메라](images/camera.png)
 
-+ Rotate your scene so that it is behind the camera. An easy way to do this is to press `0` in you number pad, or go to `View` > `Cameras` > `Active Cameras`.
++ 카메라 뒤에 있도록 장면을 회전시킵니다. 숫자패드에서 `0`을 누르거나, `View` > `Cameras` > `Active Cameras`를 차례로 누릅니다.
 
-![active camera](images/camera-view.png)
+![활성화된 카메라](images/camera-view.png)
 
-![Behind the camera](images/behind-camera.png)
+![카메라의 뒤쪽](images/behind-camera.png)
 
-You will see a nice picture of the side of the cube.
+큐브 측면을 확인할 수 있을 것입니다.
