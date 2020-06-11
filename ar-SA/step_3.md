@@ -1,35 +1,35 @@
-## The 3D scene
+## المشهد الثلاثي الأبعاد
 
-In the 3D view you have your 3D scene, which looks a bit like what you might see in a computer game for example.
+في العرض الثلاثي الأبعاد لديك مشهد ثلاثي الأبعاد، الذي يبدو مثل ما قد تراه في لعبة كمبيوتر على سبيل المثال.
 
-There are three main components in the 3D scene that we need to understand to get started.
+هناك ثلاثة عناصر رئيسية في المشهد ثلاثي الأبعاد نحتاج إلى فهمها للبدء.
 
-### A cube in the centre
+### مكعب في المركز
 
-This is what is going to be rendered and shown in the image.
+هذا هو ما سيتم تقديمه وإظهاره في الصورة.
 
-![Centre cube](images/centre-cube.png)
+![مكعب المركز](images/centre-cube.png)
 
-### A light source
+### مصدر ضوء
 
-By rotating the scene you can see the exact position of the light source.
+من خلال تدوير المشهد يمكنك رؤية الموضع الدقيق لمصدر الضوء.
 
-![Light source](images/light-source.png)
+![مصدر ضوء](images/light-source.png)
 
-+ Rotate your scene until you see the top of the light source.
++ تدوير المشهد حتى ترى الجزء العلوي من مصدر الضوء.
 
-![Light source top](images/light-source-top.png)
+![مصدر الضوء العلوي](images/light-source-top.png)
 
-### A camera
+### الكاميرا
 
-This is from where you will see your scene.
+هذا هو المكان الذي سترى فيه المشهد الخاص بك.
 
-![Camera](images/camera.png)
+![الكاميرا](images/camera.png)
 
-+ Rotate your scene so that it is behind the camera. An easy way to do this is to press `0` in you number pad, or go to `View` > `Cameras` > `Active Cameras`.
++ قم بتدوير مشهدك بحيث يكون خلف الكاميرا. طريقة سهلة للقيام بذلك هي الضغط على `0` في لوحة الارقام، أو الذهاب إلى ` مشاهدة ` `الكاميرا` ثم `الكاميرات` ثم الكاميرات النشطة.
 
-![active camera](images/camera-view.png)
+![الكاميرا النشطة](images/camera-view.png)
 
-![Behind the camera](images/behind-camera.png)
+![خلف الكاميرا](images/behind-camera.png)
 
-You will see a nice picture of the side of the cube.
+سترى صورة جميلة لجانب المكعب.
