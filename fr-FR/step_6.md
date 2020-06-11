@@ -1,26 +1,26 @@
-## Add a monkey
+## Ajouter un singe
 
-We won't be needing the cube, so let's remove it.
+Nous n'aurons pas besoin du cube, alors retirons-le.
 
-+ Select the cube with the left mouse button. An orange border should appear around the cube.
-+ Make sure your mouse is in the 3D view.
-+ Press <kbd>X</kbd> to delete the cube.
-+ You'll be asked whether it's OK to delete the object.
++ Select the cube with the left mouse button. Un contour orange devrait apparaître autour du cube.
++ Assure-toi que ta souris est dans la vue 3D.
++ Appuie sur <kbd>X</kbd> pour supprimer le cube.
++ On te demandera si tu es d'accord de supprimer l'objet.
 
-![Delete object](images/delete-object.png)
+![Supprimer l’objet](images/delete-object.png)
 
-+ Select **Delete** or press <kbd>Enter</kbd>.
++ Sélectionne **Delete** ou appuie sur <kbd>Entrée</kbd>.
 
 To add objects to the scene, you can use the **Add** dropdown menu.
 
 + In the menu, go to the **Mesh** section and select **Monkey**.
 
-![Select monkey](images/select-monkey.png)
+![Sélectionner le singe](images/select-monkey.png)
 
-A monkey appears in your scene.
+Un singe apparaît dans ta scène.
 
-![A monkey appears](images/monkey-appears.png)
+![Un singe apparaît](images/monkey-appears.png)
 
-+ Position the monkey in front of the camera just like you did with the cube, so that we can see it after rendering. You can use the blue, green, and red handles again to move the monkey.
++ Positionne le singe devant la caméra comme tu l'as fait avec le cube, de sorte que nous puissions le voir après le rendu. Tu peux utiliser à nouveau les poignées bleues, vertes et rouges pour déplacer le singe.
 
-![Position the camera](images/camera-monkey.png)
+![Positionner la caméra](images/camera-monkey.png)
