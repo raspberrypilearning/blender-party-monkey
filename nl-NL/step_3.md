@@ -1,32 +1,32 @@
-## The 3D scene
+## De 3D-scène
 
-In the 3D view you have your 3D scene, which looks a bit like what you might see in a computer game for example.
+In de 3D-weergave heb je je 3D-scène, die er een beetje uitziet als wat je bijvoorbeeld in een computerspel ziet.
 
-There are three main components in the 3D scene that we need to understand to get started.
+Er zijn drie hoofdcomponenten in de 3D-scène die we moeten begrijpen om aan de slag te gaan.
 
-### A cube in the centre
+### Een kubus in het midden
 
-This is what is going to be rendered and shown in the image.
+Dit wordt gerenderd en weergegeven in de afbeelding.
 
 ![Centre cube](images/centre-cube.png)
 
-### A light source
+### Een lichtbron
 
-By rotating the scene you can see the exact position of the light source.
+Door de scène te draaien, kun je de exacte positie van de lichtbron zien.
 
 ![Light source](images/light-source.png)
 
-+ Rotate your scene until you see the top of the light source.
++ Draai je scène totdat je de bovenkant van de lichtbron ziet.
 
 ![Light source top](images/light-source-top.png)
 
-### A camera
+### Een camera
 
-This is from where you will see your scene.
+Dit is van waaruit je je scène zult zien.
 
 ![Camera](images/camera.png)
 
-+ Rotate your scene so that it is behind the camera. An easy way to do this is to press `0` in you number pad, or go to `View` > `Cameras` > `Active Cameras`.
++ Draai je scène zodat deze zich achter de camera bevindt. Een eenvoudige manier om dit te doen, is door op je nummerriek toetsenbord op `0` te drukken of ga naar `View` > `Cameras` > `Active Cameras`.
 
 ![active camera](images/camera-view.png)
 
