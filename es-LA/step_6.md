@@ -1,26 +1,26 @@
-## Add a monkey
+## Agrega un mono
 
-We won't be needing the cube, so let's remove it.
+No necesitaremos el cubo, así que vamos a borrarlo.
 
-+ Select the cube with the left mouse button. An orange border should appear around the cube.
-+ Make sure your mouse is in the 3D view.
-+ Press <kbd>X</kbd> to delete the cube.
-+ You'll be asked whether it's OK to delete the object.
++ Select the cube with the left mouse button. Debe aparecer un borde anaranjado alrededor del cubo.
++ Asegúrate de que tu mouse esté en la vista 3D.
++ Presiona <kbd>X</kbd> para borrar el cubo.
++ Te preguntará si deseas borrar el objeto.
 
-![Delete object](images/delete-object.png)
+![Borra un objeto](images/delete-object.png)
 
-+ Select **Delete** or press <kbd>Enter</kbd>.
++ Selecciona **Borrar** o presiona <kbd>Enter</kbd>.
 
 To add objects to the scene, you can use the **Add** dropdown menu.
 
 + In the menu, go to the **Mesh** section and select **Monkey**.
 
-![Select monkey](images/select-monkey.png)
+![Seleccionar un mono](images/select-monkey.png)
 
-A monkey appears in your scene.
+Un mono aparecerá en tu escena.
 
-![A monkey appears](images/monkey-appears.png)
+![Aparece un mono](images/monkey-appears.png)
 
-+ Position the monkey in front of the camera just like you did with the cube, so that we can see it after rendering. You can use the blue, green, and red handles again to move the monkey.
++ Coloca el mono frente a la cámara como lo hiciste con el cubo, para que podamos verlo después de crear tu modelo. Puedes usar los controles azul, verde y rojo de nuevo para mover el mono.
 
-![Position the camera](images/camera-monkey.png)
+![Posiciona la cámara](images/camera-monkey.png)
