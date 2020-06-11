@@ -1,35 +1,11 @@
-## Scena 3D
+## Rendering
 
-În vizualizarea 3D ai propria scena 3D, care arată asemănător cu ceea ce ai putea vedea într-un joc pe calculator, de exemplu.
+Rendering is the process of generating an image from a 3D model.
 
-Există trei componente principale în scena 3D pe care trebuie să le înțelegem pentru a începe.
++ Render the scene by pressing <kbd>F12</kbd>. If you're working on a Mac, press <kbd>FN + F12</kbd>.
 
-### Un cub în centru
+![Rendered image](images/render.png)
 
-Aceasta este obiectul ce va fi randat și arătat la final.
+You can see that the top and right side of the cube are lit, but the left side is dark. That's because the light source is on the top right side of the cube.
 
-![Cubul din centru](images/centre-cube.png)
-
-### O sursă de lumină
-
-Prin rotirea scenei poți vedea poziția exactă a sursei de lumină.
-
-![Sursă de lumină](images/light-source.png)
-
-+ Rotește scena până când vezi partea superioară a sursei de lumină.
-
-![Sursă de lumină văzută de deasupra](images/light-source-top.png)
-
-### O cameră
-
-Acesta este locul de unde vei vedea scena ta.
-
-![Camera](images/camera.png)
-
-+ Rotește-ți scena astfel încât să fie în spatele camerei. O modalitate ușoară de a face acest lucru este de a apăsa tasta numerică `0`, sau mergi la `View` > `Cameras` > `Active Cameras`.
-
-![cameră activă](images/camera-view.png)
-
-![Behind the camera](images/behind-camera.png)
-
-You will see a nice picture of the side of the cube.
++ Press <kbd>ESC</kbd> to get out of the render view.
