@@ -1,15 +1,15 @@
-## Change the lighting
+## Beleuchtung ändern
 
-We need to move the light to shine upon the front of the monkey.
+Wir müssen das Licht verschieben, damit es auf die Vorderseite des Affens leuchtet.
 
-+ Select the lamp with the left mouse button. Check for the orange border.
++ Select the lamp with the left mouse button. Überprüfe den orangefarbenen Rand.
 
-+ Move the lamp using the handles so that it is shining on the front of the monkey's face.
++ Bewege die Lampe mit den Pfeilen, so dass sie auf die Vorderseite des Affens leuchtet.
 
-+ Render the image again.
++ Render das Bild erneut.
 
-+ Check whether the monkey's face is well lit, like in the image below.
++ Überprüfe, ob das Gesicht des Affens gut beleuchtet ist, so wie im Bild unten.
 
-![Well lit](images/well-lit.png)
+![Gut beleuchtet](images/well-lit.png)
 
-+ If it isn't, press <kbd>ESC</kbd> and move the lamp a bit more towards the monkey's face.
++ Wenn das nicht der Fall ist, drücke <kbd>ESC</kbd> und bewege die Lampe etwas mehr in Richtung des Gesichts des Affens.
