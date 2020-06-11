@@ -1,15 +1,15 @@
 ## Change the lighting
 
-We need to move the light to shine upon the front of the monkey.
+Nous devons déplacer la lumière pour qu'elle brille sur l'avant du singe.
 
-+ Select the lamp with the left mouse button. Check for the orange border.
++ Select the lamp with the left mouse button. Vérifie le contour orange.
 
-+ Move the lamp using the handles so that it is shining on the front of the monkey's face.
++ Déplace la lampe à l'aide des poignées pour qu'elle s'illumine sur l'avant du visage du singe.
 
-+ Render the image again.
++ Fais de nouveau un rendu de l'image.
 
-+ Check whether the monkey's face is well lit, like in the image below.
++ Vérifie si le visage du singe est bien éclairé, comme dans l'image ci-dessous.
 
-![Well lit](images/well-lit.png)
+![Bien éclairé](images/well-lit.png)
 
-+ If it isn't, press <kbd>ESC</kbd> and move the lamp a bit more towards the monkey's face.
++ Si ce n'est pas le cas, appuie sur <kbd>ECHAP</kbd> et déplace la lampe un peu plus vers le visage du singe.
