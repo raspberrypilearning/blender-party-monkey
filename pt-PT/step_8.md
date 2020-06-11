@@ -1,35 +1,15 @@
-## Add a hat
+## Change the lighting
 
-We can also add a hat. For this we will use a cone.
+We need to move the light to shine upon the front of the monkey.
 
-+ Select **Cone** from the **Create** tab.
++ Select the lamp with the left mouse button. Check for the orange border.
 
-A cone should appear in your scene. Now you have a monkey and a cone.
++ Move the lamp using the handles so that it is shining on the front of the monkey's face.
 
-![Monkey and cone](images/monkey-and-cone.png)
++ Render the image again.
 
-Now the cone needs to be positioned on top of the monkey.
++ Check whether the monkey's face is well lit, like in the image below.
 
-+ Rotate and zoom a bit towards the cone and the monkey to have a better view on both objects.
+![Well lit](images/well-lit.png)
 
-![Zoom in on the monkey](images/zoom-monkey.png)
-
-+ Select the cone using the right mouse button. Again an orange border should appear around it.
-
-+ Use the blue, green, and red handles to move the cone on top of the monkey. You might have to rotate and zoom in or out to get a proper view.
-
-![Cone on the monkey](images/cone-monkey.png)
-
-+ Check from different angles if the the cone is positioned properly on top of the monkey.
-
-![Check cone](images/check-cone.png)
-
-Now we need to see what it looks like.
-
-+ Render the image.
-
-![Render cone monkey](images/render-cone-monkey.png)
-
-The image shows that the monkey is not very well lit.
-
-+ Press <kbd>ESC</kbd> to exit the render view.
++ If it isn't, press <kbd>ESC</kbd> and move the lamp a bit more towards the monkey's face.
