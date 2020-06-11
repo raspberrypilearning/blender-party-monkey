@@ -4,44 +4,44 @@ To select an object in Blender, use the left mouse button.
 
 + Select the cube with the left mouse button. Tu verras un contour orange autour du cube.
 
-In Blender you can move objects by using the blue, green, and red handles: The blue handle to go up and down on the z-axis, the green handle to go left and right on the y-axis, and the red handle to go in and out on the x-axis. From Blender 2.8, you will need to click on the move gizmo from the list of icons on the left of your screen to make the handles appear.
+Dans Blender, tu peux déplacer des objets en utilisant les poignées bleues, vertes et rouges : la poignée bleue pour monter et descendre sur l'axe-z, la poignée verte pour aller à gauche et à droite sur l'axe-y, et la poignée rouge pour entrer et sortir sur l'axe-x. From Blender 2.8, you will need to click on the move gizmo from the list of icons on the left of your screen to make the handles appear.
 
 ![Move gizmo](images/move-gizmo.png)
 
-![Coloured handles](images/coloured-handles.png)
+![Poignées colorées](images/coloured-handles.png)
 
 + Déplace le cube vers le haut en appuyant sur la poignée bleue avec le bouton gauche de la souris et en le déplaçant vers le haut. Lorsque tu appuies sur la poignée bleue, une ligne bleue apparaît. Déplace le cube sur la ligne bleue.
 
-![Move up](images/move-up.png)
+![Déplacer vers le haut](images/move-up.png)
 
 + Déplace le cube vers la droite en appuyant sur la poignée verte avec le bouton gauche de la souris et en le déplaçant vers la droite. Lorsque tu appuies sur la poignée verte, une ligne verte apparaît. Déplace le cube le long de la ligne verte.
 
-![Move right](images/move-right.png)
+![Déplacer vers la droite](images/move-right.png)
 
 + Déplace le cube à l'intérieur ou à l'extérieur en appuyant sur la poignée rouge avec le bouton gauche de la souris et en le déplaçant d'avant en arrière. Lorsque tu appuies sur la poignée rouge, une ligne rouge apparaît. Déplace le cube le long de la ligne rouge.
 
-![Move in and out](images/move-in-and-out.png)
+![Entrer et sortir](images/move-in-and-out.png)
 
 + Déplace le cube sur ta scène vers une position différente.
 
 + Va dans la vue de rendu pour voir à quoi il ressemblera. Par exemple :
 
-![Example render](images/example-render.png)
+![Exemple de rendu](images/example-render.png)
 
-You might see nothing or only part of the cube. This means that the object is not (completely) in the camera's view.
+Tu pourrais ne rien voir ou seulement une partie du cube. Cela signifie que l'objet n'est pas (complètement) dans la vue de la caméra.
 
-+ Press <kbd>ESC</kbd> to get out of the render view.
++ Appuie sur <kbd>ECHAP</kbd> pour sortir de la vue de rendu.
 
-+ Déplace la scène 3D avec le bouton central de la souris vers l'arrière de la caméra. For example:
++ Déplace la scène 3D avec le bouton central de la souris vers l'arrière de la caméra. Par exemple :
 
-![Move behind camera](images/move-behind-camera.png)
+![Déplacer derrière la caméra](images/move-behind-camera.png)
 
 + Déplace le cube en utilisant les poignées bleues, vertes et rouges de sorte que tu puisses voir le cube de derrière la caméra.
 
-![Cube behind camera](images/cube-behind-camera.png)
+![Cube derrière la caméra](images/cube-behind-camera.png)
 
 + Fais de nouveau un rendu pour voir à quoi ressemble ton image. Tu verras probablement la même image qu'avant.
 
-![Same image](images/same-image.png)
+![Même image](images/same-image.png)
 
 + Appuie sur <kbd>ECHAP</kbd> pour quitter la vue de rendu.
