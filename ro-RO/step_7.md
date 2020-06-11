@@ -1,26 +1,35 @@
-## Adaugă o maimuță
+## Add a hat
 
-Nu vom avea nevoie de cub, deci să-l eliminăm.
+We can also add a hat. For this we will use a cone.
 
-+ Selectează cubul cu butonul drept al mouse-ului. O margine portocalie ar trebui să apară în jurul cubului.
-+ Asigură-te că ai cursorul în vizualizarea 3D.
-+ Apasă pe <kbd>X</kbd> pentru a șterge cubul.
-+ Vei fi întrebat dacă este OK să ștergi obiectul.
++ Select **Cone** from the **Mesh** section.
 
-![Șterge obiectul](images/delete-object.png)
+A cone should appear in your scene. Now you have a monkey and a cone.
 
-+ Selectează **Delete** sau apasă <kbd>Enter</kbd>.
+![Monkey and cone](images/monkey-and-cone.png)
 
-Pentru a adăuga obiecte la scenă, poți utiliza meniul de instrumente din stânga. Setul de instrumente din partea stângă conține o opțiune **Create**, care are la rândul ei o selecție de lucruri ce le poți adăuga.
+Now the cone needs to be positioned on top of the monkey.
 
-+ În meniu vei merge la **Create** și vei selecta apoi **Monkey** pentru a adăuga maimuța.
++ Rotate and zoom a bit towards the cone and the monkey to have a better view on both objects.
 
-![Selectează maimuța](images/select-monkey.png)
+![Zoom in on the monkey](images/zoom-monkey.png)
 
-O să îți apară o maimuță în scenă.
++ Select the cone using the left mouse button. Again an orange border should appear around it.
 
-![Apare o maimuță](images/monkey-appears.png)
++ Use the move gizmo and the blue, green, and red handles to move the cone on top of the monkey. You might have to rotate and zoom in or out to get a proper view.
 
-+ Poziționează maimuța în fața camerei, așa cum ai făcut la cub, astfel încât să îl poți vedea după randare. Poți folosi din nou săgețile pentru a muta maimuța.
+![Cone on the monkey](images/cone-monkey.png)
 
-![Poziția camera](images/camera-monkey.png)
++ Check from different angles if the the cone is positioned properly on top of the monkey.
+
+![Check cone](images/check-cone.png)
+
+Now we need to see what it looks like.
+
++ Render the image.
+
+![Render cone monkey](images/render-cone-monkey.png)
+
+The image shows that the monkey is not very well lit.
+
++ Press <kbd>ESC</kbd> to exit the render view.
