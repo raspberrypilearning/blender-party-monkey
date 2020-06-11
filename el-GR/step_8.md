@@ -1,15 +1,15 @@
-## Change the lighting
+## Αλλαγή φωτισμού
 
-We need to move the light to shine upon the front of the monkey.
+Πρέπει να μετακινήσουμε το φως για να φωτίζει το μπροστινό μέρος της μαϊμούς.
 
-+ Select the lamp with the left mouse button. Check for the orange border.
++ Select the lamp with the left mouse button. Έλεγξε για το πορτοκαλί περίγραμμα.
 
-+ Move the lamp using the handles so that it is shining on the front of the monkey's face.
++ Μετακίνησε τη λάμπα χρησιμοποιώντας τις λαβές έτσι ώστε να φωτίζει το μπροστινό μέρος του προσώπου της μαϊμούς.
 
-+ Render the image again.
++ Αποτύπωσε πάλι την εικόνα.
 
-+ Check whether the monkey's face is well lit, like in the image below.
++ Έλεγξε αν το πρόσωπο της μαϊμούς είναι καλά φωτισμένο, όπως στην παρακάτω εικόνα.
 
-![Well lit](images/well-lit.png)
+![Καλά φωτισμένο](images/well-lit.png)
 
-+ If it isn't, press <kbd>ESC</kbd> and move the lamp a bit more towards the monkey's face.
++ Εάν δεν είναι, πάτησε <kbd>ESC</kbd> και μετακίνησε τη λάμπα λίγο περισσότερο προς το πρόσωπο της μαϊμούς.
