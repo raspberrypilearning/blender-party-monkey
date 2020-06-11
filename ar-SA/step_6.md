@@ -1,26 +1,26 @@
-## Add a monkey
+## أضف قرد
 
-We won't be needing the cube, so let's remove it.
+لن نكون بحاجة إلى المكعب، لذا دعونا نزيله.
 
-+ Select the cube with the left mouse button. An orange border should appear around the cube.
-+ Make sure your mouse is in the 3D view.
-+ Press <kbd>X</kbd> to delete the cube.
-+ You'll be asked whether it's OK to delete the object.
++ Select the cube with the left mouse button. يجب أن يظهر حد برتقالي حول المكعب.
++ تأكد من أن الماوس الخاص بك في العرض الثلاثي الأبعاد.
++ اضغط <kbd>X</kbd> لحذف المكعب.
++ سوف تسأل عما إذا كان لا بأس بحذف الكائن.
 
-![Delete object](images/delete-object.png)
+![إزالة هذا العنصر](images/delete-object.png)
 
-+ Select **Delete** or press <kbd>Enter</kbd>.
++ حدد **حذف** أو اضغط <kbd>Enter</kbd>.
 
 To add objects to the scene, you can use the **Add** dropdown menu.
 
 + In the menu, go to the **Mesh** section and select **Monkey**.
 
-![Select monkey](images/select-monkey.png)
+![حدد القرد](images/select-monkey.png)
 
-A monkey appears in your scene.
+سيظهر قرد في المشهد الخاص بك.
 
-![A monkey appears](images/monkey-appears.png)
+![يظهر القرد](images/monkey-appears.png)
 
-+ Position the monkey in front of the camera just like you did with the cube, so that we can see it after rendering. You can use the blue, green, and red handles again to move the monkey.
++ ضع القرد أمام الكاميرا تماما كما فعلت مع المكعب، بحيث يمكننا رؤيته بعد تقديمه. يمكنك استخدام المقابض الزرقاء والخضراء والحمراء مرة أخرى لتحريك القرد.
 
-![Position the camera](images/camera-monkey.png)
+![وضع الكاميرا](images/camera-monkey.png)
