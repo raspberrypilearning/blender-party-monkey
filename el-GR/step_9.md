@@ -1,8 +1,8 @@
-## Challenge: a new scene
+## Πρόκληση: μια νέα σκηνή
 
-+ Add more objects from the **Create** tab in the toolbox.
-+ Move the objects around, creating a different scene.
-+ Add a disco ball to the party scene.
-+ Add a rim to the party monkey's hat.
++ Πρόσθεσε περισσότερα αντικείμενα από το μενού **Create** στην εργαλειοθήκη.
++ Μετακίνησε τα αντικείμενα γύρω, δημιουργώντας μια διαφορετική σκηνή.
++ Πρόσθεσε μια ντισκομπάλα στη σκηνή του πάρτι.
++ Πρόσθεσε ένα χείλος ή γείσο γύρω από το καπέλο της μαϊμούς.
 
-![Challenge](images/challenge.png)
+![Πρόκληση](images/challenge.png)
