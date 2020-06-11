@@ -1,11 +1,11 @@
-## Rendering
+## استدعاء
 
-Rendering is the process of generating an image from a 3D model.
+الاستدعاء هو عملية توليد صورة من نموذج ثلاثي الأبعاد.
 
-+ Render the scene by pressing <kbd>F12</kbd>. If you're working on a Mac, press <kbd>FN + F12</kbd>.
++ قم بعرض المشهد بالضغط على <kbd> F12 </kbd>. إذا كنت تعمل على Mac، اضغط <kbd>FN + F12</kbd>.
 
-![Rendered image](images/render.png)
+![الصورة المعروضة](images/render.png)
 
-You can see that the top and right side of the cube are lit, but the left side is dark. That's because the light source is on the top right side of the cube.
+يمكنك أن ترى أن الجزء العلوي والجانب الأيمن من المكعب مضاء ، لكن الجانب الأيسر مظلم. وذلك لأن مصدر الضوء هو على الجانب الأيمن العلوي من المكعب.
 
-+ Press <kbd>ESC</kbd> to get out of the render view.
++ اضغط <kbd>ESC</kbd> للخروج من العرض.
