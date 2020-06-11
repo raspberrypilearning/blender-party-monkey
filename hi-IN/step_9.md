@@ -1,8 +1,8 @@
-## Challenge: a new scene
+## चुनौती: एक नया दृश्य
 
-+ Add more objects from the **Create** tab in the toolbox.
-+ Move the objects around, creating a different scene.
-+ Add a disco ball to the party scene.
-+ Add a rim to the party monkey's hat.
++ टूलबॉक्स में **Create** टैब से और अधिक वस्तुएँ जोड़ें।
++ वस्तुओं को इधर-उधर ले जाएँ, और कोई अलग दृश्य बनाएँ।
++ पार्टी के दृश्य में एक डिस्को बॉल जोड़ें।
++ पार्टी वाले बंदर की टोपी में एक घेरा जोड़ें।
 
-![Challenge](images/challenge.png)
+![चुनौती](images/challenge.png)
