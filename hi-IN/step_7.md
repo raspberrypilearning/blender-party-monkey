@@ -1,35 +1,35 @@
-## Add a hat
+## एक टोपी जोड़ें
 
-We can also add a hat. For this we will use a cone.
+हम एक टोपी भी जोड़ सकते हैं। इसके लिए हम एक शंकु का उपयोग करेंगे।
 
 + Select **Cone** from the **Mesh** section.
 
-A cone should appear in your scene. Now you have a monkey and a cone.
+आपके दृश्य में एक शंकु दिखाई देना चाहिए। अब आपके पास एक बंदर और एक शंकु है।
 
-![Monkey and cone](images/monkey-and-cone.png)
+![बंदर और शंकु](images/monkey-and-cone.png)
 
-Now the cone needs to be positioned on top of the monkey.
+अब शंकु को बंदर के शीर्ष पर लगाना होगा।
 
-+ Rotate and zoom a bit towards the cone and the monkey to have a better view on both objects.
++ दोनों वस्तुओं का बेहतर दृश्य प्राप्त करने के लिए शंकु और बंदर की तरफ थोड़ा सा घुमाएँ और ज़ूम करें।
 
-![Zoom in on the monkey](images/zoom-monkey.png)
+![बंदर पर ज़ूम इन करें](images/zoom-monkey.png)
 
-+ Select the cone using the left mouse button. Again an orange border should appear around it.
++ Select the cone using the left mouse button. इसके चारों ओर भी एक नारंगी बॉर्डर दिखाई देना चाहिए।
 
-+ Use the move gizmo and the blue, green, and red handles to move the cone on top of the monkey. You might have to rotate and zoom in or out to get a proper view.
++ Use the move gizmo and the blue, green, and red handles to move the cone on top of the monkey. उचित दृश्य प्राप्त करने के लिए आपको घुमना और ज़ूम इन या आउट करना पड़ सकता है।
 
-![Cone on the monkey](images/cone-monkey.png)
+![बंदर पर शंकु लगाएँ](images/cone-monkey.png)
 
-+ Check from different angles if the the cone is positioned properly on top of the monkey.
++ यह देखने के लिए विभिन्न कोणों से जाँच करें कि बंदर के शीर्ष पर शंकु ठीक से लगा है।
 
-![Check cone](images/check-cone.png)
+![शंकु की जाँच करें](images/check-cone.png)
 
-Now we need to see what it looks like.
+अब हमें यह देखना होगा कि यह कैसा दिखता है।
 
-+ Render the image.
++ छवि प्रस्तुत करें।
 
-![Render cone monkey](images/render-cone-monkey.png)
+![शंकु वाला बंदर प्रस्तुत करें](images/render-cone-monkey.png)
 
-The image shows that the monkey is not very well lit.
+छवि से पता चलता है कि बंदर पर रोशनी बहुत अच्छी तरह से नहीं आ रही है।
 
-+ Press <kbd>ESC</kbd> to exit the render view.
++ प्रस्तुत दृश्य से बाहर निकलने के लिए <kbd>ESC</kbd> दबाएँ।
