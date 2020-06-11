@@ -1,20 +1,38 @@
 ## Introduction
 
-Create a 3D model of a monkey wearing a party hat using Blender.
+Crée un modèle 3D d'un singe portant un chapeau de fête à l'aide de Blender.
 
-### What you will make
+### Ce que tu feras
 
-Here is how your finished piece will look:
+Voici à quoi ressemblera ton modèle terminé :
 
-<div class="sketchfab-embed-wrapper">
-  <iframe width="640" height="480" src="https://sketchfab.com/models/11edaf9b8d1b4d62b5b30b28a292df71/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
+<div class="responsive-embed responsive-embed--video">
+  <iframe class="responsive-embed__iframe" src="https://sketchfab.com/models/11edaf9b8d1b4d62b5b30b28a292df71/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
 
-### What you will learn
+## \--- collapse \---
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+## title: "What you will learn"
 
-+ [Design basic 2D and 3D assets](https://curriculum.raspberrypi.org/design/creator/){:target="_blank"}
+Ce projet couvre les éléments des sections suivantes du [Programme Raspberry Pi de création numérique](http://rpf.io/curriculum){:target="_blank"} :
+
++ [Concevoir des éléments de base en 2D et 3D](https://curriculum.raspberrypi.org/design/creator/){:target="_blank"}
+
+\--- /collapse \---
+
+## \--- collapse \---
+
+## title: "What you will need"
+
+### Hardware
+
++ A desktop or laptop computer capable of running the Blender software
+
+### Software
+
++ [Blender](https://www.blender.org/download/){:target="_blank"} (v2.8 or newer)
+
+\--- /collapse \---
 
 ### Additional information for educators
 
@@ -22,7 +40,7 @@ If you need to print this project, please use the [printer-friendly version](htt
 
 Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
 
-If you prefer, you can watch the whole resource as a video tutorial: <iframe width="560" height="315" src="https://www.youtube.com/embed/8TXPfOx8jNE?rel=0" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+If you prefer, you can watch the whole resource as a video tutorial: <iframe width="560" height="315" src="https://www.youtube.com/embed/93ux_JliBew" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 ### License
 
