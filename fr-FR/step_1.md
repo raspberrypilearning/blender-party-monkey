@@ -22,11 +22,11 @@ Ce projet couvre les éléments des sections suivantes du [Programme Raspberry P
 
 ## \--- collapse \---
 
-## title: "What you will need"
+## title: Ce qu'il te faut
 
 ### Matériel informatique
 
-+ A desktop or laptop computer capable of running the Blender software
++ Un ordinateur de bureau ou un ordinateur portable capable d'exécuter le logiciel Blender
 
 ### Logiciel
 
@@ -34,14 +34,14 @@ Ce projet couvre les éléments des sections suivantes du [Programme Raspberry P
 
 \--- /collapse \---
 
-### Additional information for educators
+### Informations supplémentaires pour les éducateurs
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/blender-party-monkey/print){:target="_blank"}.
+Si vous avez besoin d'imprimer ce projet, merci d'utiliser la [version imprimable](https://projects.raspberrypi.org/en/projects/blender-party-monkey/print) {:target="_blank"}.
 
 Utilisez le lien en bas de page pour accéder au dépôt GitHub pour ce projet, qui contient toutes les ressources (y compris un exemple d'un projet terminé) dans le dossier 'en/resources'.
 
-If you prefer, you can watch the whole resource as a video tutorial: <iframe width="560" height="315" src="https://www.youtube.com/embed/93ux_JliBew" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+Si vous préférez, vous pouvez regarder l'intégralité de la ressource sous forme de tutoriel vidéo : <iframe width="560" height="315" src="https://www.youtube.com/embed/93ux_JliBew" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 ### License
 
-***Party Monkey*** by 3Dami & b3d101, Peter Kemp, Tom Haines, Monique Dewanchand is licenced under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+***Party Monkey*** par 3Dami & b3d101, Peter Kemp, Tom Haines, Monique Dewanchand est sous licence [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
