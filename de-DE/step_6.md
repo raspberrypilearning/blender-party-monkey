@@ -1,26 +1,26 @@
-## Add a monkey
+## Füge einen Affen hinzu
 
-We won't be needing the cube, so let's remove it.
+Wir brauchen den Würfel nicht, also entferne ihn.
 
-+ Select the cube with the left mouse button. An orange border should appear around the cube.
-+ Make sure your mouse is in the 3D view.
-+ Press <kbd>X</kbd> to delete the cube.
-+ You'll be asked whether it's OK to delete the object.
++ Select the cube with the left mouse button. Um den Würfel sollte ein orangefarbener Rand erscheinen.
++ Stell sicher, dass sich dein Mauszeiger in der 3D-Ansicht befindet.
++ Drücke <kbd>X</kbd> um den Würfel zu entfernen.
++ Du wirst gefragt, ob es in Ordnung ist, das Objekt zu löschen.
 
-![Delete object](images/delete-object.png)
+![Objekt löschen](images/delete-object.png)
 
-+ Select **Delete** or press <kbd>Enter</kbd>.
++ Wähle **Löschen** oder drücke <kbd>Enter</kbd>.
 
 To add objects to the scene, you can use the **Add** dropdown menu.
 
 + In the menu, go to the **Mesh** section and select **Monkey**.
 
-![Select monkey](images/select-monkey.png)
+![Affen auswählen](images/select-monkey.png)
 
-A monkey appears in your scene.
+Ein Affe erscheint in deiner Szene.
 
-![A monkey appears](images/monkey-appears.png)
+![Ein Affen erscheint](images/monkey-appears.png)
 
-+ Position the monkey in front of the camera just like you did with the cube, so that we can see it after rendering. You can use the blue, green, and red handles again to move the monkey.
++ Damit wir den Affen nach dem Rendern sehen können, musst du ihn so vor der Kamera platzieren, wie du es mit dem Würfel gemacht hast. Mit den blauen, grünen und roten Pfeilen kannst du den Affen bewegen.
 
-![Position the camera](images/camera-monkey.png)
+![Kamera positionieren](images/camera-monkey.png)
