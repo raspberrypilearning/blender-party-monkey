@@ -24,11 +24,11 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 
 ## title: "What you will need"
 
-### Hardware
+### Υλικό
 
 + A desktop or laptop computer capable of running the Blender software
 
-### Software
+### Λογισμικό
 
 + [Blender](https://www.blender.org/download/){:target="_blank"} (v2.8 or newer)
 
@@ -38,7 +38,7 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/blender-party-monkey/print){:target="_blank"}.
 
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+Χρησιμοποίησε το σύνδεσμο στο υποσέλιδο για να αποκτήσεις πρόσβαση στο αποθετήριο GitHub για αυτό το έργο, το οποίο περιέχει όλους τους πόρους (συμπεριλαμβανομένου ενός ολοκληρωμένου έργου) στο φάκελο 'en/resources'.
 
 If you prefer, you can watch the whole resource as a video tutorial: <iframe width="560" height="315" src="https://www.youtube.com/embed/93ux_JliBew" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
 
