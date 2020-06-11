@@ -1,7 +1,7 @@
 ---
-title: Party monkey
+title: Singe fêtard
 hero_image: images/banner.png
-description: Create a 3D model of a monkey in a party hat using Blender
+description: Crée un modèle 3D d'un singe avec un chapeau de fête à l'aide de Blender
 theme: turquoise #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
 duration: 2
 listed: true
@@ -18,8 +18,6 @@ last_tested: 2017-01-01
 steps:
   - 
     title: Introduction
-  - 
-    title: What you will need
   - 
     title: Zooming and rotating
   - 
