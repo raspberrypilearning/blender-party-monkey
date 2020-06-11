@@ -1,26 +1,26 @@
-## Add a monkey
+## 원숭이 추가하기
 
-We won't be needing the cube, so let's remove it.
+큐브가 필요하지 않으므로 제거하겠습니다.
 
-+ Select the cube with the left mouse button. An orange border should appear around the cube.
-+ Make sure your mouse is in the 3D view.
-+ Press <kbd>X</kbd> to delete the cube.
-+ You'll be asked whether it's OK to delete the object.
++ Select the cube with the left mouse button. 큐브 주위에 주황색 테두리가 나타날 것입니다.
++ 마우스가 3D 보기에 있는지 확인하십시오.
++ <kbd>X</kbd> 를 눌러 큐브를 지워주세요.
++ 객체를 삭제할 지 묻는 메시지가 표시됩니다.
 
-![Delete object](images/delete-object.png)
+![오브젝트 삭제](images/delete-object.png)
 
-+ Select **Delete** or press <kbd>Enter</kbd>.
++ **Delete**를 선택하거나 <kbd>Enter</kbd>를 누르세요.
 
 To add objects to the scene, you can use the **Add** dropdown menu.
 
 + In the menu, go to the **Mesh** section and select **Monkey**.
 
-![Select monkey](images/select-monkey.png)
+![원숭이 선택하기](images/select-monkey.png)
 
-A monkey appears in your scene.
+장면에 원숭이가 나타납니다.
 
-![A monkey appears](images/monkey-appears.png)
+![원숭이가 나타난 모습](images/monkey-appears.png)
 
-+ Position the monkey in front of the camera just like you did with the cube, so that we can see it after rendering. You can use the blue, green, and red handles again to move the monkey.
++ 큐브와 마찬가지로 원숭이를 카메라 앞에 배치하여 렌더링 후에 볼 수 있도록 합니다. 파란색, 녹색 및 빨간색 핸들을 다시 사용하여 원숭이를 움직일 수 있습니다.
 
-![Position the camera](images/camera-monkey.png)
+![카메라 위치를 잡는 과정](images/camera-monkey.png)
