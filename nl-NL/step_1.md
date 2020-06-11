@@ -34,7 +34,7 @@ Dit project behandelt elementen uit de volgende onderdelen van het [Raspberry Pi
 
 \--- /collapse \---
 
-### Additional information for educators
+### Aanvullende informatie voor docenten
 
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/blender-party-monkey/print){:target="_blank"}.
 
