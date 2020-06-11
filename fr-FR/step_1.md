@@ -12,7 +12,7 @@ Voici à quoi ressemblera ton modèle terminé :
 
 ## \--- collapse \---
 
-## title: "What you will learn"
+## title: Ce que tu vas apprendre
 
 Ce projet couvre les éléments des sections suivantes du [Programme Raspberry Pi de création numérique](http://rpf.io/curriculum){:target="_blank"} :
 
@@ -24,11 +24,11 @@ Ce projet couvre les éléments des sections suivantes du [Programme Raspberry P
 
 ## title: "What you will need"
 
-### Hardware
+### Matériel informatique
 
 + A desktop or laptop computer capable of running the Blender software
 
-### Software
+### Logiciel
 
 + [Blender](https://www.blender.org/download/){:target="_blank"} (v2.8 or newer)
 
@@ -38,7 +38,7 @@ Ce projet couvre les éléments des sections suivantes du [Programme Raspberry P
 
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/blender-party-monkey/print){:target="_blank"}.
 
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+Utilisez le lien en bas de page pour accéder au dépôt GitHub pour ce projet, qui contient toutes les ressources (y compris un exemple d'un projet terminé) dans le dossier 'en/resources'.
 
 If you prefer, you can watch the whole resource as a video tutorial: <iframe width="560" height="315" src="https://www.youtube.com/embed/93ux_JliBew" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
 
