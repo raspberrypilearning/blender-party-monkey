@@ -1,35 +1,35 @@
-## Add a hat
+## أضف قبعة
 
-We can also add a hat. For this we will use a cone.
+يمكننا أيضا إضافة قبعة. لهذا سنستخدم مخروط.
 
 + Select **Cone** from the **Mesh** section.
 
-A cone should appear in your scene. Now you have a monkey and a cone.
+يجب أن يظهر المخروط في المشهد الخاص بك. الآن لديك قرد ومخروط.
 
-![Monkey and cone](images/monkey-and-cone.png)
+![قرد ومخروط](images/monkey-and-cone.png)
 
-Now the cone needs to be positioned on top of the monkey.
+الآن يجب أن يوضع المخروط على رأس القرد.
 
-+ Rotate and zoom a bit towards the cone and the monkey to have a better view on both objects.
++ قم بالتدوير والتكبير قليلاً نحو المخروط والقرد للحصول على عرض أفضل لكلا الجسمين.
 
-![Zoom in on the monkey](images/zoom-monkey.png)
+![تكبير على القرد](images/zoom-monkey.png)
 
-+ Select the cone using the left mouse button. Again an orange border should appear around it.
++ Select the cone using the left mouse button. مرة أخرى يجب أن يظهر حد برتقالي حوله.
 
-+ Use the move gizmo and the blue, green, and red handles to move the cone on top of the monkey. You might have to rotate and zoom in or out to get a proper view.
++ Use the move gizmo and the blue, green, and red handles to move the cone on top of the monkey. قد تضطر إلى التدوير والتكبير/التصغير للحصول على عرض صحيح.
 
-![Cone on the monkey](images/cone-monkey.png)
+![مخروط على القرد](images/cone-monkey.png)
 
-+ Check from different angles if the the cone is positioned properly on top of the monkey.
++ تحقق من زوايا مختلفة إذا تم وضع المخروط بشكل صحيح فوق القرد.
 
-![Check cone](images/check-cone.png)
+![تحقق من المخروط](images/check-cone.png)
 
-Now we need to see what it looks like.
+الآن نحن بحاجة إلى رؤية كيف يبدو.
 
-+ Render the image.
++ عرض الصورة.
 
-![Render cone monkey](images/render-cone-monkey.png)
+![عرض قرد المخروط](images/render-cone-monkey.png)
 
-The image shows that the monkey is not very well lit.
+تظهر الصورة أن القرد ليس مضاء بشكل جيد.
 
-+ Press <kbd>ESC</kbd> to exit the render view.
++ اضغط على <kbd> ESC </kbd> للخروج من عرض التجسيد.
