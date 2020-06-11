@@ -1,27 +1,35 @@
-## Mărirea și rotirea
+## The 3D scene
 
-+ Deschide Blender.
+In the 3D view you have your 3D scene, which looks a bit like what you might see in a computer game for example.
 
-Când deschizi Blender, va apărea un ecran de pornire. Ecranul de pornire al lui Blender v2.76 arată astfel:
+There are three main components in the 3D scene that we need to understand to get started.
 
-![Ecran de pornire](images/splash-screen.png)
+### A cube in the centre
 
-Pentru acest tutorial nu vom mai avea nevoie de ecranul de pornire.
+This is what is going to be rendered and shown in the image.
 
-+ Dă click dreapta și ecranul de pornire va dispărea.
+![Centre cube](images/centre-cube.png)
 
-În centru, vei vedea vizualizarea 3D. În acest spațiu vei poziționa toate elementele care trebuie afișate sau randate. Ai deja trei elemente diferite în vizualizarea 3D. Vom analiza aceste obiecte mai târziu.
+### A light source
 
-![Vizualizare 3D](images/3d-view.png)
+By rotating the scene you can see the exact position of the light source.
 
-În vizualizarea 3D, poți mări și micșora folosind rotița mouse-ului.
+![Light source](images/light-source.png)
 
-+ Încearcă să mărești și să micșorezi cubul.
++ Rotate your scene until you see the top of the light source.
 
-![Mărire și micșorare](images/zoom-in-out.png)
+![Light source top](images/light-source-top.png)
 
-Poți roti întreaga scenă apăsând butonul din mijloc al mouse-ului sau apăsând rotița mouse-ului in timp ce îl rotești.
+### A camera
 
-+ Încearcă să rotești scena.
+This is from where you will see your scene.
 
-![Rotește scena](images/rotate-scene.png)
+![Camera](images/camera.png)
+
++ Rotate your scene so that it is behind the camera. An easy way to do this is to press `0` in you number pad, or go to `View` > `Cameras` > `Active Cameras`.
+
+![active camera](images/camera-view.png)
+
+![Behind the camera](images/behind-camera.png)
+
+You will see a nice picture of the side of the cube.
