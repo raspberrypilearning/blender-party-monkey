@@ -2,7 +2,7 @@
 
 + Ouvre Blender.
 
-Lorsque tu ouvres Blender, il démarre par un écran d'accueil. The splash screen of Blender v2.81 looks like this:
+Lorsque tu ouvres Blender, il démarre par un écran d'accueil. L'écran d'accueil de Blender v2.81 ressemble à ceci :
 
 ![Écran d'accueil](images/splash-screen.png)
 
