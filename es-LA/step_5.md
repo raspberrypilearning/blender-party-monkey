@@ -1,47 +1,47 @@
-## Selecting and moving
+## Seleccionar y mover
 
 To select an object in Blender, use the left mouse button.
 
-+ Select the cube with the left mouse button. You'll see an orange border around the cube.
++ Select the cube with the left mouse button. Verás un borde anaranjado alrededor del cubo.
 
-In Blender you can move objects by using the blue, green, and red handles: The blue handle to go up and down on the z-axis, the green handle to go left and right on the y-axis, and the red handle to go in and out on the x-axis. From Blender 2.8, you will need to click on the move gizmo from the list of icons on the left of your screen to make the handles appear.
+En Blender, puedes mover objetos usando los controles azul, verde y rojo: el control azul para subir y bajar en el eje z, la manija verde para ir a la izquierda y la derecha en el eje y, y la manija roja para entrar y salir en el eje x. From Blender 2.8, you will need to click on the move gizmo from the list of icons on the left of your screen to make the handles appear.
 
 ![Move gizmo](images/move-gizmo.png)
 
-![Coloured handles](images/coloured-handles.png)
+![Controles de colores](images/coloured-handles.png)
 
-+ Move the cube up by pressing the blue handle with the left mouse button and moving it up. When you press the blue handle, you'll see a blue line appear. Move the cube along the blue line.
++ Mueve el cubo hacia arriba presionando el control azul con el botón izquierdo del mouse y llevándolo hacia arriba. Cuando presiones el control azul, aparecerá una línea azul. Mueve el cubo a lo largo de la línea azul.
 
-![Move up](images/move-up.png)
+![Subir](images/move-up.png)
 
-+ Move the cube to the right by pressing the green handle with the left mouse button and moving it to the right. When you press the green handle, you'll see a green line appear. Move the cube along the green line.
++ Mueve el cubo hacia la derecha presionando el control verde con el botón izquierdo del mouse y llevándolo hacia la derecha. Cuando presiones el control verde, aparecerá una línea verde. Mueve el cubo a lo largo de la línea verde.
 
-![Move right](images/move-right.png)
+![Mueve a la derecha](images/move-right.png)
 
-+ Move the cube in or out by pressing the red handle with the left mouse button and moving it back and forth. When you press the red handle, you'll see a red line appear. Move the cube along the red line.
++ Mueve el cubo hacia adentro o afuera presionando el control rojo con el botón izquierdo del mouse y llevándolo hacia adelante y atrás. Cuando presiones el control rojo, aparecerá una línea roja. Mueve el cubo a lo largo de la línea roja.
 
-![Move in and out](images/move-in-and-out.png)
+![Acerca y aleja](images/move-in-and-out.png)
 
-+ Move the cube around your scene to a different position.
++ Mueve el cubo alrededor de tu escena a una posición diferente.
 
-+ Go to the render view to see what it will look like. For example:
++ Ve a la vista del diseño gráfico para ver cómo se verá. Por ejemplo:
 
-![Example render](images/example-render.png)
+![Ejemplo del diseño gráfico](images/example-render.png)
 
-You might see nothing or only part of the cube. This means that the object is not (completely) in the camera's view.
+Es posible que no veas nada o solo una parte del cubo. Esto significa que el objeto no está (completamente) en la vista de la cámara.
 
-+ Press <kbd>ESC</kbd> to get out of the render view.
++ Presiona <kbd>ESC</kbd> para salir de la vista del diseño gráfico.
 
-+ Move the 3D scene with the middle mouse button to behind the camera. For example:
++ Mueve la escena 3D, con el botón central del mouse, detrás de la cámara. Por ejemplo:
 
-![Move behind camera](images/move-behind-camera.png)
+![Mueve detrás de la cámara](images/move-behind-camera.png)
 
-+ Move the cube using the blue, green, and red handles such that you can see the cube from behind the camera.
++ Mueve el cubo usando los controles azul, verde y rojo para que puedas ver el cubo desde detrás de la cámara.
 
-![Cube behind camera](images/cube-behind-camera.png)
+![Cubo detrás de la cámara](images/cube-behind-camera.png)
 
-+ Render again to see how your image looks. You probably will see the same image as before.
++ Ve a la vista del diseño de nuevo para ver cómo se ve la imagen. Probablemente verás la misma imagen que antes.
 
-![Same image](images/same-image.png)
+![Misma imagen](images/same-image.png)
 
-+ Press <kbd>ESC</kbd> to exit the render view.
++ Presiona <kbd>ESC</kbd> para salir de la vista del diseño gráfico.
