@@ -1,26 +1,35 @@
-## Voeg een aap toe
+## Add a hat
 
-We hebben de kubus niet nodig, dus laten we hem verwijderen.
+We can also add a hat. For this we will use a cone.
 
-+ Select the cube with the right mouse button. Rondom de kubus zou een oranje rand moeten verschijnen.
-+ Zorg ervoor dat je muis in de 3D-weergave staat.
-+ Druk op <kbd>X</kbd> om de kubus te verwijderen.
-+ Je wordt gevraagd of het OK is om het object te verwijderen.
++ Select **Cone** from the **Mesh** section.
 
-![Delete object](images/delete-object.png)
+A cone should appear in your scene. Now you have a monkey and a cone.
 
-+ Selecteer **Delete** of druk op <kbd>Enter</kbd>.
+![Monkey and cone](images/monkey-and-cone.png)
 
-Om objecten aan de scène toe te voegen, kun je de toolbox (gereedschapkist) aan de linkerkant gebruiken. De toolbox aan de linkerkant bevat een **Create** tabblad met een selectie van dingen die je kunt toevoegen.
+Now the cone needs to be positioned on top of the monkey.
 
-+ Ga in de toolbox naar het tabblad **Create** en selecteer **Monkey**.
++ Rotate and zoom a bit towards the cone and the monkey to have a better view on both objects.
 
-![Select monkey](images/select-monkey.png)
+![Zoom in on the monkey](images/zoom-monkey.png)
 
-Er verschijnt een aap in je scène.
++ Select the cone using the left mouse button. Again an orange border should appear around it.
 
-![A monkey appears](images/monkey-appears.png)
++ Use the move gizmo and the blue, green, and red handles to move the cone on top of the monkey. You might have to rotate and zoom in or out to get a proper view.
 
-+ Plaats de aap net voor de camera op dezelfde manier als met de kubus, zodat we deze na het renderen kunnen zien. Je kunt de blauwe, groene en rode hendels gebruiken om de aap te verplaatsen.
+![Cone on the monkey](images/cone-monkey.png)
 
-![Position the camera](images/camera-monkey.png)
++ Check from different angles if the the cone is positioned properly on top of the monkey.
+
+![Check cone](images/check-cone.png)
+
+Now we need to see what it looks like.
+
++ Render the image.
+
+![Render cone monkey](images/render-cone-monkey.png)
+
+The image shows that the monkey is not very well lit.
+
++ Press <kbd>ESC</kbd> to exit the render view.
