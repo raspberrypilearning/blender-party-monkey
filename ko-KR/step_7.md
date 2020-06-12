@@ -2,7 +2,7 @@
 
 모자를 추가할 수도 있습니다. 이를 위해 원뿔을 사용할 것입니다.
 
-+ Select **Cone** from the **Mesh** section.
++ **Mesh** 섹션에서 **Cone**을 선택하세요.
 
 장면에 원숭이가 나타날 것입니다. 이제 원숭이와 원뿔이 있습니다.
 
@@ -14,9 +14,9 @@
 
 ![원숭이를 확대한 모습](images/zoom-monkey.png)
 
-+ Select the cone using the left mouse button. 주황색 테두리가 다시 나타날 것입니다.
++ 마우스 왼쪽 버튼으로 원뿔(Cone)을 선택하세요. 주황색 테두리가 다시 나타날 것입니다.
 
-+ Use the move gizmo and the blue, green, and red handles to move the cone on top of the monkey. 제대로 보기 위해 회전과 확대 또는 축소를 거쳐야 할 수도 있습니다.
++ 기즈모 이동과 파란색, 녹색 및 빨간색 핸들을 사용하여 원뿔을 원숭이 위로 움직입니다. 제대로 보기 위해 회전과 확대 또는 축소를 거쳐야 할 수도 있습니다.
 
 ![원뿔 모자를 머리에 씌운 원숭이](images/cone-monkey.png)
 
@@ -32,4 +32,4 @@
 
 원숭이가 잘 조명되지 않은 것 같습니다.
 
-+ Press <kbd>ESC</kbd> to exit the render view.
++ 렌더 뷰에서 나가기 위해 <kbd>ESC</kbd>를 누르세요.
