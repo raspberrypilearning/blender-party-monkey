@@ -1,7 +1,7 @@
 ---
-title: Party monkey
+title: Mono de fiesta
 hero_image: images/banner.png
-description: Create a 3D model of a monkey in a party hat using Blender
+description: Crea un modelo 3D de un mono con un sombrero de fiesta usando Blender
 theme: turquoise #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
 duration: 2
 listed: true
@@ -17,20 +17,20 @@ version: 4.0.1
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
+    title: Introducción
   - 
-    title: Zooming and rotating
+    title: Acercar y rotar
   - 
-    title: The 3D scene
+    title: La escena 3D
   - 
-    title: Rendering
+    title: Renderizado
   - 
-    title: Selecting and moving
+    title: Selección y movimiento
   - 
-    title: Add a monkey
+    title: Añade un mono
   - 
-    title: Add a hat
+    title: Añade un sombrero
   - 
-    title: Change the lighting
+    title: Cambia la iluminación
   - 
-    title: "Challenge: a new scene"
+    title: "Desafío: una nueva escena"
