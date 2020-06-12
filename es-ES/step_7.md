@@ -1,35 +1,35 @@
-## Add a hat
+## Añade un sombrero
 
-We can also add a hat. For this we will use a cone.
+También podemos añadir un sombrero. Para ello utilizaremos un cono.
 
-+ Select **Cone** from the **Mesh** section.
++ Selecciona **Cono** en la pestaña **Crear**.
 
-A cone should appear in your scene. Now you have a monkey and a cone.
+Un cono debe aparecer en tu escena. Ahora tienes un mono y un cono.
 
-![Monkey and cone](images/monkey-and-cone.png)
+![Mono y cono](images/monkey-and-cone.png)
 
-Now the cone needs to be positioned on top of the monkey.
+Ahora el cono necesita colocarse sobre el mono.
 
-+ Rotate and zoom a bit towards the cone and the monkey to have a better view on both objects.
++ Gira y acerca un poco hacia el cono y el mono para tener una mejor visión de ambos objetos.
 
-![Zoom in on the monkey](images/zoom-monkey.png)
+![Acercarse al mono](images/zoom-monkey.png)
 
-+ Select the cone using the left mouse button. Again an orange border should appear around it.
++ Selecciona el cono usando el botón izquierdo del ratón. De nuevo debería aparecer un borde naranja a su alrededor.
 
-+ Use the move gizmo and the blue, green, and red handles to move the cone on top of the monkey. You might have to rotate and zoom in or out to get a proper view.
++ Usa las asas azules, verdes y rojas para mover el cono sobre el mono. Es posible que tengas que girar y alejar el zoom para obtener una vista adecuada.
 
-![Cone on the monkey](images/cone-monkey.png)
+![Cono sobre el mono](images/cone-monkey.png)
 
-+ Check from different angles if the the cone is positioned properly on top of the monkey.
++ Comprueba desde diferentes ángulos si el cono está colocado correctamente en la parte superior del mono.
 
-![Check cone](images/check-cone.png)
+![Comprobar cono](images/check-cone.png)
 
-Now we need to see what it looks like.
+Ahora tenemos que ver qué aspecto tiene.
 
-+ Render the image.
++ Renderiza la imagen.
 
-![Render cone monkey](images/render-cone-monkey.png)
+![Renderizar el cono del mono](images/render-cone-monkey.png)
 
-The image shows that the monkey is not very well lit.
+La imagen muestra que el mono no está muy bien iluminado.
 
-+ Press <kbd>ESC</kbd> to exit the render view.
++ Pulsa <kbd>ESC</kbd> para salir de la vista de renderizado.
