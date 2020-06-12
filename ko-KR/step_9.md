@@ -5,4 +5,4 @@
 + 파티 장면에 디스코 볼을 추가하세요.
 + 파티 원숭이의 모자에 테두리를 추가하세요.
 
-![Challenge](images/challenge.png)
+![도전과제](images/challenge.png)
