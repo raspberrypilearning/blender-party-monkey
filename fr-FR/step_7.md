@@ -2,7 +2,7 @@
 
 Nous pouvons également ajouter un chapeau. Pour cela, nous utiliserons un cône.
 
-+ Select **Cone** from the **Mesh** section.
++ Sélectionne **Cone** dans la section **Mesh**.
 
 Un cône devrait apparaître dans ta scène. Maintenant tu as un singe et un cône.
 
@@ -14,9 +14,9 @@ Maintenant le cône doit être positionné au-dessus du singe.
 
 ![Zoom avant sur le singe](images/zoom-monkey.png)
 
-+ Select the cone using the left mouse button. Une fois de plus, un contour orange devrait apparaître autour de lui.
++ Sélectionne le cône à l'aide du bouton gauche de la souris. Une fois de plus, un contour orange devrait apparaître autour de lui.
 
-+ Use the move gizmo and the blue, green, and red handles to move the cone on top of the monkey. Tu devras peut-être faire pivoter et faire un zoom avant ou arrière pour avoir une bonne vue.
++ Utilise le gizmo de déplacement et les poignées bleues, vertes et rouges pour déplacer le cône au-dessus du singe. Tu devras peut-être faire pivoter et faire un zoom avant ou arrière pour avoir une bonne vue.
 
 ![Cône sur le singe](images/cone-monkey.png)
 
