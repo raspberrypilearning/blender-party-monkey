@@ -14,34 +14,34 @@ Así es como se verá tu pieza terminada:
 
 ## title: Lo que vas a aprender
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+Este proyecto incluye elementos de los siguientes aspectos del [currículo de creación digital de Raspberry Pi](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [Design basic 2D and 3D assets](https://curriculum.raspberrypi.org/design/creator/){:target="_blank"}
++ [Diseño de elementos básicos en 2D y 3D ](https://curriculum.raspberrypi.org/design/creator/) {:target="_ blank"}
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: "What you will need"
+## title: Lo que vas a necesitar
 
 ### Hardware
 
-+ A desktop or laptop computer capable of running the Blender software
++ Un ordenador de sobremesa o portátil capaz de ejecutar el software Blender
 
 ### Software
 
-+ [Blender](https://www.blender.org/download/){:target="_blank"} (v2.8 or newer)
++ [Blender](https://www.blender.org/download/){:target="_blank"} (v2.8 o más reciente)
 
 \--- /collapse \---
 
-### Additional information for educators
+### Información adicional para los educadores
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/blender-party-monkey/print){:target="_blank"}.
+Si necesitas imprimir este proyecto, usa la [versión para imprimir](https://projects.raspberrypi.org/en/projects/blender-party-monkey/print){:target="_blank"}.
 
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+Usa el enlace en el pie de página para acceder al repositorio de GitHub para este proyecto, que contiene todos los recursos (incluyendo un ejemplo de un proyecto terminado) en la carpeta 'en/resources'.
 
-If you prefer, you can watch the whole resource as a video tutorial: <iframe width="560" height="315" src="https://www.youtube.com/embed/93ux_JliBew" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+Si lo prefieres, puedes ver todo el recurso como un tutorial de video: <iframe width="560" height="315" src="https://www.youtube.com/embed/93ux_JliBew" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
 
-### License
+### Licencia
 
-***Party Monkey*** by 3Dami & b3d101, Peter Kemp, Tom Haines, Monique Dewanchand is licenced under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+***Party Monkey*** por 3Dami & b3d101, Peter Kemp, Tom Haines, Monique Dewanchand está bajo licencia [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
