@@ -2,7 +2,7 @@
 
 Wir müssen das Licht verschieben, damit es auf die Vorderseite des Affens leuchtet.
 
-+ Select the lamp with the left mouse button. Überprüfe den orangefarbenen Rand.
++ Wähle die Lampe mit der linken Maustaste aus. Überprüfe den orangefarbenen Rand.
 
 + Bewege die Lampe mit den Pfeilen, so dass sie auf die Vorderseite des Affens leuchtet.
 
