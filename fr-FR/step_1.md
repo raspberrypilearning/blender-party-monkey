@@ -30,7 +30,7 @@ Ce projet couvre les éléments des sections suivantes du [Programme Raspberry P
 
 ### Logiciel
 
-+ [Blender](https://www.blender.org/download/){:target="_blank"} (v2.8 or newer)
++ [Blender](https://www.blender.org/download/){:target="_blank"} (v2.8 ou supérieure)
 
 \--- /collapse \---
 
