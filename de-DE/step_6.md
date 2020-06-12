@@ -2,7 +2,7 @@
 
 Wir brauchen den Würfel nicht, also entferne ihn.
 
-+ Select the cube with the left mouse button. Um den Würfel sollte ein orangefarbener Rand erscheinen.
++ Wähle den Würfel mit der linken Maustaste aus. Um den Würfel sollte ein orangefarbener Rand erscheinen.
 + Stell sicher, dass sich dein Mauszeiger in der 3D-Ansicht befindet.
 + Drücke <kbd>X</kbd> um den Würfel zu entfernen.
 + Du wirst gefragt, ob es in Ordnung ist, das Objekt zu löschen.
@@ -11,9 +11,9 @@ Wir brauchen den Würfel nicht, also entferne ihn.
 
 + Wähle **Löschen** oder drücke <kbd>Enter</kbd>.
 
-To add objects to the scene, you can use the **Add** dropdown menu.
+Um der Szene Objekte hinzuzufügen, kannst Du das ** Hinzufügen ** Dropdown-Menü verwenden.
 
-+ In the menu, go to the **Mesh** section and select **Monkey**.
++ Gehe im Menü zum ** Netz ** Abschnitt und wähle ** Affe **.
 
 ![Affen auswählen](images/select-monkey.png)
 
