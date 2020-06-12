@@ -2,7 +2,7 @@
 
 لن نكون بحاجة إلى المكعب، لذا دعونا نزيله.
 
-+ Select the cube with the left mouse button. يجب أن يظهر حد برتقالي حول المكعب.
++ حدد المكعب باستخدام زر الماوس الأيسر. يجب أن يظهر حد برتقالي حول المكعب.
 + تأكد من أن الماوس الخاص بك في العرض الثلاثي الأبعاد.
 + اضغط <kbd>X</kbd> لحذف المكعب.
 + سوف تسأل عما إذا كان لا بأس بحذف الكائن.
@@ -11,9 +11,9 @@
 
 + حدد **حذف** أو اضغط <kbd>Enter</kbd>.
 
-To add objects to the scene, you can use the **Add** dropdown menu.
+لإضافة كائنات إلى المشهد، يمكنك استخدام القائمة المنسدلة **Add**.
 
-+ In the menu, go to the **Mesh** section and select **Monkey**.
++ في القائمة، انتقل إلى قسم **Mesh** وحدد **Monkey**.
 
 ![حدد القرد](images/select-monkey.png)
 
