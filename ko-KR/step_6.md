@@ -2,7 +2,7 @@
 
 큐브가 필요하지 않으므로 제거하겠습니다.
 
-+ Select the cube with the left mouse button. 큐브 주위에 주황색 테두리가 나타날 것입니다.
++ 마우스 왼쪽 버튼으로 큐브를 선택하세요. 큐브 주위에 주황색 테두리가 나타날 것입니다.
 + 마우스가 3D 보기에 있는지 확인하십시오.
 + <kbd>X</kbd> 를 눌러 큐브를 지워주세요.
 + 객체를 삭제할 지 묻는 메시지가 표시됩니다.
@@ -11,9 +11,9 @@
 
 + **Delete**를 선택하거나 <kbd>Enter</kbd>를 누르세요.
 
-To add objects to the scene, you can use the **Add** dropdown menu.
+장면에 객체를 추가하려면 **추가** 드롭 다운 메뉴를 사용하면 됩니다.
 
-+ In the menu, go to the **Mesh** section and select **Monkey**.
++ 메뉴에서 **Mesh** 섹션에 들어가서 **Monkey**를 선택하세요.
 
 ![원숭이 선택하기](images/select-monkey.png)
 
