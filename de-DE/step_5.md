@@ -1,12 +1,12 @@
 ## Auswählen und verschieben
 
-To select an object in Blender, use the left mouse button.
+Mit der linken Maustaste kannst du ein Objekt in Blender auswählen.
 
-+ Select the cube with the left mouse button. Du siehst einen orangefarbenen Rand um den Würfel.
++ Wähle den Würfel mit der linken Maustaste aus. Du siehst einen orangefarbenen Rand um den Würfel.
 
-Du kannst in Blender Objekte verschieben, indem du den blauen, grünen und roten Pfeil verwendest: der blaue Pfeil verschiebt auf der z-Achse nach oben und unten, der grüne Pfeil verschiebt auf der y-Achse nach links und rechts und der rote Pfeil zieht das Objekt auf der x-Achse näher heran oder schiebt es weiter weg. From Blender 2.8, you will need to click on the move gizmo from the list of icons on the left of your screen to make the handles appear.
+Du kannst in Blender Objekte verschieben, indem du den blauen, grünen und roten Pfeil verwendest: der blaue Pfeil verschiebt auf der z-Achse nach oben und unten, der grüne Pfeil verschiebt auf der y-Achse nach links und rechts und der rote Pfeil zieht das Objekt auf der x-Achse näher heran oder schiebt es weiter weg. In Blender 2.8 musst Du in der Liste der Symbole links auf dem Bildschirm auf das Verschieben-Gizmo klicken, damit die Ziehpunkte angezeigt werden.
 
-![Move gizmo](images/move-gizmo.png)
+![Gizmo bewegen](images/move-gizmo.png)
 
 ![Farbige Pfeile](images/coloured-handles.png)
 
