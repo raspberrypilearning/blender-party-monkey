@@ -2,7 +2,7 @@
 
 Nous n'aurons pas besoin du cube, alors retirons-le.
 
-+ Select the cube with the left mouse button. Un contour orange devrait apparaître autour du cube.
++ Sélectionne le cube avec le bouton gauche de la souris. Un contour orange devrait apparaître autour du cube.
 + Assure-toi que ta souris est dans la vue 3D.
 + Appuie sur <kbd>X</kbd> pour supprimer le cube.
 + On te demandera si tu es d'accord de supprimer l'objet.
@@ -11,9 +11,9 @@ Nous n'aurons pas besoin du cube, alors retirons-le.
 
 + Sélectionne **Delete** ou appuie sur <kbd>Entrée</kbd>.
 
-To add objects to the scene, you can use the **Add** dropdown menu.
+Pour ajouter des objets à la scène, tu peux utiliser le menu déroulant **Ajouter**.
 
-+ In the menu, go to the **Mesh** section and select **Monkey**.
++ Dans le menu, vas à la section **Mesh** et sélectionne **Monkey**.
 
 ![Sélectionner le singe](images/select-monkey.png)
 
