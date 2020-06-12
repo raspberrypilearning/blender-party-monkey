@@ -42,7 +42,8 @@ title: Τι θα χρειαστείς
 
 Χρησιμοποίησε τον σύνδεσμο στο υποσέλιδο για να αποκτήσεις πρόσβαση στο αποθετήριο GitHub γι΄ αυτό το έργο, το οποίο περιέχει όλους τους πόρους (συμπεριλαμβανομένου ενός ολοκληρωμένου έργου) στο φάκελο 'en/resources'.
 
-Αν προτιμάς, μπορείς να παρακολουθήσεις όλο το περιεχόμενο ως εκπαιδευτικό βίντεο: <iframe width="560" height="315" src="https://www.youtube.com/embed/93ux_JliBew" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+Αν προτιμάς, μπορείς να παρακολουθήσεις όλο το περιεχόμενο ως εκπαιδευτικό βίντεο: 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/93ux_JliBew" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 ### Άδεια
 

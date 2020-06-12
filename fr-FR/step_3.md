@@ -26,7 +26,7 @@ C'est de là que tu verras ta scène.
 
 ![Caméra](images/camera.png)
 
-+ Fais pivoter ta scène pour qu'elle soit derrière la caméra. Une façon facile de le faire est d'appuyer sur `0` sur ton pavé numérique, ou d'aller sur `View` `Cameras` >`Active Camera`.
++ Fais pivoter ta scène pour qu'elle soit derrière la caméra. Une façon facile de le faire est d'appuyer sur `0` sur ton pavé numérique, ou d'aller sur `View` > `Cameras` >`Active Camera`.
 
 ![caméra active](images/camera-view.png)
 

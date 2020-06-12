@@ -13,7 +13,7 @@ Wir brauchen den Würfel nicht, also entferne ihn.
 
 Um der Szene Objekte hinzuzufügen, kannst Du das **Add** (Hinzufügen) Dropdown-Menü verwenden.
 
-+ Gehe im Menü zum **Mesh** (Hinzufügen) Abschnitt und wähle **Monkey** (Affe).
++ Gehe im Menü zum **Mesh** (Netz) Abschnitt und wähle **Monkey** (Affe).
 
 ![Affen auswählen](images/select-monkey.png)
 

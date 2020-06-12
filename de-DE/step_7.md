@@ -2,7 +2,7 @@
 
 Wir können auch einen Hut hinzufügen. Dafür verwenden wir einen Kegel.
 
-+ Wähle **Cone** (Kegel) aus dem **Mesh** (Hinzufügen) Tab.
++ Wähle **Cone** (Kegel) aus dem **Mesh** (Netz) Tab.
 
 Ein Kegel sollte in deiner Szene erscheinen. Jetzt hast du einen Affen und einen Kegel.
 
