@@ -2,7 +2,7 @@
 
 + Blender를 엽니다.
 
-Blender를 열면 시작 화면이 표시됩니다. The splash screen of Blender v2.81 looks like this:
+Blender를 열면 시작 화면이 표시됩니다. Blender v2.81의 시작 화면은 다음과 같습니다:
 
 ![시작 화면](images/splash-screen.png)
 
