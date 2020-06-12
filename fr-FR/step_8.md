@@ -2,7 +2,7 @@
 
 Nous devons déplacer la lumière pour qu'elle brille sur l'avant du singe.
 
-+ Select the lamp with the left mouse button. Vérifie le contour orange.
++ Sélectionne la lampe avec le bouton gauche de la souris. Vérifie le contour orange.
 
 + Déplace la lampe à l'aide des poignées pour qu'elle s'illumine sur l'avant du visage du singe.
 
