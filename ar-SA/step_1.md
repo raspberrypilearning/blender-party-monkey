@@ -30,7 +30,7 @@
 
 ### البرامج
 
-+ [Blender](https://www.blender.org/download/){:target="_blank"} (v2.8 or newer)
++ [Blender](https://www.blender.org/download/){:target="_blank"} (v2.8 أو أعلى)
 
 \--- /collapse \---
 
