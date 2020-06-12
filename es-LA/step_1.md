@@ -12,7 +12,7 @@ Así es como se verá tu trabajo terminado:
 
 ## \--- collapse \---
 
-## title: "What you will learn"
+## title: Lo que vas a aprender
 
 Este proyecto contiene elementos de los siguientes aspectos de [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
@@ -22,7 +22,7 @@ Este proyecto contiene elementos de los siguientes aspectos de [Raspberry Pi Dig
 
 ## \--- collapse \---
 
-## title: "What you will need"
+## title: Lo que vas a necesitar
 
 ### Hardware
 
