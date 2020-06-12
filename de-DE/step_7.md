@@ -2,7 +2,7 @@
 
 Wir können auch einen Hut hinzufügen. Dafür verwenden wir einen Kegel.
 
-+ Select **Cone** from the **Mesh** section.
++ Wähle ** Kegel ** aus dem ** Hinzufügen - Mesh ** Tab.
 
 Ein Kegel sollte in deiner Szene erscheinen. Jetzt hast du einen Affen und einen Kegel.
 
@@ -14,9 +14,9 @@ Nun muss der Kegel auf dem Affen positioniert werden.
 
 ![Auf den Affen hineinzoomen](images/zoom-monkey.png)
 
-+ Select the cone using the left mouse button. Wieder sollte ein orangefarbener Rand darum erscheinen.
++ Wähle den Kegel mit der linken Maustaste. Wieder sollte ein orangefarbener Rand darum erscheinen.
 
-+ Use the move gizmo and the blue, green, and red handles to move the cone on top of the monkey. Möglicherweise musst du die Ansicht erneut drehen und zoomen.
++ Verwende den blauen, grünen und roten Pfeil um den Kegel über den Affen zu verschieben. Möglicherweise musst du die Ansicht erneut drehen und zoomen.
 
 ![Kegel auf den Affen](images/cone-monkey.png)
 
