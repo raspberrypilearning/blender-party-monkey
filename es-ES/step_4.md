@@ -1,11 +1,11 @@
-## Rendering
+## Renderizado
 
-Rendering is the process of generating an image from a 3D model.
+Renderizado es el proceso de generar una imagen a partir de un modelo 3D.
 
-+ Render the scene by pressing <kbd>F12</kbd>. If you're working on a Mac, press <kbd>FN + F12</kbd>.
++ Renderiza la escena pulsando <kbd>F12</kbd>. Si estás trabajando con un Mac, presiona <kbd>FN + F12</kbd>.
 
-![Rendered image](images/render.png)
+![Imagen renderizada](images/render.png)
 
-You can see that the top and right side of the cube are lit, but the left side is dark. That's because the light source is on the top right side of the cube.
+Puedes ver que la parte superior y la parte derecha del cubo están iluminadas, pero el lado izquierdo está oscuro. Esto se debe a que la fuente de luz está en la parte superior derecha del cubo.
 
-+ Press <kbd>ESC</kbd> to get out of the render view.
++ Pulsa <kbd>ESC</kbd> para salir de la vista de renderizado.
