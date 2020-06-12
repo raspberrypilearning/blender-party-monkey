@@ -1,10 +1,10 @@
-## Introduction
+## Introducción
 
-Create a 3D model of a monkey wearing a party hat using Blender.
+Crea un modelo 3D de un mono con un sombrero de fiesta usando Blender.
 
-### What you will make
+### Lo que harás
 
-Here is how your finished piece will look:
+Así es como se verá tu pieza terminada:
 
 <div class="responsive-embed responsive-embed--video">
   <iframe class="responsive-embed__iframe" src="https://sketchfab.com/models/11edaf9b8d1b4d62b5b30b28a292df71/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
@@ -12,7 +12,7 @@ Here is how your finished piece will look:
 
 ## \--- collapse \---
 
-## title: "What you will learn"
+## title: Lo que vas a aprender
 
 This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
