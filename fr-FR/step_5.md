@@ -1,12 +1,12 @@
 ## Sélection et déplacement
 
-To select an object in Blender, use the left mouse button.
+Pour sélectionner un objet dans Blender, tu devras utiliser le bouton gauche de la souris.
 
-+ Select the cube with the left mouse button. Tu verras un contour orange autour du cube.
++ Sélectionne le cube avec le bouton gauche de la souris. Tu verras un contour orange autour du cube.
 
-Dans Blender, tu peux déplacer des objets en utilisant les poignées bleues, vertes et rouges : la poignée bleue pour monter et descendre sur l'axe-z, la poignée verte pour aller à gauche et à droite sur l'axe-y, et la poignée rouge pour entrer et sortir sur l'axe-x. From Blender 2.8, you will need to click on the move gizmo from the list of icons on the left of your screen to make the handles appear.
+Dans Blender, tu peux déplacer des objets en utilisant les poignées bleues, vertes et rouges : la poignée bleue pour monter et descendre sur l'axe-z, la poignée verte pour aller à gauche et à droite sur l'axe-y, et la poignée rouge pour entrer et sortir sur l'axe-x. À partir de Blender 2.8 , tu devras cliquer sur le gizmo de déplacement à partir de la liste des icônes à gauche de ton écran pour faire apparaître les poignées.
 
-![Move gizmo](images/move-gizmo.png)
+![Déplacer le gizmo](images/move-gizmo.png)
 
 ![Poignées colorées](images/coloured-handles.png)
 
