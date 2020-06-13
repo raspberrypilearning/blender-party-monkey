@@ -1,10 +1,10 @@
-## Introduction
+## はじめに
 
-Create a 3D model of a monkey wearing a party hat using Blender.
+Blenderを使ってパーティー用の帽子（ぼうし）をかぶったサルの3Dモデルをつくります。
 
-### What you will make
+### 作るもの
 
-Here is how your finished piece will look:
+完成した作品は次のようになります：
 
 <div class="responsive-embed responsive-embed--video">
   <iframe class="responsive-embed__iframe" src="https://sketchfab.com/models/11edaf9b8d1b4d62b5b30b28a292df71/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
@@ -12,36 +12,36 @@ Here is how your finished piece will look:
 
 ## \--- collapse \---
 
-## title: "What you will learn"
+## title: 学ぶこと
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+このプロジェクトは、[Raspberry Piデジタル・メイキング・カリキュラム](http://rpf.io/curriculum){:target="_blank"}の以下の要素をカバーします</a>：
 
-+ [Design basic 2D and 3D assets](https://curriculum.raspberrypi.org/design/creator/){:target="_blank"}
++ [基本的な2Dおよび3Dアセットの設計](https://curriculum.raspberrypi.org/design/creator/){:target="_blank"}
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: "What you will need"
+## title: 必要（ひつよう）なもの
 
-### Hardware
+### ハードウェア
 
-+ A desktop or laptop computer capable of running the Blender software
++ Blenderソフトウェアが実行できるデスクトップコンピュータまたはラップトップコンピュータ
 
-### Software
+### ソフトウェア
 
-+ [Blender](https://www.blender.org/download/){:target="_blank"} (v2.8 or newer)
++ [Blender](https://www.blender.org/download/){:target="_blank"}（バージョン2.8以降）
 
 \--- /collapse \---
 
-### Additional information for educators
+### 指導者向けの追加情報
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/blender-party-monkey/print){:target="_blank"}.
+このプロジェクトを印刷する必要がある場合は、 [印刷用バージョン](https://projects.raspberrypi.org/ja-JP/projects/blender-party-monkey/print){:target="_ blank"}を使用してください。
 
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+フッターのリンクからこのプロジェクトのGitHubリポジトリにアクセスします。このリポジトリには、「ja-JP/resources」フォルダ内のすべての資料（完成したプロジェクト例を含む）があります。
 
-If you prefer, you can watch the whole resource as a video tutorial: <iframe width="560" height="315" src="https://www.youtube.com/embed/93ux_JliBew" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+お好みで資料全体を動画で見ることもできます： <iframe width="560" height="315" src="https://www.youtube.com/embed/93ux_JliBew" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
 
-### License
+### ライセンス
 
-***Party Monkey*** by 3Dami & b3d101, Peter Kemp, Tom Haines, Monique Dewanchand is licenced under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+3Dami & b3d101、ピーター・ケンプ（Peter Kemp）、トム・ヘインズ（Tom Haines）、モニーク・デュワンチャンド（Monique Dewanchand）らによる***Party Monkey***は [クリエイティブ・コモンズ 表示 4.0 国際 ライセンス](https://creativecommons.org/licenses/by/4.0/)の下に提供されています。
