@@ -1,35 +1,35 @@
-## Add a hat
+## 帽子（ぼうし）を追加する
 
-We can also add a hat. For this we will use a cone.
+帽子（ぼうし）も追加できます。 これには円錐（えんすい）を使います。
 
-+ Select **Cone** from the **Mesh** section.
++ **メッシュ**から**円錐**（えんすい）を選びます。
 
-A cone should appear in your scene. Now you have a monkey and a cone.
+円錐（えんすい）がシーンに表示されます。 これでサルと円錐（えんすい）が表示されました。
 
-![Monkey and cone](images/monkey-and-cone.png)
+![サルと円錐（えんすい）](images/monkey-and-cone.png)
 
-Now the cone needs to be positioned on top of the monkey.
+次に、サルの頭上に円錐（えんすい）を置く必要があります。
 
-+ Rotate and zoom a bit towards the cone and the monkey to have a better view on both objects.
++ 円錐（えんすい）とサルの方にちょっと回転してズームすると、どちらも見やすくなります。
 
-![Zoom in on the monkey](images/zoom-monkey.png)
+![サルを拡大](images/zoom-monkey.png)
 
-+ Select the cone using the left mouse button. Again an orange border should appear around it.
++ マウスの左ボタンで円錐（えんすい)を選択します。 円錐（えんすい）のまわりに橙（だいだい）色の線が表示されます。
 
-+ Use the move gizmo and the blue, green, and red handles to move the cone on top of the monkey. You might have to rotate and zoom in or out to get a proper view.
++ 移動ギズモで青色・緑色・赤色のハンドルを使って、サルの頭上に円錐（えんすい）を移動します。 きちんと見えるようにするためには、回転したり拡大縮小したりする必要があるかもしれません。
 
-![Cone on the monkey](images/cone-monkey.png)
+![サルの頭上の円錐（えんすい）](images/cone-monkey.png)
 
-+ Check from different angles if the the cone is positioned properly on top of the monkey.
++ サルの頭上に円錐（えんすい）が正しく置かれているかどうか、さまざまな角度から確認します。
 
-![Check cone](images/check-cone.png)
+![円錐（えんすい）の確認](images/check-cone.png)
 
-Now we need to see what it looks like.
+どのように見えるか確認します。
 
-+ Render the image.
++ 画像をレンダリングします。
 
-![Render cone monkey](images/render-cone-monkey.png)
+![円錐（えんすい）を頭上に置いたサルをレンダリング](images/render-cone-monkey.png)
 
-The image shows that the monkey is not very well lit.
+画像を見ると、サルにうまく光があたっていないことがわかります。
 
-+ Press <kbd>ESC</kbd> to exit the render view.
++ <kbd>ESC</kbd>（エスケープ）キーを押してレンダービューから抜けます。
