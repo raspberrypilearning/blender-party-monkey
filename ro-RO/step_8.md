@@ -1,8 +1,8 @@
-## Change the lighting
+## Schimbă lumina
 
 Trebuie să mișcăm lumina astfel încât să strălucească pe fața maimuței.
 
-+ Select the lamp with the left mouse button. Verifică prezența marginii portocalii.
++ Selectează lampa cu butonul stâng al mouse-ului. Verifică prezența marginii portocalii.
 
 + Deplasează lampa cu ajutorul săgeților astfel încât sursa de lumină sa pice pe fața maimuței.
 
