@@ -1,35 +1,35 @@
-## The 3D scene
+## 3Dシーン
 
-In the 3D view you have your 3D scene, which looks a bit like what you might see in a computer game for example.
+3Dビューには3Dシーンがあります。3Dシーンは、たとえばコンピュータゲームの中で見るものとちょっと似ています。
 
-There are three main components in the 3D scene that we need to understand to get started.
+3Dシーンには、始めるにあたってわかっておく必要があるものが3つあります。
 
-### A cube in the centre
+### 中央のキューブ（立方体）
 
-This is what is going to be rendered and shown in the image.
+これがレンダリングされ、画像に表示されます。
 
-![Centre cube](images/centre-cube.png)
+![中心にあるキューブ（立方体）](images/centre-cube.png)
 
-### A light source
+### 光源（こうげん）
 
-By rotating the scene you can see the exact position of the light source.
+シーンを回転させることで、光源（こうげん）の正確な位置がわかります。
 
-![Light source](images/light-source.png)
+![光源（こうげん）](images/light-source.png)
 
-+ Rotate your scene until you see the top of the light source.
++ 光源（こうげん）の上部が見えるまでシーンを回転させます。
 
-![Light source top](images/light-source-top.png)
+![光源（こうげん）の上部](images/light-source-top.png)
 
-### A camera
+### カメラ
 
-This is from where you will see your scene.
+ここから自分が見ているシーンが見えます。
 
-![Camera](images/camera.png)
+![カメラ](images/camera.png)
 
-+ Rotate your scene so that it is behind the camera. An easy way to do this is to press `0` in you number pad, or go to `View` > `Cameras` > `Active Cameras`.
++ カメラの後ろになるようにシーンを回転させます。 これをかんたんに行うには、テンキーで`0`を押すか、`ビュー` > `カメラ設定` > `アクティブカメラ`と進みます。
 
-![active camera](images/camera-view.png)
+![動作しているカメラ](images/camera-view.png)
 
-![Behind the camera](images/behind-camera.png)
+![カメラの後ろ](images/behind-camera.png)
 
-You will see a nice picture of the side of the cube.
+キューブ（立方体）の面がうまく表示されます。
