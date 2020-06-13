@@ -1,26 +1,26 @@
-## Add a monkey
+## サルを追加する
 
-We won't be needing the cube, so let's remove it.
+もうキューブ（立方体）は必要ないので、消してみましょう。
 
-+ Select the cube with the left mouse button. An orange border should appear around the cube.
-+ Make sure your mouse is in the 3D view.
-+ Press <kbd>X</kbd> to delete the cube.
-+ You'll be asked whether it's OK to delete the object.
++ マウスの左ボタンでキューブ（立方体）を選択します。 キューブ（立方体）のまわりに橙（だいだい）色の線が表示されます。
++ マウスが3Dビューにあることを確認します。
++ <kbd>X</kbd>キーを押してキューブ（立方体）を消します。
++ オブジェクトを消してもよいか聞かれます。
 
-![Delete object](images/delete-object.png)
+![オブジェクトの削除](images/delete-object.png)
 
-+ Select **Delete** or press <kbd>Enter</kbd>.
++ **削除**を選択するか、<kbd>Enter</kbd>キーを押します。
 
-To add objects to the scene, you can use the **Add** dropdown menu.
+シーンにオブジェクトを追加するには、ドロップダウンメニューの**追加**を使います。
 
-+ In the menu, go to the **Mesh** section and select **Monkey**.
++ メニューで**メッシュ**に移動し、**モンキー**を選びます。
 
-![Select monkey](images/select-monkey.png)
+![サルを選択](images/select-monkey.png)
 
-A monkey appears in your scene.
+シーンにサルが表示されます。
 
-![A monkey appears](images/monkey-appears.png)
+![サルの表示](images/monkey-appears.png)
 
-+ Position the monkey in front of the camera just like you did with the cube, so that we can see it after rendering. You can use the blue, green, and red handles again to move the monkey.
++ キューブ（立方体）でやったのと同じように、レンダリングした後にサルが見えるようにサルをカメラの前に置きます。 青色・緑色・赤色のハンドルを使ってサルを動かします。
 
-![Position the camera](images/camera-monkey.png)
+![カメラを配置](images/camera-monkey.png)
