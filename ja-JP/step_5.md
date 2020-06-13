@@ -28,20 +28,20 @@ Blenderでは、青色・緑色・赤色のハンドルを使ってオブジェ�
 
 ![レンダリング例](images/example-render.png)
 
-何も表示されないか、キューブ（立方体）の一部しか表示されないことがあります。 This means that the object is not (completely) in the camera's view.
+何も表示されないか、キューブ（立方体）の一部しか表示されないことがあります。 これは、オブジェクトがカメラから見える範囲に（完全には）入っていないことを意味しています。
 
-+ Press <kbd>ESC</kbd> to get out of the render view.
++ <kbd>ESC</kbd>（エスケープ）キーを押してレンダービューから抜けます。
 
-+ Move the 3D scene with the middle mouse button to behind the camera. For example:
++ マウスの真ん中ボタンで3Dシーンをカメラの後ろに移動します。 例：
 
-![Move behind camera](images/move-behind-camera.png)
+![カメラの後ろに移動](images/move-behind-camera.png)
 
-+ Move the cube using the blue, green, and red handles such that you can see the cube from behind the camera.
++ 青色・緑色・赤色のハンドルを使って、カメラの後ろからキューブ（立方体）が見えるようにキューブ（立方体）を動かします。
 
-![Cube behind camera](images/cube-behind-camera.png)
+![カメラの後ろのキューブ（立方体）](images/cube-behind-camera.png)
 
-+ Render again to see how your image looks. You probably will see the same image as before.
++ もう一度レンダリングして、画像がどのように表示されるか確かめます。 移動する前と同じ画像が表示されるはずです。
 
-![Same image](images/same-image.png)
+![同じ画像](images/same-image.png)
 
-+ Press <kbd>ESC</kbd> to exit the render view.
++ <kbd>ESC</kbd>（エスケープ）キーを押してレンダービューから抜けます。
