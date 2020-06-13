@@ -2,7 +2,7 @@
 
 Nu vom avea nevoie de cub, deci să-l eliminăm.
 
-+ Select the cube with the left mouse button. O margine portocalie ar trebui să apară în jurul cubului.
++ Selectează cubul cu butonul stâng al mouse-ului. O margine portocalie ar trebui să apară în jurul cubului.
 + Asigură-te că ai cursorul în vizualizarea 3D.
 + Apasă pe <kbd>X</kbd> pentru a șterge cubul.
 + Vei fi întrebat dacă este OK să ștergi obiectul.
@@ -11,9 +11,9 @@ Nu vom avea nevoie de cub, deci să-l eliminăm.
 
 + Selectează **Delete** sau apasă <kbd>Enter</kbd>.
 
-To add objects to the scene, you can use the **Add** dropdown menu.
+Pentru a adăuga obiecte la scenă, poți utiliza meniul derulant **Add**.
 
-+ In the menu, go to the **Mesh** section and select **Monkey**.
++ În meniu, accesează secțiunea **Mesh** și selectează **Monkey**.
 
 ![Selectează maimuța](images/select-monkey.png)
 
