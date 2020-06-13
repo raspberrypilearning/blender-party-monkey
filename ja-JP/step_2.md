@@ -18,7 +18,7 @@ Blenderを開くと、スプラッシュ画面から始まります。 Blender v
 
 + キューブ（立方体）をズームイン・ズームアウトしてみましょう。
 
-![Zoom in and out](images/zoom-in-out.png)
+![ズームイン・ズームアウト](images/zoom-in-out.png)
 
 マウスの真ん中のボタンもしくはマウスホイールを押して回すとシーン全体を回転できます。
 
