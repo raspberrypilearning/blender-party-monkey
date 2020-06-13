@@ -1,11 +1,11 @@
-## Rendering
+## レンダリング
 
-Rendering is the process of generating an image from a 3D model.
+レンダリングとは、3Dモデルから画像を生成する処理過程です。
 
-+ Render the scene by pressing <kbd>F12</kbd>. If you're working on a Mac, press <kbd>FN + F12</kbd>.
++ <kbd>F12</kbd>キーを押すとシーンをレンダリングします。 Macで作業をしている場合は、<kbd>Fn + F12</kbd>を押します。
 
-![Rendered image](images/render.png)
+![レンダリングされた画像](images/render.png)
 
-You can see that the top and right side of the cube are lit, but the left side is dark. That's because the light source is on the top right side of the cube.
+キューブ（立方体）の上部と右側は明るくなっていますが、左側は暗くなっていることがわかります。 これは、光源（こうげん）がキューブ（立方体）の右上にあるためです。
 
-+ Press <kbd>ESC</kbd> to get out of the render view.
++ <kbd>ESC</kbd>（エスケープ）キーを押してレンダービューから抜けます。
