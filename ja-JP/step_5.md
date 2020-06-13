@@ -2,33 +2,33 @@
 
 Blenderでオブジェクトを選択するには、マウスの左ボタンを使います。
 
-+ マウスの左ボタンでキューブ（立方体）を選択します。 You'll see an orange border around the cube.
++ マウスの左ボタンでキューブ（立方体）を選択します。 キューブ（立方体）の輪郭（りんかく）が橙（だいだい）色で表示されます。
 
-In Blender you can move objects by using the blue, green, and red handles: The blue handle to go up and down on the z-axis, the green handle to go left and right on the y-axis, and the red handle to go in and out on the x-axis. From Blender 2.8, you will need to click on the move gizmo from the list of icons on the left of your screen to make the handles appear.
+Blenderでは、青色・緑色・赤色のハンドルを使ってオブジェクトを動かせます。青色のハンドルでz軸上で上下に移動し、緑色のハンドルでy軸上で左右に移動し、赤色のハンドルでx軸上で前後に移動します。 Blender 2.8以降では、ハンドルを表示するために画面左にあるアイコン一覧で移動ギズモをクリックする必要があります。
 
-![Move gizmo](images/move-gizmo.png)
+![移動ギズモ](images/move-gizmo.png)
 
-![Coloured handles](images/coloured-handles.png)
+![色付けされたハンドル](images/coloured-handles.png)
 
-+ Move the cube up by pressing the blue handle with the left mouse button and moving it up. When you press the blue handle, you'll see a blue line appear. Move the cube along the blue line.
++ マウスの左ボタンで青色のハンドルを押したまま上に動かすと、キューブ（立方体）が上に移動します。 青色のハンドルを押すと、青色の線が表示されます。 青色の線にそってキューブ（立方体）を動かします。
 
-![Move up](images/move-up.png)
+![上に移動](images/move-up.png)
 
-+ Move the cube to the right by pressing the green handle with the left mouse button and moving it to the right. When you press the green handle, you'll see a green line appear. Move the cube along the green line.
++ マウスの左ボタンで緑色のハンドルを押したまま右に動かすと、キューブ（立方体）が右に移動します。 緑色のハンドルを押すと、緑色の線が表示されます。 緑色の線にそってキューブ（立方体）を動かします。
 
-![Move right](images/move-right.png)
+![右に移動](images/move-right.png)
 
-+ Move the cube in or out by pressing the red handle with the left mouse button and moving it back and forth. When you press the red handle, you'll see a red line appear. Move the cube along the red line.
++ マウスの左ボタンで赤色のハンドルを押したまま前後に動かすと、キューブ（立方体）が前後に移動します。 赤色のハンドルを押すと、赤色の線が表示されます。 赤色の線にそってキューブ（立方体）を動かします。
 
-![Move in and out](images/move-in-and-out.png)
+![前後に移動](images/move-in-and-out.png)
 
-+ Move the cube around your scene to a different position.
++ キューブ（立方体）をシーンの別の場所に移動します。
 
-+ Go to the render view to see what it will look like. For example:
++ レンダービューに移動して、どのように見えるか確かめます。 例：
 
-![Example render](images/example-render.png)
+![レンダリング例](images/example-render.png)
 
-You might see nothing or only part of the cube. This means that the object is not (completely) in the camera's view.
+何も表示されないか、キューブ（立方体）の一部しか表示されないことがあります。 This means that the object is not (completely) in the camera's view.
 
 + Press <kbd>ESC</kbd> to get out of the render view.
 
