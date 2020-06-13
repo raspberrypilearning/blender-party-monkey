@@ -2,7 +2,7 @@
 
 También podemos agregar un sombrero. Para esto usaremos un cono.
 
-+ Select **Cone** from the **Mesh** section.
++ Selecciona **Cone** de la sección **Mesh**.
 
 Un cono aparecerá en tu escena. Ahora tienes un mono y un cono.
 
@@ -14,9 +14,9 @@ Ahora el cono debe colocarse sobre la cabeza del mono.
 
 ![Amplíe el mono](images/zoom-monkey.png)
 
-+ Select the cone using the left mouse button. Debe aparecer un borde naranja alrededor del cubo.
++ Selecciona el cono usando el botón izquierdo del mouse. Debe aparecer un borde naranja alrededor del cubo.
 
-+ Use the move gizmo and the blue, green, and red handles to move the cone on top of the monkey. Es posible que tengas que girar y acercar o alejar la imagen para tener una vista adecuada.
++ Utiliza el control y las manijas azul, verde y rojo para mover el cono arriba del mono. Es posible que tengas que girar y acercar o alejar la imagen para tener una vista adecuada.
 
 ![Cono sobre el mono](images/cone-monkey.png)
 
