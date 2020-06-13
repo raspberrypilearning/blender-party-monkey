@@ -2,7 +2,7 @@
 
 No necesitaremos el cubo, así que vamos a borrarlo.
 
-+ Select the cube with the left mouse button. Debe aparecer un borde anaranjado alrededor del cubo.
++ Selecciona el cubo con el botón izquierdo del mouse. Debe aparecer un borde anaranjado alrededor del cubo.
 + Asegúrate de que tu mouse esté en la vista 3D.
 + Presiona <kbd>X</kbd> para borrar el cubo.
 + Te preguntará si deseas borrar el objeto.
@@ -11,9 +11,9 @@ No necesitaremos el cubo, así que vamos a borrarlo.
 
 + Selecciona **Borrar** o presiona <kbd>Enter</kbd>.
 
-To add objects to the scene, you can use the **Add** dropdown menu.
+Para agregar un objeto a la escena, puedes usar **Add** del menú desplegable.
 
-+ In the menu, go to the **Mesh** section and select **Monkey**.
++ En el nenú, dirígete a la sección **Mesh** y selecciona **Monkey**.
 
 ![Seleccionar un mono](images/select-monkey.png)
 
