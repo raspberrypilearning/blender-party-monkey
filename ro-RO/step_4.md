@@ -1,4 +1,4 @@
-## Rendering
+## Randare
 
 Randarea este procesul de generare al unei imagini dintr-un model 3D.
 
