@@ -12,7 +12,7 @@ Iată cum va arăta la final:
 
 ## \--- collapse \---
 
-## title: "What you will learn"
+## title: Ce vei învăța"
 
 Acest proiect acoperă elemente din următoarele componente ale [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
@@ -22,26 +22,26 @@ Acest proiect acoperă elemente din următoarele componente ale [Raspberry Pi Di
 
 ## \--- collapse \---
 
-## title: "What you will need"
+## title: "De ce vei avea nevoie"
 
 ### Hardware
 
-+ A desktop or laptop computer capable of running the Blender software
++ Un PC sau laptop capabil să ruleze programul Blender
 
 ### Software
 
-+ [Blender](https://www.blender.org/download/){:target="_blank"} (v2.8 or newer)
++ [Blender](https://www.blender.org/download/){:target="_blank"} (v2.8 sau mai nou)
 
 \--- /collapse \---
 
-### Additional information for educators
+### Informații suplimentare pentru educatori
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/blender-party-monkey/print){:target="_blank"}.
+Dacă vrei să printezi acest proiect, folosește [versiunea printabilă](https://projects.raspberrypi.org/en/projects/blender-party-monkey/print){:target="_blank"}.
 
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+Folosește link-ul din subsolul paginii pentru a accesa referința GitHub pentru acest proiect, care conține toate resursele (inclusiv un exemplu de proiect finalizat) în folder-ul 'ro-RO/resources'.
 
-If you prefer, you can watch the whole resource as a video tutorial: <iframe width="560" height="315" src="https://www.youtube.com/embed/93ux_JliBew" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+Dacă preferi, poți viziona întregul material în următorul tutorial video: <iframe width="560" height="315" src="https://www.youtube.com/embed/93ux_JliBew" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
 
-### License
+### Licență
 
-***Party Monkey*** by 3Dami & b3d101, Peter Kemp, Tom Haines, Monique Dewanchand is licenced under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+***Party Monkey*** de 3Dami & b3d101, Peter Kemp, Tom Haines, Monique Dewanchand, se afla sub licența [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
