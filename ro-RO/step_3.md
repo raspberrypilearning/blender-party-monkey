@@ -30,6 +30,6 @@ Acesta este locul de unde vei vedea scena ta.
 
 ![cameră activă](images/camera-view.png)
 
-![Behind the camera](images/behind-camera.png)
+![În spatele camerei](images/behind-camera.png)
 
-You will see a nice picture of the side of the cube.
+Vei vedea cubul din perspectiva camerei.
