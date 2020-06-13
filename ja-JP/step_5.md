@@ -1,8 +1,8 @@
-## Selecting and moving
+## 選択と移動
 
-To select an object in Blender, use the left mouse button.
+Blenderでオブジェクトを選択するには、マウスの左ボタンを使います。
 
-+ Select the cube with the left mouse button. You'll see an orange border around the cube.
++ マウスの左ボタンでキューブ（立方体）を選択します。 You'll see an orange border around the cube.
 
 In Blender you can move objects by using the blue, green, and red handles: The blue handle to go up and down on the z-axis, the green handle to go left and right on the y-axis, and the red handle to go in and out on the x-axis. From Blender 2.8, you will need to click on the move gizmo from the list of icons on the left of your screen to make the handles appear.
 
