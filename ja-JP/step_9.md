@@ -1,8 +1,8 @@
-## Challenge: a new scene
+## チャレンジ：新しいシーン
 
-+ Add more objects from the **Create** tab in the toolbox.
-+ Move the objects around, creating a different scene.
-+ Add a disco ball to the party scene.
-+ Add a rim to the party monkey's hat.
++ ツールボックスにある**作成**タブからさらにオブジェクトを追加します。
++ オブジェクトを移動させて、別のシーンを作ります。
++ パーティーシーンにミラーボールを追加します。
++ パーティーモンキーの帽子（ぼうし）にひさしを付けます。
 
-![Challenge](images/challenge.png)
+![チャレンジ](images/challenge.png)
