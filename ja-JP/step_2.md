@@ -1,27 +1,27 @@
-## Zooming and rotating
+## ズームと回転
 
-+ Open Blender.
++ Blenderを開きます
 
-When you open Blender, it starts with a splash screen. The splash screen of Blender v2.81 looks like this:
+Blenderを開くと、スプラッシュ画面から始まります。 Blender v2.83.0のスプラッシュ画面はこんな感じです：
 
-![Splash screen](images/splash-screen.png)
+![スプラッシュ画面](images/splash-screen.png)
 
-For this tutorial we won't be needing the splash screen.
+このチュートリアルでは、スプラッシュ画面は必要ありません。
 
-+ Click to the right of the splash screen to make it disappear.
++ スプラッシュ画面の右側をクリックして消します。
 
-In the centre, you'll see the 3D view. In this space you'll be positioning all the items that need to be displayed or rendered. You have three different items in the 3D view already. We will be looking at those later.
+中央には3Dビューが表示されます。 この空間に表示またはレンダリングする必要があるすべてのアイテムを置きます。 3Dビューにはすでに3種類のアイテムがあります。 これらについては後ほど説明します。
 
-![3D view](images/3d-view.png)
+![3Dビュー](images/3d-view.png)
 
-In the 3D view, you can zoom in and out using the mouse wheel.
+3Dビューでは、マウスホイールを使ってズームイン（拡大（かくだい））とズームアウト（縮小（しゅくしょう））ができます。
 
-+ Try to zoom in and out of the cube.
++ キューブ（立方体）をズームイン・ズームアウトしてみましょう。
 
 ![Zoom in and out](images/zoom-in-out.png)
 
-You can rotate the whole scene by pressing the middle mouse button or the mouse wheel and rotating around.
+マウスの真ん中のボタンもしくはマウスホイールを押して回すとシーン全体を回転できます。
 
-+ Try rotating your scene.
++ シーンを回転させてみてください。
 
-![Rotate the scene](images/rotate-scene.png)
+![シーンの回転](images/rotate-scene.png)
