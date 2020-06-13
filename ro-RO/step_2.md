@@ -2,7 +2,7 @@
 
 + Deschide Blender.
 
-Când deschizi Blender, va apărea un ecran de pornire. The splash screen of Blender v2.81 looks like this:
+Când deschizi Blender, va apărea un ecran de pornire. Ecranul de pornire al lui Blender v2.81 arată astfel:
 
 ![Ecran de pornire](images/splash-screen.png)
 
