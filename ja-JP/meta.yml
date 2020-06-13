@@ -1,7 +1,7 @@
 ---
-title: Party monkey
+title: パーティーモンキー
 hero_image: images/banner.png
-description: Create a 3D model of a monkey in a party hat using Blender
+description: Blenderを使ってパーティー用の帽子（ぼうし）をかぶったサルの3Dモデルをつくる
 theme: turquoise #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
 duration: 2
 listed: true
@@ -17,20 +17,20 @@ version: 4.0.1
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
+    title: はじめに
   - 
-    title: Zooming and rotating
+    title: ズームと回転
   - 
-    title: The 3D scene
+    title: 3Dシーン
   - 
-    title: Rendering
+    title: レンダリング
   - 
-    title: Selecting and moving
+    title: 選択と移動
   - 
-    title: Add a monkey
+    title: サルを追加する
   - 
-    title: Add a hat
+    title: 帽子（ぼうし）を追加する
   - 
-    title: Change the lighting
+    title: 照明を変更する
   - 
-    title: "Challenge: a new scene"
+    title: "チャレンジ：新しいシーン"
