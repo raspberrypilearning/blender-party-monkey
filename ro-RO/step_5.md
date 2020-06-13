@@ -1,47 +1,47 @@
 ## Selectarea și mutarea
 
-To select an object in Blender, use the left mouse button.
+Pentru a selecta un obiect din Blender, folosește butonul stâng al mouse-ului.
 
-+ Select the cube with the left mouse button. Vei vedea o margine portocalie în jurul cubului.
++ Selectează cubul cu butonul stâng al mouse-ului. Vei vedea o margine portocalie în jurul cubului.
 
-In Blender you can move objects by using the blue, green, and red handles: The blue handle to go up and down on the z-axis, the green handle to go left and right on the y-axis, and the red handle to go in and out on the x-axis. From Blender 2.8, you will need to click on the move gizmo from the list of icons on the left of your screen to make the handles appear.
+În Blender poți deplasa obiecte folosind săgețile de culoare albastră, verde sau roșie: săgeata albastră pentru a merge în sus și în jos pe axa z, cea verde pentru a merge la stânga și la dreapta pe axa y, iar cea roșie pentru deplasare în adâncime pe axa x. Începând cu Blender 2.8, va trebui să dai click pe „move gizmo” din lista de pictograme din stânga ecranului tău pentru a face să apară mânerele.
 
 ![Move gizmo](images/move-gizmo.png)
 
-![Coloured handles](images/coloured-handles.png)
+![Săgeți colorate](images/coloured-handles.png)
 
 + Mută cubul în sus apăsând săgeata albastră cu butonul stâng al mouse-ului și deplasându-l în sus. Când apeși săgeata albastră, vei vedea o linie albastră. Deplasază cubul de-a lungul liniei albastre.
 
-![Move up](images/move-up.png)
+![Mută sus](images/move-up.png)
 
 + Deplasează cubul spre dreapta apăsând săgeata verde cu butonul stâng al mouse-ului și mută-l spre dreapta. Când apeși săgeata verde, vei vedea o linie verde. Deplasează cubul de-a lungul liniei verzi.
 
-![Move right](images/move-right.png)
+![Mută la dreapta](images/move-right.png)
 
 + Deplasează cubul pe adăncime apăsând săgeata roșie cu butonul stâng al mouse-ului și mută-l înainte și înapoi. Când apeși săgeata roșie, vei vedea o linie roșie. Deplasează cubul de-a lungul liniei roșii.
 
-![Move in and out](images/move-in-and-out.png)
+![Deplasează pe adâncime](images/move-in-and-out.png)
 
 + Deplasează cubul în cadrul scenei la o poziție diferită.
 
 + Accesează ecranul de randare pentru a vedea cum va arăta. De exemplu:
 
-![Example render](images/example-render.png)
+![Exemplu de randare](images/example-render.png)
 
-You might see nothing or only part of the cube. This means that the object is not (completely) in the camera's view.
+S-ar putea să nu vezi nimic sau doar o parte din cub. Aceasta înseamnă că obiectul nu este (complet) în vizorul camerei.
 
-+ Press <kbd>ESC</kbd> to get out of the render view.
++ Apăsă <kbd>ESC</kbd> pentru a ieși din vizualizarea randării.
 
-+ Mută scena 3D cu butonul mijlociu al mouse-ului în spatele camerei. For example:
++ Mută scena 3D cu butonul mijlociu al mouse-ului în spatele camerei. De exemplu:
 
-![Move behind camera](images/move-behind-camera.png)
+![Mișcă în spatele camerei](images/move-behind-camera.png)
 
 + Deplasează cubul folosind săgețile astfel încât să poți vedea cubul din spatele camerei.
 
-![Cube behind camera](images/cube-behind-camera.png)
+![Cub în spatele camerei](images/cube-behind-camera.png)
 
 + Repetă din nou pentru a vedea cum arată imaginea ta. Probabil că vei vedea aceeași imagine ca înainte.
 
-![Same image](images/same-image.png)
+![Aceeași imagine](images/same-image.png)
 
 + Apăsă <kbd>ESC</kbd> pentru a ieși din vizualizarea de randare.
