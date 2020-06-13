@@ -4,9 +4,9 @@ Para seleccionar un objeto en Blender, utiliza el botón izquierdo del mouse.
 
 + Selecciona el cubo con el botón izquierdo del mouse. Verás un borde anaranjado alrededor del cubo.
 
-En Blender, puedes mover objetos usando los controles azul, verde y rojo: el control azul para subir y bajar en el eje z, la manija verde para ir a la izquierda y la derecha en el eje y, y la manija roja para entrar y salir en el eje x. Desde la versión Blender 2.8, necesitarás mover el control de la lista de iconos en la parte izquierda de tu pantalla para que aparezcan las manijas.
+En Blender, puedes mover objetos usando los controles azul, verde y rojo: el control azul para subir y bajar en el eje z, la manija verde para ir a la izquierda y la derecha en el eje y, y la manija roja para entrar y salir en el eje x. Desde la versión Blender 2.8, necesitarás hacer clic en el gizmo mover de la lista de iconos en la parte izquierda de tu pantalla para que aparezcan las manijas.
 
-![Move gizmo](images/move-gizmo.png)
+![Gizmo Mover](images/move-gizmo.png)
 
 ![Controles de colores](images/coloured-handles.png)
 
