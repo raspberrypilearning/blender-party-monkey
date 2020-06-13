@@ -2,7 +2,7 @@
 
 Poți adăuga, de asemenea, o pălărie pentru maimuță. Pentru aceasta vom folosi un con.
 
-+ Select **Cone** from the **Mesh** section.
++ Selectați **Cone** din secțiunea **Mesh**.
 
 În scenă ar trebui să îți apară un con. Acum ai o maimuță și un con.
 
@@ -14,9 +14,9 @@ Conul va trebui să fie poziționat deasupra maimuței.
 
 ![Mărește maimuța](images/zoom-monkey.png)
 
-+ Select the cone using the left mouse button. Din nou, o margine portocalie ar trebui să apară în jurul obiectului selectat (conul).
++ Selectează conul folosind butonul stâng al mouse-ului. Din nou, o margine portocalie ar trebui să apară în jurul obiectului selectat (conul).
 
-+ Use the move gizmo and the blue, green, and red handles to move the cone on top of the monkey. Este posibil să trebuiască să rotești, să mărești sau să micșorezi pentru a obține o perspectiva bună.
++ Folosește „move gizmo” împreună cu mânerele albastre, verzi și roșii pentru a muta conul deasupra maimuței. Este posibil să trebuiască să rotești, să mărești sau să micșorezi pentru a obține o perspectiva bună.
 
 ![Conul de pe maimuță](images/cone-monkey.png)
 
@@ -32,4 +32,4 @@ Acum, să vedem cum arată.
 
 Din imagine observi că maimuța nu este foarte bine luminată.
 
-+ Press <kbd>ESC</kbd> to exit the render view.
++ Apăsă <kbd>ESC</kbd> pentru a ieși din vizualizarea de randare.
