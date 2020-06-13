@@ -1,15 +1,15 @@
-## Change the lighting
+## 照明を変更する
 
-We need to move the light to shine upon the front of the monkey.
+サルの正面を照らすために、照明を移動させる必要があります。
 
-+ Select the lamp with the left mouse button. Check for the orange border.
++ マウスの左ボタンでランプを選択します。 橙（だいだい）色の線が表示されていることを確認します。
 
-+ Move the lamp using the handles so that it is shining on the front of the monkey's face.
++ ハンドルを使ってランプを動かして、サルの顔の正面を照らします。
 
-+ Render the image again.
++ もう一度画像をレンダリングします。
 
-+ Check whether the monkey's face is well lit, like in the image below.
++ 次の画像にあるように、サルの顔がうまく照らされているかどうか確認します。
 
-![Well lit](images/well-lit.png)
+![うまく照らされている](images/well-lit.png)
 
-+ If it isn't, press <kbd>ESC</kbd> and move the lamp a bit more towards the monkey's face.
++ うまく照らされてない場合は、<kbd>ESC</kbd>（エスケープ）キーを押して、ランプをサルの顔の方にちょっと動かします。
