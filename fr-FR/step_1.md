@@ -40,7 +40,7 @@ title: Ce qu'il te faut
 
 Si vous avez besoin d'imprimer ce projet, merci d'utiliser la [version imprimable](https://projects.raspberrypi.org/fr-FR/projects/blender-party-monkey/print){:target="_blank"}.
 
-Utilisez le lien en bas de page pour accéder au dépôt GitHub pour ce projet, qui contient toutes les ressources (y compris un exemple d'un projet terminé) dans le dossier 'en/resources'.
+Utilisez le lien en bas de page pour accéder au dépôt GitHub pour ce projet, qui contient toutes les ressources (y compris un exemple d'un projet terminé) dans le dossier 'fr-FR/resources'.
 
 Si vous préférez, vous pouvez regarder l'intégralité de la ressource sous forme de tutoriel vidéo : 
 

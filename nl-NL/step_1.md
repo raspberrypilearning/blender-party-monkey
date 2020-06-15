@@ -20,7 +20,7 @@ Dit project behandelt elementen uit de volgende onderdelen van het [Raspberry Pi
 
 Als je dit project wilt afdrukken, gebruik dan de [printervriendelijke versie](https://projects.raspberrypi.org/nl-NL/projects/blender-party-monkey/print){:target ="_blank"}.
 
-Gebruik de link in de voettekst voor toegang tot de GitHub opslagplaats voor dit project, met daarin alle bronnen (inclusief een voorbeeld van een voltooid project) in de map ' nl/bronnen'.
+Gebruik de link in de voettekst voor toegang tot de GitHub opslagplaats voor dit project, met daarin alle bronnen (inclusief een voorbeeld van een voltooid project) in de map 'nl-NL/resources'.
 
 Als je wilt, kun je het hele project in een zelfstudie video bekijken: 
 
