@@ -1,26 +1,26 @@
-## Add a monkey
+## Adicione um macaco
 
-We won't be needing the cube, so let's remove it.
+Não vamos precisar do cubo, então vamos removê-lo.
 
-+ Select the cube with the left mouse button. An orange border should appear around the cube.
-+ Make sure your mouse is in the 3D view.
-+ Press <kbd>X</kbd> to delete the cube.
-+ You'll be asked whether it's OK to delete the object.
++ Selecione o cubo usando o botão esquerdo do mouse. Uma borda laranja deve aparecer ao redor do cubo.
++ Certifique-se de que seu mouse está na vista 3D.
++ Pressione <kbd>X</kbd> para deletar o cubo.
++ Será perguntado se está tudo bem em deletar o objeto.
 
-![Delete object](images/delete-object.png)
+![Excluir objeto](images/delete-object.png)
 
-+ Select **Delete** or press <kbd>Enter</kbd>.
++ Selecione **Delete** ou pressione <kbd>Enter</kbd>.
 
-To add objects to the scene, you can use the **Add** dropdown menu.
+Para adicionar objetos à cena, você pode usar o menu suspenso **Add**.
 
-+ In the menu, go to the **Mesh** section and select **Monkey**.
++ No menu, vá à seção **Mesh** e selecione **Monkey**.
 
-![Select monkey](images/select-monkey.png)
+![Selecionar macaco](images/select-monkey.png)
 
-A monkey appears in your scene.
+Um macaco vai aparecer em sua cena.
 
-![A monkey appears](images/monkey-appears.png)
+![Um macaco aparece](images/monkey-appears.png)
 
-+ Position the monkey in front of the camera just like you did with the cube, so that we can see it after rendering. You can use the blue, green, and red handles again to move the monkey.
++ Posicione o macaco em frente à câmera, assim como fez com o cubo, para que possamos vê-lo após a renderização. Você pode usar as alças azul, verde e vermelha novamente para mover o macaco.
 
-![Position the camera](images/camera-monkey.png)
+![Posicione a câmera](images/camera-monkey.png)
