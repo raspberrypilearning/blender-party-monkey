@@ -1,27 +1,27 @@
-## Zooming and rotating
+## Zoom e rotação
 
-+ Open Blender.
++ Abra o Blender.
 
-When you open Blender, it starts with a splash screen. The splash screen of Blender v2.81 looks like this:
+Quando abrir o Blender, irá aparecer uma tela inicial. A tela inicial do Blender v2.81 é assim:
 
-![Splash screen](images/splash-screen.png)
+![Tela inicial](images/splash-screen.png)
 
-For this tutorial we won't be needing the splash screen.
+Para este tutorial, não precisaremos da tela inicial.
 
-+ Click to the right of the splash screen to make it disappear.
++ Clique à direita da tela inicial para fazê-la desaparecer.
 
-In the centre, you'll see the 3D view. In this space you'll be positioning all the items that need to be displayed or rendered. You have three different items in the 3D view already. We will be looking at those later.
+No centro, você verá a vista 3D. Nesse espaço, você posicionará todos os itens que precisam ser exibidos ou renderizados. Você já tem três itens diferentes na visualização 3D. Iremos falar sobre eles mais tarde.
 
-![3D view](images/3d-view.png)
+![Vista 3D](images/3d-view.png)
 
-In the 3D view, you can zoom in and out using the mouse wheel.
+Na visualização 3D, você pode aumentar e diminuir o zoom usando a roda do mouse.
 
-+ Try to zoom in and out of the cube.
++ Tente aumentar e diminuir o zoom.
 
-![Zoom in and out](images/zoom-in-out.png)
+![Aumentar e diminuir o zoom](images/zoom-in-out.png)
 
-You can rotate the whole scene by pressing the middle mouse button or the mouse wheel and rotating around.
+Você pode girar a cena pressionando o botão do meio ou a roda do mouse e girando ao redor.
 
-+ Try rotating your scene.
++ Tente girar sua cena.
 
-![Rotate the scene](images/rotate-scene.png)
+![Girar a cena](images/rotate-scene.png)
