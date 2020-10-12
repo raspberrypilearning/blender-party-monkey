@@ -26,7 +26,7 @@ Ao girar a cena, você pode ver a posição exata da fonte de luz.
 
 ![Câmera](images/camera.png)
 
-+ Gire sua cena para que fique atrás da câmera. Uma maneira fácil de fazer isso é pressionar `0` no teclado numérico ou vá para `View` > `Cameras` > `Active Cameras`.
++ Gire sua cena para que fique atrás da câmera. Uma maneira fácil de fazer isso é pressionar `0` no teclado numérico ou vá para `Visualizar` > `Câmeras` > `Câmera ativa`.
 
 ![câmera ativa](images/camera-view.png)
 
