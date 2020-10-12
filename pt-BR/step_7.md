@@ -2,7 +2,7 @@
 
 Podemos também adicionar um chapéu. Para isso, usaremos um cone.
 
-+ Selecione **Cone** a partir da seção **Mesh**.
++ Selecione **Cone** a partir da seção **Malha**.
 
 Um cone deve aparecer em sua tela. Agora você tem um macaco e um cone.
 
