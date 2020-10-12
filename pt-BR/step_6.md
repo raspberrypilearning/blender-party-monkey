@@ -11,9 +11,9 @@ Não vamos precisar do cubo, então vamos removê-lo.
 
 + Selecione **Delete** ou pressione <kbd>Enter</kbd>.
 
-Para adicionar objetos à cena, você pode usar o menu suspenso **Add**.
+Para adicionar objetos à cena, você pode usar o menu suspenso **Adicionar**.
 
-+ No menu, vá à seção **Mesh** e selecione **Monkey**.
++ No menu, vá à seção **Malha** e selecione **Macaco**.
 
 ![Selecionar macaco](images/select-monkey.png)
 
