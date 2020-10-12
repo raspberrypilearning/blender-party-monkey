@@ -1,35 +1,35 @@
-## Add a hat
+## Adicione um chapéu
 
-We can also add a hat. For this we will use a cone.
+Podemos também adicionar um chapéu. Para isso, usaremos um cone.
 
-+ Select **Cone** from the **Mesh** section.
++ Selecione **Cone** a partir da seção **Mesh**.
 
-A cone should appear in your scene. Now you have a monkey and a cone.
+Um cone deve aparecer em sua tela. Agora você tem um macaco e um cone.
 
-![Monkey and cone](images/monkey-and-cone.png)
+![Macaco e cone](images/monkey-and-cone.png)
 
-Now the cone needs to be positioned on top of the monkey.
+Agora o cone precisa ser posicionado em cima do macaco.
 
-+ Rotate and zoom a bit towards the cone and the monkey to have a better view on both objects.
++ Gire e aplique um pouco de zoom sobre o cone e o macaco para ter uma visão melhor dos objetos.
 
-![Zoom in on the monkey](images/zoom-monkey.png)
+![Aumentar o zoom no macaco](images/zoom-monkey.png)
 
-+ Select the cone using the left mouse button. Again an orange border should appear around it.
++ Selecione o cubo usando o botão esquerdo do mouse. Mais uma vez, uma borda laranja deve aparecer ao redor do cubo.
 
-+ Use the move gizmo and the blue, green, and red handles to move the cone on top of the monkey. You might have to rotate and zoom in or out to get a proper view.
++ Use o mecanismo de movimentação e as alças azul, verde e vermelha para mover o cone em cima do macaco. Pode ser que seja necessário girar e aumentar ou diminuir o zoom para obter uma visão adequada.
 
-![Cone on the monkey](images/cone-monkey.png)
+![Cone no macaco](images/cone-monkey.png)
 
-+ Check from different angles if the the cone is positioned properly on top of the monkey.
++ Verifique a partir de diferentes ângulos se o cone está corretamente posicionado em cima do macaco.
 
-![Check cone](images/check-cone.png)
+![Verificar cone](images/check-cone.png)
 
-Now we need to see what it looks like.
+Agora precisamos ver como está ficando.
 
-+ Render the image.
++ Renderize a imagem.
 
-![Render cone monkey](images/render-cone-monkey.png)
+![Renderizar cone macaco](images/render-cone-monkey.png)
 
-The image shows that the monkey is not very well lit.
+A imagem mostra que o macaco não está muito bem iluminado.
 
-+ Press <kbd>ESC</kbd> to exit the render view.
++ Pressione <kbd>ESC</kbd> para sair da visualização de renderização.
