@@ -1,15 +1,15 @@
-## Change the lighting
+## Mude a iluminação
 
-We need to move the light to shine upon the front of the monkey.
+Precisamos mover a luz para que ilumine a frente do macaco.
 
-+ Select the lamp with the left mouse button. Check for the orange border.
++ Selecione a lâmpada com o botão esquerdo do mouse. Verifique se está com uma borda laranja.
 
-+ Move the lamp using the handles so that it is shining on the front of the monkey's face.
++ Mova a lâmpada utilizando as alças até que esteja iluminando a frente do rosto do macaco.
 
-+ Render the image again.
++ Renderize a imagem novamente.
 
-+ Check whether the monkey's face is well lit, like in the image below.
++ Verifique se o rosto do macaco está bem iluminado, como na imagem abaixo.
 
-![Well lit](images/well-lit.png)
+![Bem iluminado](images/well-lit.png)
 
-+ If it isn't, press <kbd>ESC</kbd> and move the lamp a bit more towards the monkey's face.
++ Caso não esteja, pressione <kbd>ESC</kbd> e mova a lâmpada um pouco mais perto do rosto do macaco.
