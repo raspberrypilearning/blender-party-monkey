@@ -13,7 +13,7 @@ Nous n'aurons pas besoin du cube, alors retirons-le.
 
 Pour ajouter des objets à la scène, tu peux utiliser le menu déroulant **Ajouter**.
 
-+ Dans le menu, vas à la section **Mesh** et sélectionne **Monkey**.
++ Dans le menu, va à la section **Mesh** et sélectionne **Monkey**.
 
 ![Sélectionner le singe](images/select-monkey.png)
 
