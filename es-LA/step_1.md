@@ -1,6 +1,6 @@
 ## Introducción
 
-Crea un modelo 3D de un mono con un sombrero de fiesta usando Blender.
+Crea un modelo 3D de una mona con un sombrero de fiesta usando Blender.
 
 ### Lo que harás
 
@@ -40,8 +40,8 @@ Si necesitas imprimir este proyecto, por favor utiliza la [printer-friendly vers
 
 Utiliza el link que aparece en el pie de página para acceder al repositorio de GitHub de este proyecto que contiene todos los recursos (incluyendo un ejemplo de un proyecto terminado) en la carpeta 'en/resources'.
 
-Si prefieres, puedes ver todos los materiales como un video tutorial: <iframe width="560" height="315" src="https://www.youtube.com/embed/93ux_JliBew" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+Si prefieres, puedes ver todos los materiales como un video tutorial (en inglés): <iframe width="560" height="315" src="https://www.youtube.com/embed/93ux_JliBew" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 ### Licencia
 
-***La fiesta del mono*** de 3Dami & b3d101, Peter Kemp, Tom Haines, Monique Dewanchand está licenciado por [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+***La fiesta de la mona*** de 3Dami & b3d101, Peter Kemp, Tom Haines, Monique Dewanchand está licenciado por [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
