@@ -1,7 +1,7 @@
 ---
-title: La fiesta del mono
+title: La fiesta de la mona
 hero_image: images/banner.png
-description: Crea un modelo 3D de un mono con un sombrero de fiesta usando Blender
+description: Crea un modelo 3D de una mona con un sombrero de fiesta usando Blender
 theme: turquoise #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
 duration: 2
 listed: true
@@ -27,7 +27,7 @@ steps:
   - 
     title: Seleccionar y mover
   - 
-    title: Agrega un mono
+    title: Agrega una mona
   - 
     title: Agrega un sombrero
   - 
