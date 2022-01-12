@@ -2,7 +2,7 @@
 title: Singe fêtard
 hero_image: images/banner.png
 description: Crée un modèle 3D d'un singe avec un chapeau de fête à l'aide de Blender
-theme: turquoise #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+theme: turquoise
 duration: 2
 listed: true
 ingredient: false
@@ -16,12 +16,14 @@ software: blender
 version: 4.0.1
 last_tested: 2017-01-01
 steps:
-  - title: Introduction
-  - title: Zoom et rotation
-  - title: La scène 3D
-  - title: Le rendu
-  - title: Sélection et déplacement
-  - title: Ajouter un singe
-  - title: Ajouter un chapeau
-  - title: Modifier l'éclairage
-  - title: "Défi : une nouvelle scène"
+- title: Introduction
+  completion: engaged
+- title: Zoom et rotation
+- title: La scène 3D
+- title: Le rendu
+- title: Sélection et déplacement
+- title: Ajouter un singe
+- title: Ajouter un chapeau
+- title: Modifier l'éclairage
+  completion: internal
+- title: 'Défi : une nouvelle scène'

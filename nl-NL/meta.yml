@@ -16,13 +16,15 @@ software: blender
 version: 4.0.1
 last_tested: 2017/01/01
 steps:
-  - title: Inleiding
-  - title: Wat je nodig hebt
-  - title: Zoomen en draaien
-  - title: De 3D-scène
-  - title: Renderen
-  - title: Selecteren en verplaatsen
-  - title: Voeg een aap toe
-  - title: Voeg een hoed toe
-  - title: Verander de belichting
-  - title: "Uitdaging: een nieuwe scène"
+- title: Inleiding
+  completion: engaged
+- title: Wat je nodig hebt
+- title: Zoomen en draaien
+- title: De 3D-scène
+- title: Renderen
+- title: Selecteren en verplaatsen
+- title: Voeg een aap toe
+- title: Voeg een hoed toe
+  completion: internal
+- title: Verander de belichting
+- title: 'Uitdaging: een nieuwe scène'

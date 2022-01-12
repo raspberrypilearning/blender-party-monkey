@@ -1,7 +1,8 @@
+---
 title: Party monkey
 hero_image: images/banner.png
 description: Create a 3D model of a monkey in a party hat using Blender
-theme: turquoise # possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+theme: turquoise
 duration: 2
 listed: true
 ingredient: false
@@ -14,8 +15,9 @@ hardware: ''
 software: blender
 version: 4.0.1
 last_tested: 2017-01-01
-steps: 
+steps:
 - title: Introduction
+  completion: engaged
 - title: Zooming and rotating
 - title: The 3D scene
 - title: Rendering
@@ -23,4 +25,5 @@ steps:
 - title: Add a monkey
 - title: Add a hat
 - title: Change the lighting
-- title: "Challenge: a new scene"
+  completion: internal
+- title: 'Challenge: a new scene'

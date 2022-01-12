@@ -2,7 +2,7 @@
 title: 파티 원숭이
 hero_image: images/banner.png
 description: Blender를 사용하여 파티 모자를 쓰고 있는 원숭이의 3D 모델을 만들어보기
-theme: turquoise #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+theme: turquoise
 duration: 2
 listed: true
 ingredient: false
@@ -16,12 +16,14 @@ software: blender
 version: 4.0.1
 last_tested: 2017-01-01
 steps:
-  - title: 소개
-  - title: 확대 및 축소 기능
-  - title: 3D 장면
-  - title: 렌더링
-  - title: 선택 및 이동하기
-  - title: 원숭이 추가하기
-  - title: 모자 추가하기
-  - title: 조명 바꿔보기
-  - title: "도전 과제: 새로운 장면"
+- title: 소개
+  completion: engaged
+- title: 확대 및 축소 기능
+- title: 3D 장면
+- title: 렌더링
+- title: 선택 및 이동하기
+- title: 원숭이 추가하기
+- title: 모자 추가하기
+- title: 조명 바꿔보기
+  completion: internal
+- title: '도전 과제: 새로운 장면'

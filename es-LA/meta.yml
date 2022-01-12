@@ -2,7 +2,7 @@
 title: La fiesta del mono
 hero_image: images/banner.png
 description: Crea un modelo 3D de un mono con un sombrero de fiesta usando Blender
-theme: turquoise #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+theme: turquoise
 duration: 2
 listed: true
 ingredient: false
@@ -16,12 +16,14 @@ software: blender
 version: 4.0.1
 last_tested: 2017-01-01
 steps:
-  - title: Introducción
-  - title: Acercar y rotar
-  - title: La escena 3D
-  - title: Representación gráfica
-  - title: Seleccionar y mover
-  - title: Agrega un mono
-  - title: Agrega un sombrero
-  - title: Cambia la luz
-  - title: "Desafío: una nueva escena"
+- title: Introducción
+  completion: engaged
+- title: Acercar y rotar
+- title: La escena 3D
+- title: Representación gráfica
+- title: Seleccionar y mover
+- title: Agrega un mono
+- title: Agrega un sombrero
+- title: Cambia la luz
+  completion: internal
+- title: 'Desafío: una nueva escena'
