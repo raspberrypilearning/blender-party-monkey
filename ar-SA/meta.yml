@@ -2,7 +2,7 @@
 title: قرد الحفلة
 hero_image: images/banner.png
 description: قم بإنشاء نموذج ثلاثي الأبعاد لقرد في قبعة الحفلة باستخدام Blender
-theme: turquoise #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+theme: turquoise
 duration: 2
 listed: true
 ingredient: false
@@ -16,12 +16,16 @@ software: blender
 version: 4.0.1
 last_tested: 2017-01-01
 steps:
-  - title: المقدمة
-  - title: تكبير وتدوير
-  - title: المشهد الثلاثي الأبعاد
-  - title: استدعاء
-  - title: اختيار و نقل
-  - title: أضف قرد
-  - title: أضف قبعة
-  - title: تغيير الإضاءة
-  - title: "التحدي: مشهد جديد"
+- title: المقدمة
+- title: تكبير وتدوير
+- title: المشهد الثلاثي الأبعاد
+  completion:
+  - engaged
+- title: استدعاء
+- title: اختيار و نقل
+- title: أضف قرد
+- title: أضف قبعة
+- title: تغيير الإضاءة
+  completion:
+  - internal
+- title: 'التحدي: مشهد جديد'

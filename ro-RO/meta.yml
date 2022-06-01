@@ -1,7 +1,8 @@
 ---
 title: Maimuță petrecăreață
 hero_image: images/banner.png
-description: Creează, folosind Blender, un model 3D al unei maimuțe ce poartă o pălărie de petrecere
+description: Creează, folosind Blender, un model 3D al unei maimuțe ce poartă o pălărie
+  de petrecere
 theme: turquoise
 duration: 2
 listed: true
@@ -16,13 +17,17 @@ software: blender
 version: 4.0.1
 last_tested: 2017-01-01
 steps:
-  - title: Introducere
-  - title: De ce vei avea nevoie
-  - title: Mărirea și rotirea
-  - title: Scena 3D
-  - title: Randare
-  - title: Selectarea și mutarea
-  - title: Adaugă o maimuță
-  - title: Adaugă o pălărie
-  - title: Schimbă lumina
-  - title: "Provocare: o nouă scenă"
+- title: Introducere
+- title: De ce vei avea nevoie
+- title: Mărirea și rotirea
+  completion:
+  - engaged
+- title: Scena 3D
+- title: Randare
+- title: Selectarea și mutarea
+- title: Adaugă o maimuță
+- title: Adaugă o pălărie
+  completion:
+  - internal
+- title: Schimbă lumina
+- title: 'Provocare: o nouă scenă'

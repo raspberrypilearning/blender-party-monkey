@@ -2,7 +2,7 @@
 title: パーティーモンキー
 hero_image: images/banner.png
 description: Blenderを使ってパーティー用の帽子（ぼうし）をかぶったサルの3Dモデルをつくる
-theme: turquoise #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+theme: turquoise
 duration: 2
 listed: true
 ingredient: false
@@ -16,12 +16,16 @@ software: blender
 version: 4.0.1
 last_tested: 2017-01-01
 steps:
-  - title: はじめに
-  - title: ズームと回転
-  - title: 3Dシーン
-  - title: レンダリング
-  - title: 選択と移動
-  - title: サルを追加する
-  - title: 帽子（ぼうし）を追加する
-  - title: 照明を変更する
-  - title: "チャレンジ：新しいシーン"
+- title: はじめに
+- title: ズームと回転
+- title: 3Dシーン
+  completion:
+  - engaged
+- title: レンダリング
+- title: 選択と移動
+- title: サルを追加する
+- title: 帽子（ぼうし）を追加する
+- title: 照明を変更する
+  completion:
+  - internal
+- title: チャレンジ：新しいシーン
