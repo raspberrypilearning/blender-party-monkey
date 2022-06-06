@@ -17,13 +17,15 @@ version: 4.0.1
 last_tested: 2017-01-01
 steps:
 - title: Einleitung
-  completion: engaged
 - title: Zoomen und drehen
 - title: Die 3D-Szene
+  completion:
+  - engaged
 - title: Rendern
 - title: Auswählen und verschieben
 - title: Füge einen Affen hinzu
 - title: Füge einen Hut hinzu
 - title: Beleuchtung ändern
-  completion: internal
+  completion:
+  - internal
 - title: 'Herausforderung: Eine neue Szene'

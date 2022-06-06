@@ -17,13 +17,15 @@ version: 4.0.1
 last_tested: 2017-01-01
 steps:
 - title: भूमिका
-  completion: engaged
 - title: ज़ूम करना और रोटेट करना
 - title: 3D दृश्य
+  completion:
+  - engaged
 - title: प्रस्तुत करना
 - title: चयन करना और चलाना
 - title: एक बंदर जोड़ें
 - title: एक टोपी जोड़ें
 - title: प्रकाश व्यवस्था बदलें
-  completion: internal
+  completion:
+  - internal
 - title: 'चुनौती: एक नया दृश्य'

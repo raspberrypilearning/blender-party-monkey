@@ -18,13 +18,15 @@ version: 4.0.1
 last_tested: 2017-01-01
 steps:
 - title: Εισαγωγή
-  completion: engaged
 - title: Μεγέθυνση και περιστροφή
 - title: Η τρισδιάστατη σκηνή
+  completion:
+  - engaged
 - title: Αποτύπωση
 - title: Επιλογή και μετακίνηση
 - title: Πρόσθεσε μια μαϊμού
 - title: Πρόσθεσε ένα καπέλο
 - title: Άλλαξε το φωτισμό
-  completion: internal
+  completion:
+  - internal
 - title: 'Πρόκληση: μια νέα σκηνή'

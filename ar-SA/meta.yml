@@ -17,13 +17,15 @@ version: 4.0.1
 last_tested: 2017-01-01
 steps:
 - title: المقدمة
-  completion: engaged
 - title: تكبير وتدوير
 - title: المشهد الثلاثي الأبعاد
+  completion:
+  - engaged
 - title: استدعاء
 - title: اختيار و نقل
 - title: أضف قرد
 - title: أضف قبعة
 - title: تغيير الإضاءة
-  completion: internal
+  completion:
+  - internal
 - title: 'التحدي: مشهد جديد'

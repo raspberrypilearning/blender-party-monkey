@@ -17,13 +17,15 @@ version: 4.0.1
 last_tested: 2017-01-01
 steps:
 - title: Introducción
-  completion: engaged
 - title: Acercar y rotar
 - title: La escena 3D
+  completion:
+  - engaged
 - title: Renderizado
 - title: Selección y movimiento
 - title: Añade un mono
 - title: Añade un sombrero
 - title: Cambia la iluminación
-  completion: internal
+  completion:
+  - internal
 - title: 'Desafío: una nueva escena'

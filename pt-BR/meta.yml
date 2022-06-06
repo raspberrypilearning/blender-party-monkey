@@ -17,13 +17,15 @@ version: 4.0.1
 last_tested: 01/01/2017
 steps:
 - title: Introdução
-  completion: engaged
 - title: Zoom e rotação
 - title: A cena 3D
+  completion:
+  - engaged
 - title: Renderização
 - title: Selecionando e movendo
 - title: Adicione um macaco
 - title: Adicione um chapéu
 - title: Mude a iluminação
-  completion: internal
+  completion:
+  - internal
 - title: 'Desafio: uma nova cena'

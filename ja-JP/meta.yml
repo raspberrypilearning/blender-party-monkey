@@ -17,13 +17,15 @@ version: 4.0.1
 last_tested: 2017-01-01
 steps:
 - title: はじめに
-  completion: engaged
 - title: ズームと回転
 - title: 3Dシーン
+  completion:
+  - engaged
 - title: レンダリング
 - title: 選択と移動
 - title: サルを追加する
 - title: 帽子（ぼうし）を追加する
 - title: 照明を変更する
-  completion: internal
+  completion:
+  - internal
 - title: チャレンジ：新しいシーン

@@ -17,13 +17,15 @@ version: 4.0.1
 last_tested: 2017-01-01
 steps:
 - title: Introduction
-  completion: engaged
 - title: Zooming and rotating
 - title: The 3D scene
+  completion:
+  - engaged
 - title: Rendering
 - title: Selecting and moving
 - title: Add a monkey
 - title: Add a hat
 - title: Change the lighting
-  completion: internal
+  completion:
+  - internal
 - title: 'Challenge: a new scene'

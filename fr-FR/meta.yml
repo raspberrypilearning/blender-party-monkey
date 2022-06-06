@@ -17,13 +17,15 @@ version: 4.0.1
 last_tested: 2017-01-01
 steps:
 - title: Introduction
-  completion: engaged
 - title: Zoom et rotation
 - title: La scène 3D
+  completion:
+  - engaged
 - title: Le rendu
 - title: Sélection et déplacement
 - title: Ajouter un singe
 - title: Ajouter un chapeau
 - title: Modifier l'éclairage
-  completion: internal
+  completion:
+  - internal
 - title: 'Défi : une nouvelle scène'
