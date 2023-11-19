@@ -40,7 +40,7 @@ Blender를 사용하여 파티 모자를 쓰고 있는 원숭이의 3D 모델을
 
 아래쪽에 있는, 이 프로젝트를 위한 GitHub repository 링크를 이용하세요. (완성된 프로젝트 예제를 포함한) 모든 자료가 'en/resources' 폴더에 들어 있습니다.
 
-원하는 경우 전체 자료를 비디오 자습서로 볼 수 있습니다. <iframe width="560" height="315" src="https://www.youtube.com/embed/93ux_JliBew" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+원하는 경우 전체 자료를 비디오 자습서로 볼 수 있습니다. <iframe width="560" height="315" src="https://www.youtube.com/embed/93ux_JliBew" frameborder="0" allowfullscreen></iframe> 
 
 ### 라이선스
 
