@@ -2,7 +2,7 @@
 title: La fiesta de la mona
 hero_image: images/banner.png
 description: Crea un modelo 3D de una mona con un sombrero de fiesta usando Blender
-theme: turquoise #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+theme: turquoise
 duration: 2
 listed: true
 ingredient: false
@@ -22,6 +22,8 @@ steps:
     title: Acercar y rotar
   - 
     title: La escena 3D
+    completion:
+      - engaged
   - 
     title: Representación gráfica
   - 
@@ -32,5 +34,7 @@ steps:
     title: Agrega un sombrero
   - 
     title: Cambia la iluminación
+    completion:
+      - internal
   - 
-    title: "Desafío: una nueva escena"
+    title: 'Desafío: una nueva escena'
