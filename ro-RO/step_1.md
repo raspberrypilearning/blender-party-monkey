@@ -40,7 +40,7 @@ Dacă vrei să printezi acest proiect, folosește [versiunea printabilă](https:
 
 Folosește link-ul din subsolul paginii pentru a accesa referința GitHub pentru acest proiect, care conține toate resursele (inclusiv un exemplu de proiect finalizat) în folder-ul 'ro-RO/resources'.
 
-Dacă preferi, poți viziona întregul material în următorul tutorial video: <iframe width="560" height="315" src="https://www.youtube.com/embed/93ux_JliBew" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+Dacă preferi, poți viziona întregul material în următorul tutorial video: <iframe width="560" height="315" src="https://www.youtube.com/embed/93ux_JliBew" frameborder="0" allowfullscreen></iframe> 
 
 ### Licență
 
