@@ -1,11 +1,11 @@
-## Rendering
+## Візуалізація
 
-Rendering is the process of generating an image from a 3D model.
+Візуалізація — це процес генерування зображення із 3D-моделі.
 
-+ Render the scene by pressing <kbd>F12</kbd>. If you're working on a Mac, press <kbd>FN + F12</kbd>.
++ Візуалізуй сцену, натиснувши <kbd>F12</kbd>. Якщо ти працюєш на Mac, натисни <kbd>FN + F12</kbd>.
 
-![Rendered image](images/render.png)
+![Візуалізоване зображення](images/render.png)
 
-You can see that the top and right side of the cube are lit, but the left side is dark. That's because the light source is on the top right side of the cube.
+Ти можеш бачити, що верх та права сторона куба освітлені, а ліва сторона — темна. Це тому, що джерело світла знаходиться зверху і справа від куба.
 
-+ Press <kbd>ESC</kbd> to get out of the render view.
++ Натисни <kbd>ESC</kbd>, щоб закрити вікно візуалізації.
