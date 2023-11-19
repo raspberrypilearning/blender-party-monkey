@@ -1,8 +1,8 @@
 ---
-title: Party monkey
+title: Мавпочка з вечірки
 hero_image: images/banner.png
-description: Create a 3D model of a monkey in a party hat using Blender
-theme: turquoise #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+description: Створи 3D-модель мавпочки в шапці для вечірки за допомогою Blender
+theme: turquoise
 duration: 2
 listed: true
 ingredient: false
@@ -17,20 +17,24 @@ version: 4.0.1
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
+    title: Вступ
   - 
-    title: Zooming and rotating
+    title: Наближення/віддалення та обертання
   - 
-    title: The 3D scene
+    title: 3D-сцена
+    completion:
+      - engaged
   - 
-    title: Rendering
+    title: Візуалізація
   - 
-    title: Selecting and moving
+    title: Виділення та переміщення
   - 
-    title: Add a monkey
+    title: Додай мавпочку
   - 
-    title: Add a hat
+    title: Додай шапочку
   - 
-    title: Change the lighting
+    title: Зміни освітлення
+    completion:
+      - internal
   - 
-    title: "Challenge: a new scene"
+    title: 'Завдання: нова сцена'
