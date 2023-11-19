@@ -1,15 +1,15 @@
-## Change the lighting
+## Зміни освітлення
 
-We need to move the light to shine upon the front of the monkey.
+Нам треба перемістити лампу, щоб вона освітлювала передню частину мавпочки.
 
-+ Select the lamp with the left mouse button. Check for the orange border.
++ Виділи лампу за допомогою лівої кнопки мишки. Перевір, чи з’явився оранжевий контур.
 
-+ Move the lamp using the handles so that it is shining on the front of the monkey's face.
++ Перемісти лампу за допомогою направляючих так, щоб вона освітлювала передню частину обличчя мавпочки.
 
-+ Render the image again.
++ Візуалізуй зображення знову.
 
-+ Check whether the monkey's face is well lit, like in the image below.
++ Переконайся, що обличчя мавпочки добре освітлене, як на зображенні нижче.
 
-![Well lit](images/well-lit.png)
+![Хороше освітлення](images/well-lit.png)
 
-+ If it isn't, press <kbd>ESC</kbd> and move the lamp a bit more towards the monkey's face.
++ Якщо ні, натисни <kbd>ESC</kbd> і перемісти лампу трохи ближче до обличчя мавпочки.
