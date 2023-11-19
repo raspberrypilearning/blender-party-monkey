@@ -1,35 +1,35 @@
-## The 3D scene
+## 3D-сцена
 
-In the 3D view you have your 3D scene, which looks a bit like what you might see in a computer game for example.
+У 3D-вікні є 3D-сцена, яка виглядає так, ніби ти знаходишся в комп’ютерній грі.
 
-There are three main components in the 3D scene that we need to understand to get started.
+Для початку нам треба розібратися з трьома головними компонентами 3D-cцени.
 
-### A cube in the centre
+### Куб у центрі
 
-This is what is going to be rendered and shown in the image.
+Це те, що буде візуалізовано та показано на картинці.
 
-![Centre cube](images/centre-cube.png)
+![Центральний куб](images/centre-cube.png)
 
-### A light source
+### Джерело світла
 
-By rotating the scene you can see the exact position of the light source.
+Обертаючи сцену, ти можеш бачити точне розміщення джерела світла.
 
-![Light source](images/light-source.png)
+![Джерело світла](images/light-source.png)
 
-+ Rotate your scene until you see the top of the light source.
++ Обертай сцену, поки не побачиш джерело світла зверху.
 
-![Light source top](images/light-source-top.png)
+![Джерело світла зверху](images/light-source-top.png)
 
-### A camera
+### Камера
 
-This is from where you will see your scene.
+Це та точка, з якої ти бачитимеш свою сцену.
 
-![Camera](images/camera.png)
+![Камера](images/camera.png)
 
-+ Rotate your scene so that it is behind the camera. An easy way to do this is to press `0` in you number pad, or go to `View` > `Cameras` > `Active Cameras`.
++ Обертай сцену, щоб вона опинилася перед камерою. Простий спосіб це зробити — натиснути `0` на цифровій клавіатурі, або перейти у `Огляд` > `Камери` > `Активна Камера`.
 
-![active camera](images/camera-view.png)
+![активна камера](images/camera-view.png)
 
-![Behind the camera](images/behind-camera.png)
+![Перед камерою](images/behind-camera.png)
 
-You will see a nice picture of the side of the cube.
+Ти побачиш чудове зображення сторони куба.
