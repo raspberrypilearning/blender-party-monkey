@@ -1,27 +1,27 @@
-## Zooming and rotating
+## Наближення/віддалення та обертання
 
-+ Open Blender.
++ Відкрий Blender.
 
-When you open Blender, it starts with a splash screen. The splash screen of Blender v2.81 looks like this:
+Коли ти відкриєш Blender, він покаже початковий екран. Ось як виглядає початковий екран Blender v2.83.0:
 
-![Splash screen](images/splash-screen.png)
+![Початковий екран](images/splash-screen.png)
 
-For this tutorial we won't be needing the splash screen.
+Для цього уроку нам не потрібен буде цей початковий екран.
 
-+ Click to the right of the splash screen to make it disappear.
++ Клацни справа від початкового екрану, щоб він зник.
 
-In the centre, you'll see the 3D view. In this space you'll be positioning all the items that need to be displayed or rendered. You have three different items in the 3D view already. We will be looking at those later.
+Посередині ти побачиш 3D-вікно. В цьому просторі ти будеш розміщувати всі елементи, які необхідно відобразити або візуалізувати. В тебе вже є три різних елементи в 3D-вікні. Ми їх розглянемо пізніше.
 
-![3D view](images/3d-view.png)
+![3D-вікно](images/3d-view.png)
 
-In the 3D view, you can zoom in and out using the mouse wheel.
+У цьому 3D-вікні ти можеш наближатися і віддалятися за допомогою колеса мишки.
 
-+ Try to zoom in and out of the cube.
++ Спробуй наблизити та віддалити куб.
 
-![Zoom in and out](images/zoom-in-out.png)
+![Наближення та віддалення](images/zoom-in-out.png)
 
-You can rotate the whole scene by pressing the middle mouse button or the mouse wheel and rotating around.
+Ти можеш повернути сцену повністю, затиснувши середню кнопку мишки або її колесо і протягнуши вказівник.
 
-+ Try rotating your scene.
++ Спробуй повернути сцену.
 
-![Rotate the scene](images/rotate-scene.png)
+![Повертання сцени](images/rotate-scene.png)
