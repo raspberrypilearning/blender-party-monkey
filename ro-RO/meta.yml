@@ -2,7 +2,7 @@
 title: Maimuță petrecăreață
 hero_image: images/banner.png
 description: Creează, folosind Blender, un model 3D al unei maimuțe ce poartă o pălărie de petrecere
-theme: turquoise #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+theme: turquoise
 duration: 2
 listed: true
 ingredient: false
@@ -22,6 +22,8 @@ steps:
     title: De ce vei avea nevoie
   - 
     title: Mărirea și rotirea
+    completion:
+      - engaged
   - 
     title: Scena 3D
   - 
@@ -32,5 +34,7 @@ steps:
     title: Adaugă o maimuță
   - 
     title: Adaugă o pălărie
+    completion:
+      - internal
   - 
-    title: "Schimbă lumina"
+    title: 'Schimbă lumina'
