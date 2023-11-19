@@ -2,7 +2,7 @@
 title: Feest aap
 hero_image: images/banner.png
 description: Maak met Blender een 3D-model van een aap met een feestmuts
-theme: turquoise #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+theme: turquoise
 duration: 2
 listed: true
 ingredient: false
@@ -22,6 +22,8 @@ steps:
     title: Zooming and rotating
   - 
     title: The 3D scene
+    completion:
+      - engaged
   - 
     title: Rendering
   - 
@@ -32,5 +34,7 @@ steps:
     title: Add a hat
   - 
     title: Change the lighting
+    completion:
+      - internal
   - 
-    title: "Challenge: a new scene"
+    title: 'Challenge: a new scene'
