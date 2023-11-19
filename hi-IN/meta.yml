@@ -2,7 +2,7 @@
 title: पार्टी बंदर
 hero_image: images/banner.png
 description: Blender का उपयोग करके पार्टी टोपी पहनने वाले बंदर का 3D मॉडल बनाएँ।
-theme: फ़िरोज़ी #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+theme: फ़िरोज़ी
 duration: 2
 listed: true
 ingredient: false
@@ -22,6 +22,8 @@ steps:
     title: ज़ूम करना और रोटेट करना
   - 
     title: 3D दृश्य
+    completion:
+      - engaged
   - 
     title: प्रस्तुत करना
   - 
@@ -32,5 +34,7 @@ steps:
     title: एक टोपी जोड़ें
   - 
     title: प्रकाश व्यवस्था बदलें
+    completion:
+      - internal
   - 
-    title: "चुनौती: एक नया दृश्य"
+    title: 'चुनौती: एक नया दृश्य'
