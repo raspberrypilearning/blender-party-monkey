@@ -2,7 +2,7 @@
 title: Party Affe
 hero_image: images/banner.png
 description: Erstelle mit Blender ein 3D-Modell eines Affen, der einen Partyhut trägt
-theme: turquoise #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+theme: turquoise
 duration: 2
 listed: true
 ingredient: false
@@ -22,6 +22,8 @@ steps:
     title: Zoomen und drehen
   - 
     title: Die 3D-Szene
+    completion:
+      - engaged
   - 
     title: Rendern
   - 
@@ -32,5 +34,7 @@ steps:
     title: Füge einen Hut hinzu
   - 
     title: Beleuchtung ändern
+    completion:
+      - internal
   - 
-    title: "Herausforderung: Eine neue Szene"
+    title: 'Herausforderung: Eine neue Szene'
