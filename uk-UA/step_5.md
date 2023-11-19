@@ -1,16 +1,16 @@
-## Selecting and moving
+## Виділення та переміщення
 
-To select an object in Blender, use the left mouse button.
+Для вибору об’єкту в Blender використовуй ліву клавішу мишки.
 
-+ Select the cube with the left mouse button. You'll see an orange border around the cube.
++ Виділи куб лівою клавішею мишки. Ти побачиш оранжевий контур навколо куба.
 
-In Blender you can move objects by using the blue, green, and red handles: The blue handle to go up and down on the z-axis, the green handle to go left and right on the y-axis, and the red handle to go in and out on the x-axis. From Blender 2.8, you will need to click on the move gizmo from the list of icons on the left of your screen to make the handles appear.
+У Blender ти можеш переміщувати об’єкти за допомогою синьої, зеленої та червоної направляючих: синя направляюча дозволяє рухатися вгору і вниз по осі z, зелена — вліво та вправо по осі y, а червона — наближати та віддаляти по осі x. Починаючи з Blender 2.8, щоб направляючі з’явилися, тобі треба вибрати інструмент переміщення зі списку іконок в лівій частині екрану.
 
 ![Move gizmo](images/move-gizmo.png)
 
 ![Coloured handles](images/coloured-handles.png)
 
-+ Move the cube up by pressing the blue handle with the left mouse button and moving it up. When you press the blue handle, you'll see a blue line appear. Move the cube along the blue line.
++ Перемісти куб вгору, затиснувши синю направляючу лівою кнопкою мишки і пересунувши її вгору. When you press the blue handle, you'll see a blue line appear. Move the cube along the blue line.
 
 ![Move up](images/move-up.png)
 
