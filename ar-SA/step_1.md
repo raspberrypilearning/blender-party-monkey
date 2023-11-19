@@ -40,7 +40,7 @@
 
 استخدم الرابط الموجود في تذييل الصفحة للوصول إلى مستودع GitHub لهذا المشروع، الذي يحتوي على كل الموارد (ومنها مثال لمشروع مكتمل) في المجلد 'ar-Sa/resources'.
 
-إذا كنت تفضل ، يمكنك مشاهدة المورد بأكمله كفيديو تعليمي: <iframe width="560" height="315" src="https://www.youtube.com/embed/93ux_JliBew" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+إذا كنت تفضل ، يمكنك مشاهدة المورد بأكمله كفيديو تعليمي: <iframe width="560" height="315" src="https://www.youtube.com/embed/93ux_JliBew" frameborder="0" allowfullscreen></iframe> 
 
 ### الترخيص
 
