@@ -1,26 +1,26 @@
-## Add a monkey
+## Додай мавпочку
 
-We won't be needing the cube, so let's remove it.
+Нам не знадобиться куб, тому давай його видалимо.
 
-+ Select the cube with the left mouse button. An orange border should appear around the cube.
-+ Make sure your mouse is in the 3D view.
-+ Press <kbd>X</kbd> to delete the cube.
-+ You'll be asked whether it's OK to delete the object.
++ Вибери куб за допомогою лівої кнопки мишки. Навколо куба має з’явитися оранжевий контур.
++ Переконайся, що твоя мишка знаходиться у 3D-вікні.
++ Натисни <kbd>X</kbd> (на латинській розкладці), щоб видалити куб.
++ Тебе запитають, чи ти дійсно хочеш видалити цей об’єкт.
 
-![Delete object](images/delete-object.png)
+![Видалити об'єкт](images/delete-object.png)
 
-+ Select **Delete** or press <kbd>Enter</kbd>.
++ Вибери **Видалити** і натисни <kbd>Enter</kbd>.
 
-To add objects to the scene, you can use the **Add** dropdown menu.
+Щоб додати об’єкти до сцени, ти можеш використовувати спадне меню **Додати**.
 
-+ In the menu, go to the **Mesh** section and select **Monkey**.
++ В меню перейди в розділ **Сіть** і вибери **Мавпочка**.
 
-![Select monkey](images/select-monkey.png)
+![Вибрати мавпочку](images/select-monkey.png)
 
-A monkey appears in your scene.
+Мавпочка з’явиться на твоїй сцені.
 
-![A monkey appears](images/monkey-appears.png)
+![Мавпочка з’являється](images/monkey-appears.png)
 
-+ Position the monkey in front of the camera just like you did with the cube, so that we can see it after rendering. You can use the blue, green, and red handles again to move the monkey.
++ Розмісти мавпочку в полі зору камери, як ти робив(-ла) із кубом, щоб вона була видима після візуалізації. Ти можеш використовувати синю, зелену та червону направляючі, щоб перемістити мавпочку.
 
-![Position the camera](images/camera-monkey.png)
+![Розташувати камеру](images/camera-monkey.png)
