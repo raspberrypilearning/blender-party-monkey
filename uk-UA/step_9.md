@@ -1,8 +1,8 @@
-## Challenge: a new scene
+## Завдання: нова сцена
 
-+ Add more objects from the **Create** tab in the toolbox.
-+ Move the objects around, creating a different scene.
-+ Add a disco ball to the party scene.
-+ Add a rim to the party monkey's hat.
++ Додай більше об’єктів з пункту **Додати** на панелі інструментів.
++ Переміщуй об’єкти, щоб створювати різні сцени.
++ Додай дзеркальну кулю до сцени вечірки.
++ Додай обідок до шапочки мавпочки.
 
-![Challenge](images/challenge.png)
+![Завдання](images/challenge.png)
