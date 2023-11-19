@@ -1,35 +1,35 @@
-## Add a hat
+## Додай шапочку
 
-We can also add a hat. For this we will use a cone.
+Ми також можемо додати шапочку. Для цього ми будемо використовувати конус.
 
-+ Select **Cone** from the **Mesh** section.
++ Вибери **Конус** із розділу **Сіть**.
 
-A cone should appear in your scene. Now you have a monkey and a cone.
+На твоїй сцені має з’явитися конус. Тепер в тебе є мавпочка і конус.
 
-![Monkey and cone](images/monkey-and-cone.png)
+![Мавпочка та конус](images/monkey-and-cone.png)
 
-Now the cone needs to be positioned on top of the monkey.
+Тепер конус треба поставити на мавпочку.
 
-+ Rotate and zoom a bit towards the cone and the monkey to have a better view on both objects.
++ Трошки поверни та наблизь зображення до мавпочки та конуса, щоб краще бачити обидва об’єкти.
 
-![Zoom in on the monkey](images/zoom-monkey.png)
+![Наблизити мавпочку](images/zoom-monkey.png)
 
-+ Select the cone using the left mouse button. Again an orange border should appear around it.
++ Виділи конус за допомогою лівої кнопки мишки. Як і раніше, навколо нього має з’явитися оранжевий контур.
 
-+ Use the move gizmo and the blue, green, and red handles to move the cone on top of the monkey. You might have to rotate and zoom in or out to get a proper view.
++ Використовуй інструмент переміщення, а також синю, зелену та червону направляючі, щоб поставити конус на мавпочку. Тобі, можливо, треба буде повертати і наближати або віддаляти зображення, щоб добре все бачити.
 
-![Cone on the monkey](images/cone-monkey.png)
+![Конус на мавпочці](images/cone-monkey.png)
 
-+ Check from different angles if the the cone is positioned properly on top of the monkey.
++ Перевір з різних сторін чи конус розміщено зверху від мавпочки правильно.
 
-![Check cone](images/check-cone.png)
+![Перевірка конуса](images/check-cone.png)
 
-Now we need to see what it looks like.
+Тепер нам потрібно подивитися, як він виглядатиме.
 
-+ Render the image.
++ Візуалізуй зображення.
 
-![Render cone monkey](images/render-cone-monkey.png)
+![Візуалізація мавпочки з конусом](images/render-cone-monkey.png)
 
-The image shows that the monkey is not very well lit.
+Зображення показує, що мавпочку не дуже добре освітлено.
 
-+ Press <kbd>ESC</kbd> to exit the render view.
++ Натисни <kbd>ESC</kbd>, щоб вийти із вікна візуалізації.
