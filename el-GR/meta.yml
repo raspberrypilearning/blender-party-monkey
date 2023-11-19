@@ -2,7 +2,7 @@
 title: Party monkey
 hero_image: images/banner.png
 description: Δημιούργησε ένα τρισδιάστατο μοντέλο μιας μαϊμούς με ένα γιορτινό καπέλο χρησιμοποιώντας το Blender
-theme: turquoise #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+theme: turquoise
 duration: 2
 listed: true
 ingredient: false
@@ -22,6 +22,8 @@ steps:
     title: Μεγέθυνση και περιστροφή
   - 
     title: Η τρισδιάστατη σκηνή
+    completion:
+      - engaged
   - 
     title: Αποτύπωση
   - 
@@ -32,5 +34,7 @@ steps:
     title: Πρόσθεσε ένα καπέλο
   - 
     title: Άλλαξε το φωτισμό
+    completion:
+      - internal
   - 
-    title: "Πρόκληση: μια νέα σκηνή"
+    title: 'Πρόκληση: μια νέα σκηνή'
