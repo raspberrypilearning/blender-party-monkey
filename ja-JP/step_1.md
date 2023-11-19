@@ -40,7 +40,7 @@ Blenderを使ってパーティー用の帽子（ぼうし）をかぶったサ�
 
 フッターのリンクからこのプロジェクトのGitHubリポジトリにアクセスします。このリポジトリには、「ja-JP/resources」フォルダ内のすべての資料（完成したプロジェクト例を含む）があります。
 
-お好みで資料全体を動画で見ることもできます： <iframe width="560" height="315" src="https://www.youtube.com/embed/93ux_JliBew" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+お好みで資料全体を動画で見ることもできます： <iframe width="560" height="315" src="https://www.youtube.com/embed/93ux_JliBew" frameborder="0" allowfullscreen></iframe> 
 
 ### ライセンス
 
