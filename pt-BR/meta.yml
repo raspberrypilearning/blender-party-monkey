@@ -2,7 +2,7 @@
 title: Macaco de festa
 hero_image: imagens/banner.png
 description: Crie um modelo 3D de um macaco em um chapéu de festa usando o Blender
-theme: turquoise #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+theme: turquoise
 duration: 2
 listed: true
 ingredient: false
@@ -22,6 +22,8 @@ steps:
     title: Zoom e rotação
   - 
     title: A cena 3D
+    completion:
+      - engaged
   - 
     title: Renderização
   - 
@@ -32,5 +34,7 @@ steps:
     title: Adicione um chapéu
   - 
     title: Altere a Iluminação
+    completion:
+      - internal
   - 
-    title: "Desafio: uma nova cena"
+    title: 'Desafio: uma nova cena'
