@@ -6,42 +6,42 @@
 
 У Blender ти можеш переміщувати об’єкти за допомогою синьої, зеленої та червоної направляючих: синя направляюча дозволяє рухатися вгору і вниз по осі z, зелена — вліво та вправо по осі y, а червона — наближати та віддаляти по осі x. Починаючи з Blender 2.8, щоб направляючі з’явилися, тобі треба вибрати інструмент переміщення зі списку іконок в лівій частині екрану.
 
-![Move gizmo](images/move-gizmo.png)
+![Інструмент переміщення](images/move-gizmo.png)
 
-![Coloured handles](images/coloured-handles.png)
+![Кольорові направляючі](images/coloured-handles.png)
 
-+ Перемісти куб вгору, затиснувши синю направляючу лівою кнопкою мишки і пересунувши її вгору. When you press the blue handle, you'll see a blue line appear. Move the cube along the blue line.
++ Перемісти куб вгору, затиснувши синю направляючу лівою кнопкою мишки і пересунувши її вгору. Коли ти натиснеш на синю направляючу, то побачиш, як з’явиться синя лінія. Перемісти куб вздовж неї.
 
-![Move up](images/move-up.png)
+![Перемістити вгору](images/move-up.png)
 
-+ Move the cube to the right by pressing the green handle with the left mouse button and moving it to the right. When you press the green handle, you'll see a green line appear. Move the cube along the green line.
++ Перемісти куб вправо, затиснувши зелену направляючу лівою кнопкою мишки і пересунувши її вправо. Коли ти натиснеш на зелену направляючу, то побачиш, як з’явиться зелена лінія. Перемісти куб вздовж неї.
 
-![Move right](images/move-right.png)
+![Перемістити вправо](images/move-right.png)
 
-+ Move the cube in or out by pressing the red handle with the left mouse button and moving it back and forth. When you press the red handle, you'll see a red line appear. Move the cube along the red line.
++ Перемісти куб на себе або від себе, затиснувши червону направляючу лівою кнопкою мишки і пересунувши її вперед або назад. Коли ти натиснеш на червону направляючу, то побачиш, як з’явиться червона лінія. Перемісти куб вздовж неї.
 
-![Move in and out](images/move-in-and-out.png)
+![Наблизити та віддалити](images/move-in-and-out.png)
 
-+ Move the cube around your scene to a different position.
++ Переміщуй куб по сцені в різні місця.
 
-+ Go to the render view to see what it will look like. For example:
++ Перейди у вікно візуалізації, щоб побачити, як це виглядатиме. Наприклад:
 
-![Example render](images/example-render.png)
+![Приклад візуалізації](images/example-render.png)
 
-You might see nothing or only part of the cube. This means that the object is not (completely) in the camera's view.
+Ти можеш нічого не побачити, або побачити лише частину куба. Це означає, що об’єкт не знаходиться (повністю) в полі зору камери.
 
-+ Press <kbd>ESC</kbd> to get out of the render view.
++ Натисни <kbd>ESC</kbd>, щоб закрити вікно візуалізації.
 
-+ Move the 3D scene with the middle mouse button to behind the camera. For example:
++ Покрути 3D-сцену за допомогою середньої кнопки мишки, щоб стати позаду від камери. Наприклад:
 
-![Move behind camera](images/move-behind-camera.png)
+![Стати позаду камери](images/move-behind-camera.png)
 
-+ Move the cube using the blue, green, and red handles such that you can see the cube from behind the camera.
++ Переміщуй куб за допомогою синьої, зеленої та червоної направляючих, щоб ти побачив(-ла) куб в полі зору камери.
 
-![Cube behind camera](images/cube-behind-camera.png)
+![Куб перед камерою](images/cube-behind-camera.png)
 
-+ Render again to see how your image looks. You probably will see the same image as before.
++ Зроби візуалізацію знову, щоб перевірити, як виглядатиме зображення. Напевно, ти побачиш зображення так, як і бачив(-ла) раніше.
 
-![Same image](images/same-image.png)
+![Те саме зображення](images/same-image.png)
 
-+ Press <kbd>ESC</kbd> to exit the render view.
++ Натисни <kbd>ESC</kbd>, щоб закрити вікно візуалізації.
