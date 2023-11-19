@@ -1,10 +1,10 @@
-## Introduction
+## Вступ
 
-Create a 3D model of a monkey wearing a party hat using Blender.
+Створи 3D-модель мавпочки в шапці для вечірки за допомогою Blender.
 
-### What you will make
+### Що ти зробиш
 
-Here is how your finished piece will look:
+Ось як має виглядати твій завершений персонаж:
 
 <div class="responsive-embed responsive-embed--video">
   <iframe class="responsive-embed__iframe" src="https://sketchfab.com/models/11edaf9b8d1b4d62b5b30b28a292df71/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
@@ -12,36 +12,36 @@ Here is how your finished piece will look:
 
 ## \--- collapse \---
 
-## title: "What you will learn"
+## title: Чого ти навчишся
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+Цей проєкт охоплює елементи з наступних напрямків [Електронного навчального плану Raspberry Pi](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [Design basic 2D and 3D assets](https://curriculum.raspberrypi.org/design/creator/){:target="_blank"}
++ [Розробка простих ресурсів 2D та 3D](https://curriculum.raspberrypi.org/design/creator/){:target="_blank"}
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: "What you will need"
+## title: Що тобі знадобиться
 
-### Hardware
+### Обладнання
 
-+ A desktop or laptop computer capable of running the Blender software
++ Комп’ютер або ноутбук, здатний запускати програму Blender
 
-### Software
+### Програмне забезпечення
 
-+ [Blender](https://www.blender.org/download/){:target="_blank"} (v2.8 or newer)
++ [Blender](https://www.blender.org/download/){:target="_blank"} (v2.8 або новіша версія)
 
 \--- /collapse \---
 
-### Additional information for educators
+### Додаткова інформація для викладачів
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/blender-party-monkey/print){:target="_blank"}.
+Якщо вам потрібно роздрукувати цей проєкт, будь ласка, скористайтеся [версією для друку](https://projects.raspberrypi.org/en/projects/blender-party-monkey/print){:target="_blank"}.
 
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+Скористайтеся посиланням у нижньому колонтитулі, щоб отримати доступ до сховища GitHub для даного проєкту, яке містить усі ресурси (включаючи приклад готового проєкту) в папці "en/resources".
 
-If you prefer, you can watch the whole resource as a video tutorial: <iframe width="560" height="315" src="https://www.youtube.com/embed/93ux_JliBew" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+Якщо бажаєте, то можна переглянути увесь проєкт у вигляді відеоуроку: <iframe width="560" height="315" src="https://www.youtube.com/embed/93ux_JliBew" frameborder="0" allowfullscreen></iframe> 
 
-### License
+### Ліцензія
 
-***Party Monkey*** by 3Dami & b3d101, Peter Kemp, Tom Haines, Monique Dewanchand is licenced under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+***Мавпочка з вечірки (Party Monkey)*** від 3Dami & b3d101, Peter Kemp, Tom Haines, Monique Dewanchand має ліцензію [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
