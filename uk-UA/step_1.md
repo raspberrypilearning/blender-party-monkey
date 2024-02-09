@@ -42,7 +42,9 @@ title: Що тобі знадобиться
 
 Скористайтеся посиланням у нижньому колонтитулі, щоб отримати доступ до сховища GitHub для даного проєкту, яке містить усі ресурси (включаючи приклад готового проєкту) в папці "en/resources".
 
-Якщо бажаєте, то можна переглянути увесь проєкт у вигляді відеоуроку: <iframe width="560" height="315" src="https://www.youtube.com/embed/93ux_JliBew" frameborder="0" allowfullscreen></iframe> 
+Якщо бажаєте, то можна переглянути увесь проєкт у вигляді відеоуроку:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/93ux_JliBew" frameborder="0" allowfullscreen></iframe> 
 
 ### Ліцензія
 
