@@ -1,0 +1,31 @@
+---
+title: Мавпочка з вечірки
+hero_image: images/banner.png
+description: Створи 3D-модель мавпочки в шапці для вечірки за допомогою Blender
+theme: turquoise
+duration: 2
+listed: true
+ingredient: false
+copyedit: true
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+interests: art
+technologies: blender
+site_areas: projects
+hardware: ''
+software: blender
+version: 4.0.1
+last_tested: 2017-01-01
+steps:
+  - title: Вступ
+  - title: Наближення/віддалення та обертання
+  - title: 3D-сцена
+    completion:
+      - engaged
+  - title: Візуалізація
+  - title: Виділення та переміщення
+  - title: Додай мавпочку
+  - title: Додай шапочку
+  - title: Зміни освітлення
+    completion:
+      - internal
+  - title: 'Завдання: нова сцена'
