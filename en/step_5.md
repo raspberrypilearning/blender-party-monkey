@@ -1,18 +1,25 @@
 ## Selecting and moving
 
-To select an object in Blender, use the left mouse button.
+--- task ---
+Click the cube with the left mouse button to select it. You'll see an orange border around the cube.
+--- /task ---
 
-+ Select the cube with the left mouse button. You'll see an orange border around the cube.
+--- task ---
+Click on **Move** in the toolbar.
 
-In Blender you can move objects by using the blue, green, and red handles: The blue handle to go up and down on the z-axis, the green handle to go left and right on the y-axis, and the red handle to go in and out on the x-axis. From Blender 2.8, you will need to click on the move gizmo from the list of icons on the left of your screen to make the handles appear.
+![Move is a button on the task bar represented by arrows pointing up, down, left and right](images/move.png)
+--- /task ---
 
-![Move gizmo](images/move-gizmo.png)
+Blue, green and red arrows will appear.
 
-![Coloured handles](images/coloured-handles.png)
+![Blue arrow pointing upwards, green arrow pointing 90 degrees to it, and a red arrow pointing 90 degrees from that, so that all three dimensions are represented.](images/handles.png)
 
-+ Move the cube up by pressing the blue handle with the left mouse button and moving it up. When you press the blue handle, you'll see a blue line appear. Move the cube along the blue line.
+--- task ---
+Click on the blue arrow with the left mouse button. With the button still held down, move the mouse upwards along the blue line to move the cube.
 
 ![Move up](images/move-up.png)
+
+--- /task ---
 
 + Move the cube to the right by pressing the green handle with the left mouse button and moving it to the right. When you press the green handle, you'll see a green line appear. Move the cube along the green line.
 
