@@ -1,6 +1,6 @@
 ## Challenge
 
-![A 3d scene containing a monkey with a party hat on. There is a disco ball floating in the air and the party hat has a rim.](images/challenge.png)
+![A 3d scene containing a monkey with a party hat on. There is a disco ball floating in the air and the party hat has a rim.](images/challenge.png){:style="width:50%;"}
 
 --- task ---
 Add more objects from the **Create** tab in the toolbox.
