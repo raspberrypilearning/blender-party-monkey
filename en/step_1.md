@@ -3,7 +3,7 @@
 Create a 3D model of a monkey wearing a party hat using Blender.
 
 --- print-only ---
-![ALT TEXT](images/IMAGE.png)
+![A 3D model of a monkey wearing a party hat](images/monkey-done.png)
 --- /print-only ---
 
 --- no-print ---
@@ -13,10 +13,17 @@ Here is how your finished piece will look:
   <iframe class="responsive-embed__iframe" src="https://sketchfab.com/models/11edaf9b8d1b4d62b5b30b28a292df71/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
 
+--- collapse ---
+---
+title: Video tutorial
+---
 
 If you prefer, you can watch the whole resource as a video tutorial:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/93ux_JliBew" frameborder="0" allowfullscreen></iframe>
+
+--- /collapse ---
+
 --- /no-print ---
 
 ### You will need:

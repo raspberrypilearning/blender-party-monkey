@@ -1,8 +1,19 @@
-## Challenge: a new scene
+## Challenge
 
-+ Add more objects from the **Create** tab in the toolbox.
-+ Move the objects around, creating a different scene.
+![A 3d scene containing a monkey with a party hat on. There is a disco ball floating in the air and the party hat has a rim.](images/challenge.png)
+
+--- task ---
+Add more objects from the **Create** tab in the toolbox.
+--- /task ---
+
+--- task ---
+Move the objects around, creating a different scene.
+---/task ---
+
+--- task ---
 + Add a disco ball to the party scene.
-+ Add a rim to the party monkey's hat.
+--- /task ---
 
-![Challenge](images/challenge.png)
+--- task ---
++ Add a rim to the party monkey's hat.
+--- /task ---

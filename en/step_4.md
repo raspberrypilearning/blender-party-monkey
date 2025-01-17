@@ -3,7 +3,7 @@
 **Rendering** is the process of generating an image from a 3D model.
 
 --- task ---
-Render the scene by pressing <kbd>F12</kbd> (Windows) or <kbd>Fn + F12</kbd> (Mac).
+Render the scene by pressing the <kbd>F12</kbd> key.
 --- /task ---
 
 

@@ -12,43 +12,44 @@ Click on **Move** in the toolbar.
 
 Blue, green and red arrows will appear.
 
-![Blue arrow pointing upwards, green arrow pointing 90 degrees to it, and a red arrow pointing 90 degrees from that, so that all three dimensions are represented.](images/handles.png)
+![Blue arrow pointing upwards, green arrow pointing 90 degrees to it, and a red arrow pointing 90 degrees from that, so that all three dimensions are represented.](images/handles.png){:style="width:50%;"}
 
 --- task ---
 Click on the blue arrow with the left mouse button. With the mouse button still held down, move the mouse upwards along the blue line to move the cube.
 
-![Move up](images/move-up.png)
+![Click on the blue arrow to bring up a blue line.](images/move-up.png){:style="width:75%;"}
+--- /task ---
+
+--- task ---
+Try moving the cube using the green and red arrows too.
+--- /task ---
+
+--- task ---
+Render the scene by pressing the <kbd>F12</kbd> key to see what it will look like. For example:
+
+![An image of a cube where the cube is partly off the top of the screen](images/example-render.png)
+
+You might see nothing, or only part of the cube. This means that the object is not (completely) in the camera's view.
 
 --- /task ---
 
-+ Move the cube to the right by pressing the green handle with the left mouse button and moving it to the right. When you press the green handle, you'll see a green line appear. Move the cube along the green line.
+--- task ---
+Press <kbd>Esc</kbd> to get out of the render view.
+--- /task ---
 
-![Move right](images/move-right.png)
+--- task ---
+Move your point of view with the middle mouse button so that you are looking from behind the camera. 
 
-+ Move the cube in or out by pressing the red handle with the left mouse button and moving it back and forth. When you press the red handle, you'll see a red line appear. Move the cube along the red line.
+![The view of the cube from behind the camera object](images/move-behind-camera.png)
 
-![Move in and out](images/move-in-and-out.png)
+--- /task---
 
-+ Move the cube around your scene to a different position.
+--- task ---
+Move the cube using the blue, green, and red handles such that you can see the cube from behind the camera.
 
-+ Go to the render view to see what it will look like. For example:
+![Cube is within the view of what you can see from behind camera](images/cube-behind-camera.png)
+--- /task ---
 
-![Example render](images/example-render.png)
-
-You might see nothing or only part of the cube. This means that the object is not (completely) in the camera's view.
-
-+ Press <kbd>Esc</kbd> to get out of the render view.
-
-+ Move the 3D scene with the middle mouse button to behind the camera. For example:
-
-![Move behind camera](images/move-behind-camera.png)
-
-+ Move the cube using the blue, green, and red handles such that you can see the cube from behind the camera.
-
-![Cube behind camera](images/cube-behind-camera.png)
-
-+ Render again to see how your image looks. You probably will see the same image as before.
-
-![Same image](images/same-image.png)
-
-+ Press <kbd>ESC</kbd> to exit the render view.
+--- task ---
+Render the scene again to see how your image looks, then press <kbd>Esc</kbd> to exit the render view.
+--- /task ---
