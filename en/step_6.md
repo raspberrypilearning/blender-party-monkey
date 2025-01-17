@@ -23,7 +23,7 @@ Click on **Add** > **Mesh** > **Monkey**.
 
 A monkey appears in your scene.
 
-![A 3d model of a monkey in grey](images/monkey-appears.png)
+![A 3d model of a monkey in grey](images/monkey-appears.png){:style="width:50%;"}
 
 --- task ---
 Use the blue, green, and red handles to position the monkey in front of the camera.

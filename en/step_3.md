@@ -28,11 +28,10 @@ Select `View` > `Cameras` > `Active Camera` to see what the camera sees.
 
 ![Using the menu in Blender to select View > Cameras > Active Camera](images/camera-view.png)
 
-You will see a nice picture of the side of the cube.
-
-![The view you see automatically moves to show you what the camera sees.](images/behind-camera.png)
-
 --- /task ---
 
 
+You will see a nice picture of the side of the cube.
+
+![The view you see automatically moves to show you what the camera sees.](images/behind-camera.png)
 

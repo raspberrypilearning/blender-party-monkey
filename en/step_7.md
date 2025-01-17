@@ -6,7 +6,7 @@ Click on **Add** > **Mesh** > **Cone**.
 
 A cone should appear in your scene. 
 
-![A 3d model of a monkey and a cone](images/monkey-and-cone.png)
+![A 3d model of a monkey and a cone](images/monkey-and-cone.png){:style="width:50%;"}
 
 --- task ---
 Select the cone using the left mouse button. 

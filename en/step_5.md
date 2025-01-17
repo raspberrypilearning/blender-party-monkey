@@ -15,13 +15,13 @@ Blue, green and red arrows will appear.
 ![Blue arrow pointing upwards, green arrow pointing 90 degrees to it, and a red arrow pointing 90 degrees from that, so that all three dimensions are represented.](images/handles.png){:style="width:50%;"}
 
 --- task ---
-Click on the blue arrow with the left mouse button. With the mouse button still held down, move the mouse upwards along the blue line to move the cube.
+Click on the blue arrow with the left mouse button. With the mouse button still held down, move the mouse upwards along the blue line to move the cube up.
 
 ![Click on the blue arrow to bring up a blue line.](images/move-up.png){:style="width:75%;"}
 --- /task ---
 
 --- task ---
-Try moving the cube using the green and red arrows too.
+Try moving the cube in other directions using the green and red arrows.
 --- /task ---
 
 --- task ---
@@ -29,9 +29,10 @@ Render the scene by pressing the <kbd>F12</kbd> key to see what it will look lik
 
 ![An image of a cube where the cube is partly off the top of the screen](images/example-render.png)
 
+--- /task ---
+
 You might see nothing, or only part of the cube. This means that the object is not (completely) in the camera's view.
 
---- /task ---
 
 --- task ---
 Press <kbd>Esc</kbd> to get out of the render view.
@@ -45,7 +46,7 @@ Move your point of view with the middle mouse button so that you are looking fro
 --- /task---
 
 --- task ---
-Move the cube using the blue, green, and red handles such that you can see the cube from behind the camera.
+Move the cube using the blue, green, and red handles so that the camera is pointing at the cube.
 
 ![Cube is within the view of what you can see from behind camera](images/cube-behind-camera.png)
 --- /task ---

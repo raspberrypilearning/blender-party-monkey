@@ -28,4 +28,6 @@ steps:
 - title: Change the lighting
   completion:
   - internal
-- title: 'Challenge: a new scene'
+- title: Challenge
+  - challenge: true
+- title: What can I do now?

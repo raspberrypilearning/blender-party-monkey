@@ -11,9 +11,9 @@ Move the objects around, creating a different scene.
 ---/task ---
 
 --- task ---
-+ Add a disco ball to the party scene.
+Add a disco ball to the party scene.
 --- /task ---
 
 --- task ---
-+ Add a rim to the party monkey's hat.
+Add a rim to the party monkey's hat.
 --- /task ---
