@@ -29,5 +29,5 @@ steps:
   completion:
   - internal
 - title: Challenge
-  - challenge: true
+  challenge: true
 - title: What can I do now?
