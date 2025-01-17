@@ -15,7 +15,7 @@ Blue, green and red arrows will appear.
 ![Blue arrow pointing upwards, green arrow pointing 90 degrees to it, and a red arrow pointing 90 degrees from that, so that all three dimensions are represented.](images/handles.png)
 
 --- task ---
-Click on the blue arrow with the left mouse button. With the button still held down, move the mouse upwards along the blue line to move the cube.
+Click on the blue arrow with the left mouse button. With the mouse button still held down, move the mouse upwards along the blue line to move the cube.
 
 ![Move up](images/move-up.png)
 
@@ -37,7 +37,7 @@ Click on the blue arrow with the left mouse button. With the button still held d
 
 You might see nothing or only part of the cube. This means that the object is not (completely) in the camera's view.
 
-+ Press <kbd>ESC</kbd> to get out of the render view.
++ Press <kbd>Esc</kbd> to get out of the render view.
 
 + Move the 3D scene with the middle mouse button to behind the camera. For example:
 
