@@ -1,36 +1,37 @@
 ## The 3D scene
 
-In the 3D view you have your 3D scene, which looks a bit like what you might see in a computer game for example.
+The 3D view looks a bit like the environment in a 3D computer game. There are three main components in the 3D scene that you need to understand to get started.
 
-There are three main components in the 3D scene that we need to understand to get started.
+The cube in the centre is the **shape** which will be rendered and shown in the image.
 
-### A cube in the centre
+![A 3d cube shape in the centre of the scene.](images/centre-cube.png)
 
-This is what is going to be rendered and shown in the image.
+The scene has a **light source** which shows where light is shining from. 
 
-![Centre cube](images/centre-cube.png)
+![The light source is represented by a central dot and rings of dashes surrounding it. ](images/light-source.png)
 
-### A light source
+--- task ---
 
-By rotating the scene you can see the exact position of the light source.
+Rotate the scene until you see the top of the light source.
 
-![Light source](images/light-source.png)
+![The scene from the point of view above the light source](images/light-source-top.png)
 
-+ Rotate your scene until you see the top of the light source.
+--- /task ---
 
-![Light source top](images/light-source-top.png)
+The scene has a **camera** which points at the scene.
 
-### A camera
+![The camera is represented by a pyramid drawn with lines for edges.](images/camera.png)
 
-This is from where you will see your scene.
+--- task ---
 
-![Camera](images/camera.png)
+Select `View` > `Cameras` > `Active Camera` to see what the camera sees.
 
-+ Rotate your scene so that it is behind the camera. An easy way to do this is to press `0` in you number pad, or go to `View` > `Cameras` > `Active Cameras`.
+![Using the menu in Blender to select View > Cameras > Active Camera](images/camera-view.png)
 
-![active camera](images/camera-view.png)
+--- /task ---
 
-![Behind the camera](images/behind-camera.png)
 
 You will see a nice picture of the side of the cube.
+
+![The view you see automatically moves to show you what the camera sees.](images/behind-camera.png)
 

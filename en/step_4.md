@@ -1,11 +1,16 @@
 ## Rendering
 
-Rendering is the process of generating an image from a 3D model.
+**Rendering** is the process of generating an image from a 3D model.
 
-+ Render the scene by pressing <kbd>F12</kbd>. If you're working on a Mac, press <kbd>FN + F12</kbd>.
+--- task ---
+Render the scene by pressing the <kbd>F12</kbd> key.
+--- /task ---
 
-![Rendered image](images/render.png)
+
+![The finished image which is output, consisting of a 3d image of a cube with dark and lighter shading to show where light is coming from.](images/render.png)
 
 You can see that the top and right side of the cube are lit, but the left side is dark. That's because the light source is on the top right side of the cube.
 
-+ Press <kbd>ESC</kbd> to get out of the render view.
+--- task ---
+Press <kbd>Esc</kbd> to get out of the render view.
+--- /task ---

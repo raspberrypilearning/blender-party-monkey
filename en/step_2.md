@@ -1,27 +1,28 @@
 ## Zooming and rotating
 
-+ Open Blender.
 
-When you open Blender, it starts with a splash screen. The splash screen of Blender v2.81 looks like this:
+Open Blender and you will see a screen which looks similar this:
 
-![Splash screen](images/splash-screen.png)
+![Splash screen for Blender 4.3.2 with various options](images/splash-screen.png){:style="width:50%;"}
 
-For this tutorial we won't be needing the splash screen.
+--- task ---
+Click somewhere outside of this box to close it.
+--- /task --- 
 
-+ Click to the right of the splash screen to make it disappear.
+In the centre, you'll see the 3D view which is where you put all the items that need to be displayed or rendered. 
 
-In the centre, you'll see the 3D view. In this space you'll be positioning all the items that need to be displayed or rendered. You have three different items in the 3D view already. We will be looking at those later.
+![3D view containing a cube, a camera and a light source](images/3d-view.png){:style="width:50%;"}
 
-![3D view](images/3d-view.png)
+--- task ---
+Scroll the mouse wheel forwards and backwards to zoom in and out on the cube. On a laptop, use two fingers on the mousepad to pinch and zoom. 
 
-In the 3D view, you can zoom in and out using the mouse wheel.
+![A cube but a slightly more zoomed out version than the previous image](images/zoom-in-out.png){:style="width:50%;"}
 
-+ Try to zoom in and out of the cube.
+--- /task ---
 
-![Zoom in and out](images/zoom-in-out.png)
+--- task ---
+Press the middle mouse button/mouse wheel and move the mouse to rotate the scene. On a laptop, use two fingers on the mousepad to rotate the scene.
 
-You can rotate the whole scene by pressing the middle mouse button or the mouse wheel and rotating around.
+![The same cube but the angle you are looking at it has changed as the scene has been rotated.](images/rotate-scene.png){:style="width:50%;"}
 
-+ Try rotating your scene.
-
-![Rotate the scene](images/rotate-scene.png)
+--- /task ---

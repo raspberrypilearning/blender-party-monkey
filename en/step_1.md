@@ -1,9 +1,12 @@
-## Introduction
+## What you will make
 
 Create a 3D model of a monkey wearing a party hat using Blender.
 
-### What you will make
+--- print-only ---
+![A 3D model of a monkey wearing a party hat](images/monkey-done.png)
+--- /print-only ---
 
+--- no-print ---
 Here is how your finished piece will look:
 
 <div class="responsive-embed responsive-embed--video">
@@ -12,39 +15,19 @@ Here is how your finished piece will look:
 
 --- collapse ---
 ---
-title: "What you will learn"
+title: Video tutorial
 ---
-
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
-
-+ [Design basic 2D and 3D assets](https://curriculum.raspberrypi.org/design/creator/){:target="_blank"}
-
---- /collapse ---
-
---- collapse ---
----
-title: "What you will need"
----
-
-### Hardware
-
-+ A desktop or laptop computer capable of running the Blender software
-
-### Software
-
-+ [Blender](https://www.blender.org/download/){:target="_blank"} (v2.8 or newer)
-
---- /collapse ---
-
-### Additional information for educators
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/blender-party-monkey/print){:target="_blank"}.
-
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
 
 If you prefer, you can watch the whole resource as a video tutorial:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/93ux_JliBew" frameborder="0" allowfullscreen></iframe>
+
+--- /collapse ---
+
+--- /no-print ---
+
+### You will need:
+- [Blender](https://www.blender.org/download/){:target="_blank"} (v2.8 or newer)
 
 ### License
 
