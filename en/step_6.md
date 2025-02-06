@@ -9,9 +9,11 @@ Press <kbd>X</kbd> to delete the cube.
 --- /task ---
 
 You'll be asked whether it's OK to delete the object.
+
 --- task ---
 Click on **Delete**, or press <kbd>Enter</kbd>.
 ![A box popup asking whether you want to delete the object](images/delete-object.png)
+
 --- /task ---
 
 --- task ---
