@@ -1,6 +1,6 @@
 ## What can you do now?
 
-If you are following the [Blender](https://projects.raspberrypi.org/en/pathways/blender) pathway, you can move on to the [Snowman](https://projects.raspberrypi.org/en/projects/blender-snowman) project. In this project, you will create a 3D model of a snowman.
+If you are following the [Blender](https://projects.raspberrypi.org/en/pathways/blender-basics) pathway, you can move on to the [Snowman](https://projects.raspberrypi.org/en/projects/blender-snowman) project. In this project, you will create a 3D model of a snowman.
 
 --- print-only --- 
 

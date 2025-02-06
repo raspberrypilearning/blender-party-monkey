@@ -7,12 +7,11 @@ Select the cube with the left mouse button. An orange border should appear aroun
 --- task --- 
 Press <kbd>X</kbd> to delete the cube. 
 --- /task ---
---- task ---
+
 You'll be asked whether it's OK to delete the object.
-
-![A box popup asking whether you want to delete the object](images/delete-object.png)
-
+--- task ---
 Click on **Delete**, or press <kbd>Enter</kbd>.
+![A box popup asking whether you want to delete the object](images/delete-object.png)
 --- /task ---
 
 --- task ---
@@ -30,5 +29,5 @@ Use the blue, green, and red handles to position the monkey in front of the came
 
 ![Position the camera](images/camera-monkey.png)
 
-Remember, you can check what the camera sees with `View` > `Cameras` > `Active Camera`.
+Remember, you can check what the camera sees with `View` > `Cameras` > `Active Camera`, or by clicking on the camera icon.
 --- /task ---
