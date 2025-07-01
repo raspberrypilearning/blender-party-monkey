@@ -1,12 +1,12 @@
 ## Zooming and rotating
 
 
-Open Blender and you will see a screen which looks similar this:
+Open Blender and you will see a welcome screen.
 
 ![Splash screen for Blender 4.3.2 with various options](images/splash-screen.png){:style="width:50%;"}
 
 --- task ---
-Click somewhere outside of this box to close it.
+Press the <kbd>Esc</kbd> key to close it.
 --- /task --- 
 
 In the centre, you'll see the 3D view which is where you put all the items that need to be displayed or rendered. 

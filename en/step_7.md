@@ -1,4 +1,4 @@
-## Add a hat
+## Add a party hat
 
 --- task ---
 Click on **Add** > **Mesh** > **Cone**.
